@@ -1,0 +1,49 @@
+name: Daily Newsletter
+
+on:
+  workflow_dispatch:
+  schedule:
+    # déclenche toutes les heures (UTC), on filtre à 08:00 Europe/Paris dans le job
+    - cron: "0 * * * *"
+
+jobs:
+  run-newsletter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run only at 08:00 Europe/Paris
+        run: |
+          python - << 'EOF'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          now = datetime.now(ZoneInfo("Europe/Paris"))
+          if now.hour != 8:
+              print(f"Not 08:00 in Paris (now: {now}). Exiting.")
+              raise SystemExit(0)
+
+          print(f"It's 08:00 in Paris (now: {now}). Proceeding.")
+          EOF
+
+      - name: Generate and send newsletter
+        env:
+          NEWSLETTER_EMAIL: ${{ secrets.NEWSLETTER_EMAIL }}
+          NEWSLETTER_EMAIL_PASSWORD: ${{ secrets.NEWSLETTER_EMAIL_PASSWORD }}
+          NEWSLETTER_EMAIL_TO: ${{ secrets.NEWSLETTER_EMAIL_TO }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python main.py --send
+
