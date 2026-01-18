@@ -31,7 +31,10 @@ jobs:
           from zoneinfo import ZoneInfo
 
           now = datetime.now(ZoneInfo("Europe/Paris"))
-  
+          if now.hour != 8:
+            print(f"Not 08:00 in Paris (now: {now}). Exiting.")
+            raise SystemExit(0)
+
 
           print(f"It's 08:00 in Paris (now: {now}). Proceeding.")
           EOF
