@@ -102,4 +102,13 @@ def main():
 # Lancement
 # --------------------------------------------------
 if __name__ == "__main__":
-    main()
+    import sys
+    print(">>> DEBUG: calling send_newsletter()")
+
+    send_email = "--send" in sys.argv
+
+    md_path = main()  # ou run_pipeline(), selon ton nom de fonction
+
+    if send_email:
+        from send_mail import send_newsletter
+        send_newsletter(md_path)
