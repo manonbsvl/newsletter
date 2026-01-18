@@ -1,12 +1,14 @@
 from pathlib import Path
 from datetime import datetime
+import sys
 import yaml
-from summarize import summarize_article
+
 from openai import OpenAI
 
 from fetch import fetch_rss
 from filter import filter_articles
 from render import render_markdown
+from summarize import summarize_article
 
 
 # --------------------------------------------------
@@ -21,6 +23,10 @@ def load_sources_by_theme():
 
     return data["themes"]
 
+
+# --------------------------------------------------
+# Déduire le nom de la source depuis l’URL
+# --------------------------------------------------
 def infer_source_name(url: str) -> str:
     if "reuters" in url:
         return "Reuters"
@@ -44,14 +50,13 @@ def infer_source_name(url: str) -> str:
 
 
 # --------------------------------------------------
-# Point d’entrée principal
+# Pipeline principal
 # --------------------------------------------------
-def main():
+def main() -> str:
     sources_by_theme = load_sources_by_theme()
-
     articles = []
 
-    # --- FETCH ---
+    # ---------- FETCH ----------
     for theme, urls in sources_by_theme.items():
         for url in urls:
             try:
@@ -66,49 +71,40 @@ def main():
             except Exception as e:
                 print(f"⚠️  Erreur sur {url} : {e}")
 
-
-    # --- FILTER ---
+    # ---------- FILTER ----------
     grouped_articles = filter_articles(articles)
+
+    # ---------- SUMMARIZE ----------
     client = OpenAI()
 
-    for theme, articles in grouped_articles.items():
-        for article in articles:
+    for theme, theme_articles in grouped_articles.items():
+        for article in theme_articles:
             article.summary = summarize_article(
                 client,
                 article,
-                article.summary  # ou contenu complet si tu l’as
+                article.summary
             )
 
+    # ---------- RENDER ----------
+    md_path = render_markdown(grouped_articles)
 
-    # --- RENDER ---
-    markdown_output = render_markdown(grouped_articles)
-
-    # --- EXPORT ---
-    base_dir = Path(__file__).resolve().parent
-    output_dir = base_dir / "output"
-    output_dir.mkdir(exist_ok=True)
-
-    filename = datetime.now().strftime("brief_%Y-%m-%d.md")
-    output_path = output_dir / filename
-    output_path.write_text(markdown_output, encoding="utf-8")
-
-    # --- FEEDBACK ---
-    print(f"✅ Brief généré : {output_path}")
+    # ---------- FEEDBACK ----------
     print(f"📰 Articles fetchés : {len(articles)}")
-    print(f"🧠 Thèmes : {list(sources_by_theme.keys())}")
+    print(f"🧠 Thèmes : {list(grouped_articles.keys())}")
+
+    return md_path
 
 
 # --------------------------------------------------
 # Lancement
 # --------------------------------------------------
 if __name__ == "__main__":
-    import sys
-    print(">>> DEBUG: calling send_newsletter()")
-
     send_email = "--send" in sys.argv
 
-    md_path = main()  # ou run_pipeline(), selon ton nom de fonction
+    md_path = main()
 
     if send_email:
+        print(">>> DEBUG: calling send_newsletter()")
         from send_mail import send_newsletter
         send_newsletter(md_path)
+        print("✅ Newsletter envoyée !")
