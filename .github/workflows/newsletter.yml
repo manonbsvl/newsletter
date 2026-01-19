@@ -24,19 +24,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run only at 08:00 Europe/Paris
+      - name: Run only at 10:00 Europe/Paris
         run: |
           python - << 'EOF'
           from datetime import datetime
           from zoneinfo import ZoneInfo
 
           now = datetime.now(ZoneInfo("Europe/Paris"))
-          if now.hour != 8:
-            print(f"Not 08:00 in Paris (now: {now}). Exiting.")
+          if now.hour != 10:
+            print(f"Not 10:00 in Paris (now: {now}). Exiting.")
             raise SystemExit(1)
 
 
-          print(f"It's 08:00 in Paris (now: {now}). Proceeding.")
+          print(f"It's 10:00 in Paris (now: {now}). Proceeding.")
           EOF
 
       - name: Generate and send newsletter
