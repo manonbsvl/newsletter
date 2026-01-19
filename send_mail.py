@@ -16,7 +16,11 @@ load_dotenv()
 
 EMAIL_FROM = os.getenv("NEWSLETTER_EMAIL")
 EMAIL_PASSWORD = os.getenv("NEWSLETTER_EMAIL_PASSWORD")
-EMAIL_TO = os.getenv("NEWSLETTER_EMAIL_TO", EMAIL_FROM)
+EMAIL_TO = [
+    email.strip()
+    for email in os.getenv("NEWSLETTER_EMAIL_TO", EMAIL_FROM).split(",")
+    if email.strip()
+]
 
 SMTP_SERVER = os.getenv("SMTP_SERVER", "smtp.gmail.com")
 SMTP_PORT = int(os.getenv("SMTP_PORT", 587))
@@ -58,7 +62,7 @@ def send_newsletter(md_path: str):
 
     msg = MIMEMultipart("alternative")
     msg["From"] = EMAIL_FROM
-    msg["To"] = EMAIL_TO
+    msg["To"] = ", ".join(EMAIL_TO)
     msg["Subject"] = f"🗞️ Le Brief — {today}"
 
     # -------- Texte brut (fallback) --------
@@ -169,7 +173,7 @@ def send_newsletter(md_path: str):
         server.starttls()
         server.login(EMAIL_FROM, EMAIL_PASSWORD)
         server.send_message(msg)
-
+        print("📧 Destinataires utilisés :", EMAIL_TO)
     print("✅ Newsletter envoyée avec succès")
 
 
