@@ -2,6 +2,7 @@
 output/
 summaries/
 venv/
+.venv/
 __pycache__/
 cron.log
 
