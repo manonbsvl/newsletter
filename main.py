@@ -8,7 +8,7 @@ from scored import render_scored_articles
 from fetch import fetch_rss
 from filter import filter_articles
 from memory import load_sent_urls, save_sent_urls
-from render import render_markdown
+from render import render
 from fetched import render_fetched_articles
 from summarize import summarize_article
 
@@ -106,7 +106,7 @@ def main() -> str | None:
             )
 
     # ---------- RENDER JOURNAL ----------
-    md_path = render_markdown(grouped_articles)
+    md_path = render(grouped_articles)
 
     # ---------- MEMORY: marquer comme envoyés ----------
     new_urls = {

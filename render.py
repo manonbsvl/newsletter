@@ -1,76 +1,75 @@
 from datetime import date
 from models import Article
-from pathlib import Path
+import os
+from textwrap import shorten
 
 
-THEME_ORDER = [
-    "economie",
-    "politique",
-    "industrie",
-    "climat_environnement",
-]
-
-THEME_LABELS = {
-    "economie": "💼 Économie",
-    "politique": "🏛️ Politique",
-    "industrie": "🏭 Industrie",
-    "climat_environnement": "🌍 Climat & Environnement",
-}
-
-
-def render_markdown(grouped: dict[str, list[Article]]) -> str:
+def render(grouped: dict[str, list[Article]]) -> str:
     """
-    Génère un rendu type journal, écrit le Markdown dans output/,
-    et retourne le chemin du fichier.
+    Génère un Markdown avec HTML intégré (layout journal),
+    écrit le fichier dans output/ et retourne le chemin.
     """
 
-    lines: list[str] = []
+    EXCLUDED_TAGS = {"fr", "en"}
+    lines = []
 
-    # 🗞️ Titre du journal
-    today = date.today().strftime("%d %B %Y")
-    lines.append(f"# 🗞️ Le Brief — {today}\n")
-
-    # Parcours des rubriques dans un ordre fixe
-    for theme in THEME_ORDER:
-        articles = grouped.get(theme)
-        if not articles:
+    for theme, articles in grouped.items():
+        if theme in EXCLUDED_TAGS:
             continue
 
-        label = THEME_LABELS.get(theme, theme.replace("_", " ").title())
-        lines.append(f"## {label}\n")
+        # Titre de section
+        lines.append(f"## {theme.replace('_', ' ').capitalize()}\n")
 
-        for a in articles:
-            # Image si disponible
-            if getattr(a, "image_url", None):
-                lines.append(
-                    f'<img src="{a.image_url}" '
-                    f'style="width:100%; max-height:280px; '
-                    f'object-fit:cover; border-radius:6px; margin:12px 0;" />'
-                )
+        # On limite à 3 articles par catégorie
+        articles = articles[:3]
 
-            # Source
-            lines.append(f"**{a.source}**")
+        # Début table (email-safe)
+        lines.append('<table width="100%" cellpadding="0" cellspacing="0">')
+        lines.append("<tr>")
 
-            # Titre
-            lines.append(f"### [{a.title}]({a.url})")
+        for article in articles:
+            summary = article.summary or ""
+            image_html = ""
+            if article.image_url:
+                image_html = f"""
+<img src="{article.image_url}"
+     style="width:100%; max-height:160px; object-fit:cover;
+            border-radius:6px; margin-bottom:8px;" />
+"""
 
-            # Résumé
-            if a.summary:
-                lines.append(f"{a.summary}")
+            lines.append(
+                f"""
+<td width="33%" valign="top" style="padding: 8px;">
+  {image_html}
 
-            lines.append("")  # espace entre articles
+  <p style="margin: 4px 0;">
+    <a href="{article.url}">
+      <strong>{article.title}</strong>
+    </a>
+  </p>
 
-        lines.append("---\n")  # séparation entre rubriques
+  <p style="font-size: 12px; color: #666; margin: 0;">
+    {article.source}
+  </p>
+
+  <p style="font-size: 14px; margin-top: 6px;">
+    {summary}
+  </p>
+</td>
+"""
+            )
+
+        lines.append("</tr>")
+        lines.append("</table>\n")
 
     content = "\n".join(lines)
 
-    # 📁 Écriture du fichier
-    output_dir = Path("output")
-    output_dir.mkdir(exist_ok=True)
+    # Écriture fichier
+    os.makedirs("output", exist_ok=True)
+    path = f"output/brief_{date.today().isoformat()}.md"
 
-    path = output_dir / f"brief_{date.today().isoformat()}.md"
-    path.write_text(content, encoding="utf-8")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
 
     print(f"✅ Brief généré : {path}")
-
-    return str(path)
+    return path

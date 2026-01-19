@@ -11,3 +11,4 @@ class Article:
     published_at: Optional[datetime]
     tags: List[str] = field(default_factory=list)
     score: int = 0
+    image_url: Optional[str] = None
