@@ -3,10 +3,12 @@ from datetime import datetime
 import sys
 import yaml
 
+from filter import filter_articles,load_sent_urls, save_sent_urls
+
+
 from openai import OpenAI
 
 from fetch import fetch_rss
-from filter import filter_articles
 from render import render_markdown
 from summarize import summarize_article
 
@@ -71,6 +73,14 @@ def main() -> str:
             except Exception as e:
                 print(f"⚠️  Erreur sur {url} : {e}")
 
+    # --- MEMORY: remove already sent articles ---
+    sent_urls = load_sent_urls()
+
+    articles = [
+        a for a in articles
+        if a.url not in sent_urls
+    ]
+
     # ---------- FILTER ----------
     grouped_articles = filter_articles(articles)
 
@@ -87,6 +97,12 @@ def main() -> str:
 
     # ---------- RENDER ----------
     md_path = render_markdown(grouped_articles)
+
+    # --- MEMORY: mark articles as sent ---
+    new_urls = {a.url for articles in grouped_articles.values() for a in articles}
+    sent_urls.update(new_urls)
+    save_sent_urls(sent_urls)
+
 
     # ---------- FEEDBACK ----------
     print(f"📰 Articles fetchés : {len(articles)}")
