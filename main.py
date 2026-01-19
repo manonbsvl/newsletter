@@ -1,22 +1,22 @@
 from pathlib import Path
-from datetime import datetime
 import sys
 import yaml
 
-from filter import filter_articles,load_sent_urls, save_sent_urls
-
-
 from openai import OpenAI
+from scored import render_scored_articles
 
 from fetch import fetch_rss
+from filter import filter_articles
+from memory import load_sent_urls, save_sent_urls
 from render import render_markdown
+from fetched import render_fetched_articles
 from summarize import summarize_article
 
 
 # --------------------------------------------------
 # Charger les sources par thème depuis config/sources.yaml
 # --------------------------------------------------
-def load_sources_by_theme():
+def load_sources_by_theme() -> dict[str, list[str]]:
     base_dir = Path(__file__).resolve().parent
     sources_path = base_dir / "config" / "sources.yaml"
 
@@ -54,7 +54,7 @@ def infer_source_name(url: str) -> str:
 # --------------------------------------------------
 # Pipeline principal
 # --------------------------------------------------
-def main() -> str:
+def main() -> str | None:
     sources_by_theme = load_sources_by_theme()
     articles = []
 
@@ -71,23 +71,33 @@ def main() -> str:
                 articles.extend(fetched)
 
             except Exception as e:
-                print(f"⚠️  Erreur sur {url} : {e}")
+                print(f"⚠️ Erreur sur {url} : {e}")
 
-    # --- MEMORY: remove already sent articles ---
+    # ---------- LOG: articles fetchés (BRUTS) ----------
+    render_fetched_articles(articles)
+
+    # ---------- MEMORY: retirer les articles déjà envoyés ----------
     sent_urls = load_sent_urls()
+    articles = [a for a in articles if a.url not in sent_urls]
 
-    articles = [
-        a for a in articles
-        if a.url not in sent_urls
-    ]
+    if not articles:
+        print("ℹ️ Aucun nouvel article à envoyer aujourd’hui.")
+        return None
 
     # ---------- FILTER ----------
     grouped_articles = filter_articles(articles)
 
+    if not grouped_articles:
+        print("ℹ️ Aucun article retenu après filtrage.")
+        return None
+    
+    # ---------- LOG: articles scorés ----------
+    render_scored_articles(grouped_articles)
+
     # ---------- SUMMARIZE ----------
     client = OpenAI()
 
-    for theme, theme_articles in grouped_articles.items():
+    for theme_articles in grouped_articles.values():
         for article in theme_articles:
             article.summary = summarize_article(
                 client,
@@ -95,18 +105,22 @@ def main() -> str:
                 article.summary
             )
 
-    # ---------- RENDER ----------
+    # ---------- RENDER JOURNAL ----------
     md_path = render_markdown(grouped_articles)
 
-    # --- MEMORY: mark articles as sent ---
-    new_urls = {a.url for articles in grouped_articles.values() for a in articles}
+    # ---------- MEMORY: marquer comme envoyés ----------
+    new_urls = {
+        article.url
+        for articles in grouped_articles.values()
+        for article in articles
+    }
     sent_urls.update(new_urls)
     save_sent_urls(sent_urls)
 
-
     # ---------- FEEDBACK ----------
     print(f"📰 Articles fetchés : {len(articles)}")
-    print(f"🧠 Thèmes : {list(grouped_articles.keys())}")
+    print(f"🧠 Rubriques publiées : {list(grouped_articles.keys())}")
+    print(f"📄 Brief généré : {md_path}")
 
     return md_path
 
@@ -119,8 +133,8 @@ if __name__ == "__main__":
 
     md_path = main()
 
-    if send_email:
-        print(">>> DEBUG: calling send_newsletter()")
+    if send_email and md_path:
+        print(">>> Envoi de la newsletter")
         from send_mail import send_newsletter
         send_newsletter(md_path)
-        print("✅ Newsletter envoyée !")
+        print("✅ Newsletter envoyée")

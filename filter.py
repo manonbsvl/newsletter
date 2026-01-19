@@ -99,21 +99,3 @@ def filter_articles(articles: list[Article]) -> dict[str, list[Article]]:
 
 from pathlib import Path
 
-SENT_FILE = Path("data/sent_articles.txt")
-
-
-def load_sent_urls() -> set[str]:
-    if not SENT_FILE.exists():
-        return set()
-    return set(
-        line.strip()
-        for line in SENT_FILE.read_text(encoding="utf-8").splitlines()
-        if line.strip()
-    )
-
-
-def save_sent_urls(urls: set[str]):
-    SENT_FILE.write_text(
-        "\n".join(sorted(urls)),
-        encoding="utf-8"
-    )

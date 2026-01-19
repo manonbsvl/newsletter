@@ -1,40 +1,76 @@
 from datetime import date
 from models import Article
-import os
+from pathlib import Path
+
+
+THEME_ORDER = [
+    "economie",
+    "politique",
+    "industrie",
+    "climat_environnement",
+]
+
+THEME_LABELS = {
+    "economie": "💼 Économie",
+    "politique": "🏛️ Politique",
+    "industrie": "🏭 Industrie",
+    "climat_environnement": "🌍 Climat & Environnement",
+}
 
 
 def render_markdown(grouped: dict[str, list[Article]]) -> str:
     """
-    Génère le Markdown, l'écrit dans output/, et retourne le chemin du fichier.
+    Génère un rendu type journal, écrit le Markdown dans output/,
+    et retourne le chemin du fichier.
     """
-    lines = []
-    EXCLUDED_TAGS = {"fr", "en"}
 
-    for theme, articles in grouped.items():
-        if theme in EXCLUDED_TAGS:
+    lines: list[str] = []
+
+    # 🗞️ Titre du journal
+    today = date.today().strftime("%d %B %Y")
+    lines.append(f"# 🗞️ Le Brief — {today}\n")
+
+    # Parcours des rubriques dans un ordre fixe
+    for theme in THEME_ORDER:
+        articles = grouped.get(theme)
+        if not articles:
             continue
 
-        lines.append(f"## {theme.replace('_', ' ').capitalize()}\n")
+        label = THEME_LABELS.get(theme, theme.replace("_", " ").title())
+        lines.append(f"## {label}\n")
 
         for a in articles:
-            lines.append(
-                f"- **{a.source}** — [{a.title}]({a.url})\n"
-                f"  > {a.summary}"
-            )
+            # Image si disponible
+            if getattr(a, "image_url", None):
+                lines.append(
+                    f'<img src="{a.image_url}" '
+                    f'style="width:100%; max-height:280px; '
+                    f'object-fit:cover; border-radius:6px; margin:12px 0;" />'
+                )
 
-        lines.append("")
+            # Source
+            lines.append(f"**{a.source}**")
+
+            # Titre
+            lines.append(f"### [{a.title}]({a.url})")
+
+            # Résumé
+            if a.summary:
+                lines.append(f"{a.summary}")
+
+            lines.append("")  # espace entre articles
+
+        lines.append("---\n")  # séparation entre rubriques
 
     content = "\n".join(lines)
 
-    # 🔹 Chemin du fichier
-    os.makedirs("output", exist_ok=True)
-    path = f"output/brief_{date.today().isoformat()}.md"
+    # 📁 Écriture du fichier
+    output_dir = Path("output")
+    output_dir.mkdir(exist_ok=True)
 
-    # 🔹 Écriture du fichier
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(content)
+    path = output_dir / f"brief_{date.today().isoformat()}.md"
+    path.write_text(content, encoding="utf-8")
 
     print(f"✅ Brief généré : {path}")
 
-    # 🔹 RETOUR CRUCIAL
-    return path
+    return str(path)
