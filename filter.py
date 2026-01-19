@@ -7,8 +7,6 @@ from config import (
     MIN_SCORE, MAX_PER_THEME
 )
 
-
-
 def is_english(text: str) -> bool:
     english_markers = [
         "the", "and", "with", "from", "will",
@@ -61,7 +59,6 @@ def score_article(article: Article):
 
     text = normalize(article.title + " " + article.summary)
 
-    # bonus Reuters anglais
 
     for word, value in STRONG_KEYWORDS.items():
         if word in text:
@@ -99,3 +96,24 @@ def filter_articles(articles: list[Article]) -> dict[str, list[Article]]:
         )[:MAX_PER_THEME]
 
     return grouped
+
+from pathlib import Path
+
+SENT_FILE = Path("data/sent_articles.txt")
+
+
+def load_sent_urls() -> set[str]:
+    if not SENT_FILE.exists():
+        return set()
+    return set(
+        line.strip()
+        for line in SENT_FILE.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    )
+
+
+def save_sent_urls(urls: set[str]):
+    SENT_FILE.write_text(
+        "\n".join(sorted(urls)),
+        encoding="utf-8"
+    )
