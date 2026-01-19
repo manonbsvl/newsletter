@@ -15,11 +15,9 @@ SOURCE_SCORE = {
 
 # mots-clés forts
 STRONG_KEYWORDS = {
-    "crise": 2,
-    "rapport": 2,
-    "accord": 2,
-    "record": 1,
-    "scandale": 1
+    "crise": 1,
+    "rapport": 1,
+    "accord": 1
 }
 
 # blacklist bruit
