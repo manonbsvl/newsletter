@@ -31,7 +31,7 @@ jobs:
           from zoneinfo import ZoneInfo
 
           now = datetime.now(ZoneInfo("Europe/Paris"))
-          if now.hour != 6:
+          if now.hour != 22:
             print(f"Not 6:00 in Paris (now: {now}). Exiting.")
             raise SystemExit(1)
 
