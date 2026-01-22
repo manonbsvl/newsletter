@@ -2,10 +2,6 @@ name: Daily Newsletter
 
 on:
   workflow_dispatch:
-  schedule:
-    # déclenche toutes les heures (UTC), on filtre à 08:00 Europe/Paris dans le job
-    - cron: "0 * * * *"
-
 jobs:
   run-newsletter:
     runs-on: ubuntu-latest
