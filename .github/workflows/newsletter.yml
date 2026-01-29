@@ -1,7 +1,10 @@
 name: Daily Newsletter
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * *'  # 6h Paris (heure d'hiver) / 7h Paris (heure d'été)
+  workflow_dispatch:  # garde la possibilité de lancer manuellement
+
 jobs:
   run-newsletter:
     runs-on: ubuntu-latest
@@ -31,7 +34,6 @@ jobs:
             print(f"Not 6:00 in Paris (now: {now}). Exiting.")
             raise SystemExit(1)
 
-
           print(f"It's 6:00 in Paris (now: {now}). Proceeding.")
           EOF
 
@@ -43,4 +45,3 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python main.py --send
-
