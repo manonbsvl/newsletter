@@ -3,7 +3,7 @@ themes:
     - https://www.alternatives-economiques.fr/rss.xml
     - https://rss.politico.com/economy.xml
     - https://feeds.bbci.co.uk/news/business/rss.xml
-
+    - https://services.lesechos.fr/rss/les-echos-start-up.xml
 
   politique:
     - https://rss.politico.com/politics-news.xml
@@ -13,7 +13,14 @@ themes:
     - https://rss.politico.com/energy.xml
     - https://theconversation.com/fr/environnement/articles.atom
     - https://www.iea.org/feeds/news.xml
+    - https://www.actu-environnement.com/ae/rss.xml
 
+  automobile_industrie:
+    - https://www.autoactu.com/rss/
+    - https://www.usinenouvelle.com/rss/l-usine-auto/
+    - https://www.auto-infos.fr/rss.xml
 
-
-
+  automobile_environnement:
+    - https://insideevs.com/fr/rss/
+    - https://www.actu-environnement.com/ae/rss/transport.xml
+    - https://www.autorite-transports.fr/rss
