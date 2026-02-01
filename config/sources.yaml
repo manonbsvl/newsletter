@@ -96,6 +96,29 @@ themes:
     - https://rss.politico.com/energy.xml
 
   # ══════════════════════════════════════════════════════════
+  # TECH & INNOVATION INDUSTRIELLE
+  # ══════════════════════════════════════════════════════════
+  tech_industrie:
+    # Ingénierie & standards (très fiables)
+    - https://www.sae.org/rss/news                              # SAE International (ingénierie auto)
+    - https://spectrum.ieee.org/rss                             # IEEE Spectrum (ingénierie)
+
+    # Semi-conducteurs & électronique
+    - https://www.semiconductors.org/feed/                      # SIA (Semiconductor Industry Association)
+    - https://semiengineering.com/feed/                         # Semi Engineering
+
+    # Batteries & stockage
+    - https://www.greencarcongress.com/rss.xml                  # Green Car Congress (technique)
+    - https://www.batterynews.info/feed/                        # Battery News
+
+    # Presse tech de référence
+    - https://www.technologyreview.com/feed/                    # MIT Technology Review
+
+    # Recherche & innovation
+    - https://www.nature.com/subjects/engineering.rss           # Nature Engineering
+    - https://ec.europa.eu/commission/presscorner/api/rss?cl=en&tp=press_release&sr=digital # Commission EU Digital
+
+  # ══════════════════════════════════════════════════════════
   # VEILLE ACADÉMIQUE
   # ══════════════════════════════════════════════════════════
   academique:

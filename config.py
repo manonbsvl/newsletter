@@ -47,6 +47,14 @@ SOURCE_SCORE = {
     # Académique
     "ScienceDirect": 2,
     "SSRN": 2,
+
+    # Tech & ingénierie
+    "SAE": 3,
+    "IEEE": 3,
+    "MIT Technology Review": 2,
+    "Nature": 3,
+    "SIA": 2,
+    "Green Car Congress": 2,
 }
 
 # ──────────────────────────────────────────────────────────
@@ -269,6 +277,36 @@ THEMES = {
         "strategie", "strategy", "tendance", "trend",
         "prospective", "foresight", "scenario",
         "recommandation", "recommendation",
+    ],
+
+    "tech_industrie": [
+        # Semi-conducteurs
+        "semi conducteur", "semiconductor", "chip", "puce",
+        "wafer", "foundry", "tsmc", "intel", "samsung",
+        "chips act", "shortage", "penurie",
+
+        # Batteries & stockage
+        "batterie", "battery", "lithium", "solid state",
+        "cathode", "anode", "cell", "gigafactory",
+        "catl", "lg", "panasonic", "northvolt", "acc",
+
+        # Véhicule autonome & ADAS
+        "autonome", "autonomous", "self driving",
+        "adas", "lidar", "radar", "camera",
+        "waymo", "cruise", "mobileye",
+
+        # Connectivité
+        "connecte", "connected", "v2x", "ota",
+        "software defined vehicle", "sdv",
+
+        # IA & computing
+        "intelligence artificielle", "artificial intelligence",
+        "machine learning", "neural network",
+        "nvidia", "qualcomm",
+
+        # Standards & ingénierie
+        "standard", "norme", "regulation", "homologation",
+        "sae", "iso", "unece",
     ],
 
     "politique": [
