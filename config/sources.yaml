@@ -1,127 +1,141 @@
 themes:
   # ══════════════════════════════════════════════════════════
-  # AUTOMOBILE & INDUSTRIE (quotidien/hebdo)
+  # AUTOMOBILE & INDUSTRIE
   # ══════════════════════════════════════════════════════════
   auto_industrie:
-    # Presse spécialisée auto
-    - https://www.autonews.com/rss.xml                          # Automotive News
+    # Presse spécialisée de référence
     - https://europe.autonews.com/rss.xml                       # Automotive News Europe
-    - https://www.just-auto.com/rss                             # Just Auto (supply chain)
-    - https://www.autoactu.com/rss/                             # Auto Actu FR
-    - https://www.auto-infos.fr/rss.xml                         # Auto Infos FR
+    - https://www.just-auto.com/rss                             # Just Auto (GlobalData)
 
-    # Agences internationales - sections auto
-    - https://feeds.reuters.com/reuters/businessNews            # Reuters Business
-    - https://www.bloomberg.com/feeds/bbiz/sitemap_index.xml    # Bloomberg Business
-
-    # Électrification & batteries
-    - https://electrek.co/feed/                                 # Electrek
-    - https://insideevs.com/rss/news/all/                       # InsideEVs
-    - https://cleantechnica.com/feed/                           # CleanTechnica
-
-    # France/Europe contexte
+    # Presse économique française
     - https://services.lesechos.fr/rss/les-echos-industrie.xml  # Les Échos Industrie
     - https://www.latribune.fr/rss/rubriques/entreprises-finance/industrie.html
     - https://www.usinenouvelle.com/rss/                        # L'Usine Nouvelle
+
+    # Agences de presse
+    - https://feeds.reuters.com/reuters/businessNews            # Reuters Business
+
+    # Fédérations auto
+    - https://www.acea.auto/feed/                               # ACEA (constructeurs Europe)
+    - https://www.oica.net/feed/                                # OICA (constructeurs mondiaux)
+    - https://ccfa.fr/feed/                                     # CCFA (constructeurs France)
 
   # ══════════════════════════════════════════════════════════
   # ÉCONOMIE & FINANCE
   # ══════════════════════════════════════════════════════════
   economie:
-    # France
+    # Presse française de référence
     - https://www.alternatives-economiques.fr/rss.xml
     - https://services.lesechos.fr/rss/les-echos-economie.xml
     - https://services.lesechos.fr/rss/les-echos-finance-marches.xml
     - https://www.latribune.fr/rss/rubriques/economie.html
+    - https://www.lemonde.fr/economie/rss_full.xml              # Le Monde Économie
+
+    # Institutions françaises
     - https://www.banque-france.fr/fr/rss/publications.xml
+    - https://www.insee.fr/fr/statistiques/flux-rss             # INSEE
+    - https://www.strategie.gouv.fr/feed                        # France Stratégie
+    - https://www.cae-eco.fr/feed                               # Conseil d'Analyse Économique
 
     # International
     - https://rss.politico.com/economy.xml
     - https://feeds.bbci.co.uk/news/business/rss.xml
-    - https://www.ft.com/rss/home/europe
+    - https://www.ft.com/rss/home/europe                        # Financial Times
+
+    # Institutions internationales
+    - https://www.bis.org/doclist/all_rss.rss                   # BIS (Banque des Règlements Internationaux)
 
   # ══════════════════════════════════════════════════════════
   # GÉOPOLITIQUE & COMMERCE INTERNATIONAL
   # ══════════════════════════════════════════════════════════
   geopolitique:
-    # Think tanks géopolitique
+    # Think tanks français
     - https://www.ifri.org/fr/rss.xml                           # IFRI
+    - https://www.institutmontaigne.org/feed                    # Institut Montaigne
+    - https://tnova.fr/feed/                                    # Terra Nova
+
+    # Think tanks européens
     - https://www.bruegel.org/rss.xml                           # Bruegel
+    - https://www.chathamhouse.org/rss.xml                      # Chatham House
+    - https://ecfr.eu/feed/                                     # European Council on Foreign Relations
+
+    # Think tanks américains
     - https://www.csis.org/rss.xml                              # CSIS
     - https://carnegieendowment.org/rss/solr.xml                # Carnegie
-
-    # Commerce & politique industrielle
-    - https://rss.politico.com/trade.xml                        # Politico Trade
     - https://www.piie.com/rss.xml                              # Peterson Institute
+    - https://www.brookings.edu/feed/                           # Brookings
+    - https://www.cfr.org/rss.xml                               # Council on Foreign Relations
 
-    # Europe
+    # Commerce international
+    - https://rss.politico.com/trade.xml                        # Politico Trade
+    - https://www.wto.org/english/news_e/news_e.rss             # OMC / WTO
+    - https://unctad.org/rss.xml                                # CNUCED / UNCTAD
+
+    # Institutions européennes
     - https://www.consilium.europa.eu/fr/rss/
     - https://ec.europa.eu/commission/presscorner/api/rss?cl=fr&tp=press_release
 
   # ══════════════════════════════════════════════════════════
-  # ÉNERGIE & TRANSITION
+  # ÉNERGIE & CLIMAT
   # ══════════════════════════════════════════════════════════
   energie_climat:
-    # Institutions énergie
+    # Institutions internationales
     - https://www.iea.org/rss/news.xml                          # IEA
     - https://www.irena.org/rss/news                            # IRENA
-    - https://www.cre.fr/rss                                    # CRE France
+
+    # Institutions françaises
+    - https://www.cre.fr/rss                                    # CRE
+    - https://www.ademe.fr/feed/                                # ADEME
+    - https://www.rte-france.com/flux-rss                       # RTE
+
+    # Institutions européennes
+    - https://www.eea.europa.eu/rss                             # Agence Européenne Environnement
 
     # Presse spécialisée
     - https://www.actu-environnement.com/ae/rss/energie.xml
     - https://rss.politico.com/energy.xml
-    - https://www.carbonbrief.org/feed
 
   # ══════════════════════════════════════════════════════════
-  # VEILLE ACADÉMIQUE (working papers, études)
+  # VEILLE ACADÉMIQUE
   # ══════════════════════════════════════════════════════════
   academique:
-    # Working papers économie
+    # Working papers (très fiables)
     - https://voxeu.org/feed/recent                             # VoxEU (CEPR)
-    - https://papers.ssrn.com/sol3/Jeljour_results.cfm?form_name=journalBrowse&journal_id=1118396&Network=no&lim=false&npage=1&requesttype=rss
-    - https://www.nber.org/rss/new.xml                          # NBER Working Papers
+    - https://www.nber.org/rss/new.xml                          # NBER
+    - https://www.imf.org/en/Publications/RSS                   # FMI Working Papers
 
-    # Google Scholar alertes (à configurer manuellement)
-    # → "automotive industry geopolitics"
-    # → "electric vehicle supply chain"
-    # → "automotive trade policy"
-
-    # Revues (flux Atom/RSS si disponibles)
+    # Revues académiques peer-reviewed
     - https://www.sciencedirect.com/journal/energy-policy/rss
     - https://www.sciencedirect.com/journal/resources-policy/rss
     - https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice/rss
+    - https://www.sciencedirect.com/journal/world-development/rss
+    - https://www.sciencedirect.com/journal/journal-of-international-economics/rss
 
   # ══════════════════════════════════════════════════════════
-  # RAPPORTS & SYNTHÈSES (trimestriel)
+  # RAPPORTS & INSTITUTIONS
   # ══════════════════════════════════════════════════════════
   rapports:
     # Institutions internationales
     - https://www.iea.org/rss/publications.xml                  # IEA Publications
     - https://www.oecd.org/en/rss/all-news.xml                  # OCDE
     - https://www.imf.org/en/News/Rss?Category=Articles         # FMI
+    - https://www.worldbank.org/en/rss/news.xml                 # Banque Mondiale
+    - https://blogs.worldbank.org/feed                          # World Bank Blogs
 
-    # Consultants stratégie (blogs/insights)
-    - https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rss.xml
-    - https://www.bcg.com/rss.xml
-
-    # Stats & données
-    - https://www.oica.net/feed/                                # OICA (constructeurs)
-    - https://www.acea.auto/feed/                               # ACEA Europe
+    # Statistiques
+    - https://ec.europa.eu/eurostat/web/main/news/euro-indicators # Eurostat
 
   # ══════════════════════════════════════════════════════════
-  # POLITIQUE & INSTITUTIONS
+  # POLITIQUE & INSTITUTIONS FRANÇAISES
   # ══════════════════════════════════════════════════════════
   politique:
+    # Institutions françaises
     - https://www.vie-publique.fr/rss/a-la-une.rss
-    - https://www.ccomptes.fr/fr/rss.xml
+    - https://www.ccomptes.fr/fr/rss.xml                        # Cour des comptes
+    - https://www.conseil-etat.fr/rss                           # Conseil d'État
+    - https://www.autoritedelaconcurrence.fr/fr/rss.xml         # Autorité de la concurrence
+
+    # International
     - https://rss.politico.com/politics-news.xml
     - https://feeds.bbci.co.uk/news/politics/rss.xml
-
-  # ══════════════════════════════════════════════════════════
-  # TECH & INNOVATION
-  # ══════════════════════════════════════════════════════════
-  tech:
-    - https://services.lesechos.fr/rss/les-echos-start-up.xml
-    - https://www.maddyness.com/feed/
-    - https://siecledigital.fr/feed/
-    - https://www.frenchweb.fr/feed
+    - https://www.lemonde.fr/politique/rss_full.xml             # Le Monde Politique
