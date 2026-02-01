@@ -41,11 +41,15 @@ def score_to_priority(score: int) -> str:
 def theme_to_thematique(theme: str) -> str:
     """Mappe les thèmes RSS vers les thématiques Notion."""
     mapping = {
+        "automobile": "Automobile",
+        "industrie": "Industrie",
         "economie": "Économie",
-        "politique": "Géopolitique",
-        "climat_environnement": "Environnement",
-        "automobile_industrie": "Industrie Auto",
-        "automobile_environnement": "Électrification",
+        "geopolitique": "Géopolitique",
+        "energie_climat": "Énergie & Climat",
+        "tech": "Tech",
+        "academique": "Académique",
+        "rapports": "Rapports",
+        "politique": "Politique",
     }
     return mapping.get(theme, theme.replace("_", " ").title())
 
@@ -138,8 +142,8 @@ def _build_tags(tags: list, main_theme: str) -> list:
     # Ajouter les autres tags (thèmes + tags de l'article)
     for tag in tags:
         # Convertir les thèmes en labels lisibles
-        if tag in ["economie", "politique", "geopolitique", "energie_climat",
-                   "auto_industrie", "tech_industrie", "academique", "rapports"]:
+        if tag in ["automobile", "industrie", "economie", "geopolitique",
+                   "energie_climat", "tech", "academique", "rapports", "politique"]:
             tag_name = theme_to_thematique(tag)
         elif tag in ["fr", "en"]:
             tag_name = "🇫🇷 Français" if tag == "fr" else "🇬🇧 English"

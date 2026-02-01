@@ -1,24 +1,28 @@
 themes:
   # ══════════════════════════════════════════════════════════
-  # AUTOMOBILE & INDUSTRIE
+  # AUTOMOBILE
   # ══════════════════════════════════════════════════════════
-  auto_industrie:
-    # Presse spécialisée de référence
+  automobile:
+    # Presse spécialisée auto
     - https://europe.autonews.com/rss.xml                       # Automotive News Europe
     - https://www.just-auto.com/rss                             # Just Auto (GlobalData)
 
-    # Presse économique française
+    # Fédérations constructeurs
+    - https://www.acea.auto/feed/                               # ACEA (constructeurs Europe)
+    - https://www.oica.net/feed/                                # OICA (constructeurs mondiaux)
+    - https://ccfa.fr/feed/                                     # CCFA (constructeurs France)
+
+  # ══════════════════════════════════════════════════════════
+  # INDUSTRIE GÉNÉRALE
+  # ══════════════════════════════════════════════════════════
+  industrie:
+    # Presse industrielle française
     - https://services.lesechos.fr/rss/les-echos-industrie.xml  # Les Échos Industrie
     - https://www.latribune.fr/rss/rubriques/entreprises-finance/industrie.html
     - https://www.usinenouvelle.com/rss/                        # L'Usine Nouvelle
 
     # Agences de presse
     - https://feeds.reuters.com/reuters/businessNews            # Reuters Business
-
-    # Fédérations auto
-    - https://www.acea.auto/feed/                               # ACEA (constructeurs Europe)
-    - https://www.oica.net/feed/                                # OICA (constructeurs mondiaux)
-    - https://ccfa.fr/feed/                                     # CCFA (constructeurs France)
 
   # ══════════════════════════════════════════════════════════
   # ÉCONOMIE & FINANCE
@@ -43,7 +47,7 @@ themes:
     - https://www.ft.com/rss/home/europe                        # Financial Times
 
     # Institutions internationales
-    - https://www.bis.org/doclist/all_rss.rss                   # BIS (Banque des Règlements Internationaux)
+    - https://www.bis.org/doclist/all_rss.rss                   # BIS
 
   # ══════════════════════════════════════════════════════════
   # GÉOPOLITIQUE & COMMERCE INTERNATIONAL
@@ -57,14 +61,14 @@ themes:
     # Think tanks européens
     - https://www.bruegel.org/rss.xml                           # Bruegel
     - https://www.chathamhouse.org/rss.xml                      # Chatham House
-    - https://ecfr.eu/feed/                                     # European Council on Foreign Relations
+    - https://ecfr.eu/feed/                                     # ECFR
 
     # Think tanks américains
     - https://www.csis.org/rss.xml                              # CSIS
     - https://carnegieendowment.org/rss/solr.xml                # Carnegie
     - https://www.piie.com/rss.xml                              # Peterson Institute
     - https://www.brookings.edu/feed/                           # Brookings
-    - https://www.cfr.org/rss.xml                               # Council on Foreign Relations
+    - https://www.cfr.org/rss.xml                               # CFR
 
     # Commerce international
     - https://rss.politico.com/trade.xml                        # Politico Trade
@@ -96,38 +100,37 @@ themes:
     - https://rss.politico.com/energy.xml
 
   # ══════════════════════════════════════════════════════════
-  # TECH & INNOVATION INDUSTRIELLE
+  # TECH & INNOVATION
   # ══════════════════════════════════════════════════════════
-  tech_industrie:
-    # Ingénierie & standards (très fiables)
-    - https://www.sae.org/rss/news                              # SAE International (ingénierie auto)
-    - https://spectrum.ieee.org/rss                             # IEEE Spectrum (ingénierie)
+  tech:
+    # Ingénierie & standards
+    - https://www.sae.org/rss/news                              # SAE International
+    - https://spectrum.ieee.org/rss                             # IEEE Spectrum
 
-    # Semi-conducteurs & électronique
-    - https://www.semiconductors.org/feed/                      # SIA (Semiconductor Industry Association)
+    # Semi-conducteurs
+    - https://www.semiconductors.org/feed/                      # SIA
     - https://semiengineering.com/feed/                         # Semi Engineering
 
     # Batteries & stockage
-    - https://www.greencarcongress.com/rss.xml                  # Green Car Congress (technique)
-    - https://www.batterynews.info/feed/                        # Battery News
+    - https://www.greencarcongress.com/rss.xml                  # Green Car Congress
 
     # Presse tech de référence
     - https://www.technologyreview.com/feed/                    # MIT Technology Review
 
-    # Recherche & innovation
+    # Recherche
     - https://www.nature.com/subjects/engineering.rss           # Nature Engineering
-    - https://ec.europa.eu/commission/presscorner/api/rss?cl=en&tp=press_release&sr=digital # Commission EU Digital
+    - https://ec.europa.eu/commission/presscorner/api/rss?cl=en&tp=press_release&sr=digital
 
   # ══════════════════════════════════════════════════════════
   # VEILLE ACADÉMIQUE
   # ══════════════════════════════════════════════════════════
   academique:
-    # Working papers (très fiables)
+    # Working papers
     - https://voxeu.org/feed/recent                             # VoxEU (CEPR)
     - https://www.nber.org/rss/new.xml                          # NBER
     - https://www.imf.org/en/Publications/RSS                   # FMI Working Papers
 
-    # Revues académiques peer-reviewed
+    # Revues académiques
     - https://www.sciencedirect.com/journal/energy-policy/rss
     - https://www.sciencedirect.com/journal/resources-policy/rss
     - https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice/rss
@@ -145,11 +148,8 @@ themes:
     - https://www.worldbank.org/en/rss/news.xml                 # Banque Mondiale
     - https://blogs.worldbank.org/feed                          # World Bank Blogs
 
-    # Statistiques
-    - https://ec.europa.eu/eurostat/web/main/news/euro-indicators # Eurostat
-
   # ══════════════════════════════════════════════════════════
-  # POLITIQUE & INSTITUTIONS FRANÇAISES
+  # POLITIQUE & INSTITUTIONS
   # ══════════════════════════════════════════════════════════
   politique:
     # Institutions françaises
