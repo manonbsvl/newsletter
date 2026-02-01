@@ -129,20 +129,40 @@ def main(to_notion: bool = False, skip_summary: bool = False) -> dict | str | No
             print("❌ Connexion Notion échouée. Vérifie .env")
             return None
 
-        # Envoyer vers Notion
-        total_stats = {"success": 0, "failed": 0}
+        # Dédupliquer : un article peut être dans plusieurs thèmes
+        # On fusionne tous les thèmes dans les tags de l'article
+        unique_articles = {}  # url -> (article, [themes])
         for theme, theme_articles in grouped_articles.items():
-            print(f"\n📤 Envoi vers Notion: {theme} ({len(theme_articles)} articles)")
-            stats = send_articles_to_notion(theme_articles, theme)
-            total_stats["success"] += stats["success"]
-            total_stats["failed"] += stats["failed"]
+            for article in theme_articles:
+                if article.url not in unique_articles:
+                    unique_articles[article.url] = (article, [theme])
+                else:
+                    # Article déjà vu, ajouter le thème
+                    unique_articles[article.url][1].append(theme)
 
-        # Marquer comme envoyés seulement les succès
-        new_urls = {
-            article.url
-            for articles in grouped_articles.values()
-            for article in articles
-        }
+        # Fusionner les thèmes dans les tags de chaque article
+        deduplicated = []
+        for url, (article, themes) in unique_articles.items():
+            # Ajouter tous les thèmes aux tags (sans doublons)
+            for theme in themes:
+                if theme not in article.tags:
+                    article.tags.append(theme)
+            deduplicated.append((article, themes[0]))  # On garde le 1er thème comme principal
+
+        print(f"\n📊 {len(deduplicated)} articles uniques (dédupliqués)")
+
+        # Envoyer vers Notion
+        from notion import send_to_notion
+        total_stats = {"success": 0, "failed": 0}
+        for article, main_theme in deduplicated:
+            result = send_to_notion(article, main_theme)
+            if result:
+                total_stats["success"] += 1
+            else:
+                total_stats["failed"] += 1
+
+        # Marquer comme envoyés
+        new_urls = {url for url in unique_articles.keys()}
         sent_urls.update(new_urls)
         save_sent_urls(sent_urls)
 

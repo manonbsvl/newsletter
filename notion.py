@@ -115,16 +115,42 @@ def article_to_notion_payload(article: Article, theme: str) -> dict:
         },
 
         # Note: Thématiques est une Relation - on ne peut pas l'envoyer sans l'ID de la page liée
-        # On utilise Tags à la place pour stocker le thème
+        # On utilise Tags à la place pour stocker les thèmes
 
-        # Tags (Multi-select)
+        # Tags (Multi-select) - dédupliqués et convertis
         "Tags": {
-            "multi_select": [
-                {"name": theme_to_thematique(theme)},
-                *[{"name": tag} for tag in article.tags[:9]]  # +9 autres tags max
-            ]
+            "multi_select": _build_tags(article.tags, theme)
         },
     }
+
+
+def _build_tags(tags: list, main_theme: str) -> list:
+    """Construit la liste des tags pour Notion, sans doublons."""
+    seen = set()
+    result = []
+
+    # Ajouter le thème principal en premier
+    main_tag = theme_to_thematique(main_theme)
+    if main_tag not in seen:
+        result.append({"name": main_tag})
+        seen.add(main_tag)
+
+    # Ajouter les autres tags (thèmes + tags de l'article)
+    for tag in tags:
+        # Convertir les thèmes en labels lisibles
+        if tag in ["economie", "politique", "geopolitique", "energie_climat",
+                   "auto_industrie", "tech_industrie", "academique", "rapports"]:
+            tag_name = theme_to_thematique(tag)
+        elif tag in ["fr", "en"]:
+            tag_name = "🇫🇷 Français" if tag == "fr" else "🇬🇧 English"
+        else:
+            tag_name = tag
+
+        if tag_name not in seen and len(result) < 10:
+            result.append({"name": tag_name})
+            seen.add(tag_name)
+
+    return result
 
     # Date de publication (si disponible)
     if article.published_at:
