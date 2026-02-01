@@ -1,6 +1,10 @@
 from pathlib import Path
 import sys
 import yaml
+from dotenv import load_dotenv
+
+# Charger les variables d'environnement
+load_dotenv()
 
 from openai import OpenAI
 from scored import render_scored_articles
@@ -11,6 +15,7 @@ from memory import load_sent_urls, save_sent_urls
 from render import render
 from fetched import render_fetched_articles
 from summarize import summarize_article
+from notion import send_articles_to_notion, check_notion_connection
 
 
 # --------------------------------------------------
@@ -54,7 +59,19 @@ def infer_source_name(url: str) -> str:
 # --------------------------------------------------
 # Pipeline principal
 # --------------------------------------------------
-def main() -> str | None:
+def main(to_notion: bool = False, skip_summary: bool = False) -> dict | str | None:
+    """
+    Pipeline RSS → Filtrage → (Résumé) → Notion ou Markdown
+
+    Args:
+        to_notion: Si True, envoie vers Notion. Sinon, génère un Markdown.
+        skip_summary: Si True, saute le résumé OpenAI (plus rapide).
+
+    Returns:
+        - dict avec stats Notion si to_notion=True
+        - chemin du fichier .md sinon
+        - None si aucun article
+    """
     sources_by_theme = load_sources_by_theme()
     articles = []
 
@@ -81,7 +98,7 @@ def main() -> str | None:
     articles = [a for a in articles if a.url not in sent_urls]
 
     if not articles:
-        print("ℹ️ Aucun nouvel article à envoyer aujourd’hui.")
+        print("ℹ️ Aucun nouvel article à envoyer aujourd'hui.")
         return None
 
     # ---------- FILTER ----------
@@ -90,51 +107,90 @@ def main() -> str | None:
     if not grouped_articles:
         print("ℹ️ Aucun article retenu après filtrage.")
         return None
-    
+
     # ---------- LOG: articles scorés ----------
     render_scored_articles(grouped_articles)
 
-    # ---------- SUMMARIZE ----------
-    client = OpenAI()
+    # ---------- SUMMARIZE (optionnel) ----------
+    if not skip_summary:
+        client = OpenAI()
+        for theme_articles in grouped_articles.values():
+            for article in theme_articles:
+                article.summary = summarize_article(
+                    client,
+                    article,
+                    article.summary
+                )
 
-    for theme_articles in grouped_articles.values():
-        for article in theme_articles:
-            article.summary = summarize_article(
-                client,
-                article,
-                article.summary
-            )
+    # ---------- NOTION ou MARKDOWN ----------
+    if to_notion:
+        # Vérifier la connexion
+        if not check_notion_connection():
+            print("❌ Connexion Notion échouée. Vérifie .env")
+            return None
 
-    # ---------- RENDER JOURNAL ----------
-    md_path = render(grouped_articles)
+        # Envoyer vers Notion
+        total_stats = {"success": 0, "failed": 0}
+        for theme, theme_articles in grouped_articles.items():
+            print(f"\n📤 Envoi vers Notion: {theme} ({len(theme_articles)} articles)")
+            stats = send_articles_to_notion(theme_articles, theme)
+            total_stats["success"] += stats["success"]
+            total_stats["failed"] += stats["failed"]
 
-    # ---------- MEMORY: marquer comme envoyés ----------
-    new_urls = {
-        article.url
-        for articles in grouped_articles.values()
-        for article in articles
-    }
-    sent_urls.update(new_urls)
-    save_sent_urls(sent_urls)
+        # Marquer comme envoyés seulement les succès
+        new_urls = {
+            article.url
+            for articles in grouped_articles.values()
+            for article in articles
+        }
+        sent_urls.update(new_urls)
+        save_sent_urls(sent_urls)
 
-    # ---------- FEEDBACK ----------
-    print(f"📰 Articles fetchés : {len(articles)}")
-    print(f"🧠 Rubriques publiées : {list(grouped_articles.keys())}")
-    print(f"📄 Brief généré : {md_path}")
+        # Feedback
+        print(f"\n✅ Notion: {total_stats['success']} ajoutés, {total_stats['failed']} échoués")
+        print(f"🧠 Thèmes: {list(grouped_articles.keys())}")
 
-    return md_path
+        return total_stats
+
+    else:
+        # Mode classique: générer Markdown
+        md_path = render(grouped_articles)
+
+        new_urls = {
+            article.url
+            for articles in grouped_articles.values()
+            for article in articles
+        }
+        sent_urls.update(new_urls)
+        save_sent_urls(sent_urls)
+
+        print(f"📰 Articles fetchés : {len(articles)}")
+        print(f"🧠 Rubriques publiées : {list(grouped_articles.keys())}")
+        print(f"📄 Brief généré : {md_path}")
+
+        return md_path
 
 
 # --------------------------------------------------
 # Lancement
 # --------------------------------------------------
 if __name__ == "__main__":
+    to_notion = "--notion" in sys.argv
     send_email = "--send" in sys.argv
+    skip_summary = "--no-summary" in sys.argv
 
-    md_path = main()
+    # Mode Notion (par défaut maintenant)
+    if to_notion or (not send_email):
+        print("🚀 Mode Notion activé")
+        result = main(to_notion=True, skip_summary=skip_summary)
+        if result:
+            print(f"✅ Terminé: {result}")
 
-    if send_email and md_path:
-        print(">>> Envoi de la newsletter")
-        from send_mail import send_newsletter
-        send_newsletter(md_path)
-        print("✅ Newsletter envoyée")
+    # Mode email (legacy)
+    elif send_email:
+        print("📧 Mode Email (legacy)")
+        md_path = main(to_notion=False, skip_summary=skip_summary)
+        if md_path:
+            from send_mail import send_newsletter
+            send_newsletter(md_path)
+            print("✅ Newsletter envoyée")

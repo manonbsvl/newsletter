@@ -1,9 +1,9 @@
-name: Daily Newsletter
+name: Daily Newsletter → Notion
 
 on:
   schedule:
     - cron: '0 5 * * *'  # 6h Paris (heure d'hiver) / 7h Paris (heure d'été)
-  workflow_dispatch:  # garde la possibilité de lancer manuellement
+  workflow_dispatch:  # lancement manuel possible
 
 jobs:
   run-newsletter:
@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run only at 6:00 Europe/Paris
+      - name: Check Paris time (6h)
         run: |
           python - << 'EOF'
           from datetime import datetime
@@ -37,11 +37,26 @@ jobs:
           print(f"It's 6:00 in Paris (now: {now}). Proceeding.")
           EOF
 
-      - name: Generate and send newsletter
+      - name: Fetch RSS & Send to Notion
         env:
-          NEWSLETTER_EMAIL: ${{ secrets.NEWSLETTER_EMAIL }}
-          NEWSLETTER_EMAIL_PASSWORD: ${{ secrets.NEWSLETTER_EMAIL_PASSWORD }}
-          NEWSLETTER_EMAIL_TO: ${{ secrets.NEWSLETTER_EMAIL_TO }}
+          # Notion
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          # OpenAI (pour les résumés)
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python main.py --send
+          python main.py
+
+      - name: Commit memory file
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/sent_articles.txt
+          git diff --staged --quiet || git commit -m "📝 Update sent articles memory [skip ci]"
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "✅ Newsletter workflow completed"
+          echo "📅 $(date)"

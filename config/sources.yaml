@@ -1,26 +1,127 @@
 themes:
+  # ══════════════════════════════════════════════════════════
+  # AUTOMOBILE & INDUSTRIE (quotidien/hebdo)
+  # ══════════════════════════════════════════════════════════
+  auto_industrie:
+    # Presse spécialisée auto
+    - https://www.autonews.com/rss.xml                          # Automotive News
+    - https://europe.autonews.com/rss.xml                       # Automotive News Europe
+    - https://www.just-auto.com/rss                             # Just Auto (supply chain)
+    - https://www.autoactu.com/rss/                             # Auto Actu FR
+    - https://www.auto-infos.fr/rss.xml                         # Auto Infos FR
+
+    # Agences internationales - sections auto
+    - https://feeds.reuters.com/reuters/businessNews            # Reuters Business
+    - https://www.bloomberg.com/feeds/bbiz/sitemap_index.xml    # Bloomberg Business
+
+    # Électrification & batteries
+    - https://electrek.co/feed/                                 # Electrek
+    - https://insideevs.com/rss/news/all/                       # InsideEVs
+    - https://cleantechnica.com/feed/                           # CleanTechnica
+
+    # France/Europe contexte
+    - https://services.lesechos.fr/rss/les-echos-industrie.xml  # Les Échos Industrie
+    - https://www.latribune.fr/rss/rubriques/entreprises-finance/industrie.html
+    - https://www.usinenouvelle.com/rss/                        # L'Usine Nouvelle
+
+  # ══════════════════════════════════════════════════════════
+  # ÉCONOMIE & FINANCE
+  # ══════════════════════════════════════════════════════════
   economie:
+    # France
     - https://www.alternatives-economiques.fr/rss.xml
+    - https://services.lesechos.fr/rss/les-echos-economie.xml
+    - https://services.lesechos.fr/rss/les-echos-finance-marches.xml
+    - https://www.latribune.fr/rss/rubriques/economie.html
+    - https://www.banque-france.fr/fr/rss/publications.xml
+
+    # International
     - https://rss.politico.com/economy.xml
     - https://feeds.bbci.co.uk/news/business/rss.xml
-    - https://services.lesechos.fr/rss/les-echos-start-up.xml
+    - https://www.ft.com/rss/home/europe
 
+  # ══════════════════════════════════════════════════════════
+  # GÉOPOLITIQUE & COMMERCE INTERNATIONAL
+  # ══════════════════════════════════════════════════════════
+  geopolitique:
+    # Think tanks géopolitique
+    - https://www.ifri.org/fr/rss.xml                           # IFRI
+    - https://www.bruegel.org/rss.xml                           # Bruegel
+    - https://www.csis.org/rss.xml                              # CSIS
+    - https://carnegieendowment.org/rss/solr.xml                # Carnegie
+
+    # Commerce & politique industrielle
+    - https://rss.politico.com/trade.xml                        # Politico Trade
+    - https://www.piie.com/rss.xml                              # Peterson Institute
+
+    # Europe
+    - https://www.consilium.europa.eu/fr/rss/
+    - https://ec.europa.eu/commission/presscorner/api/rss?cl=fr&tp=press_release
+
+  # ══════════════════════════════════════════════════════════
+  # ÉNERGIE & TRANSITION
+  # ══════════════════════════════════════════════════════════
+  energie_climat:
+    # Institutions énergie
+    - https://www.iea.org/rss/news.xml                          # IEA
+    - https://www.irena.org/rss/news                            # IRENA
+    - https://www.cre.fr/rss                                    # CRE France
+
+    # Presse spécialisée
+    - https://www.actu-environnement.com/ae/rss/energie.xml
+    - https://rss.politico.com/energy.xml
+    - https://www.carbonbrief.org/feed
+
+  # ══════════════════════════════════════════════════════════
+  # VEILLE ACADÉMIQUE (working papers, études)
+  # ══════════════════════════════════════════════════════════
+  academique:
+    # Working papers économie
+    - https://voxeu.org/feed/recent                             # VoxEU (CEPR)
+    - https://papers.ssrn.com/sol3/Jeljour_results.cfm?form_name=journalBrowse&journal_id=1118396&Network=no&lim=false&npage=1&requesttype=rss
+    - https://www.nber.org/rss/new.xml                          # NBER Working Papers
+
+    # Google Scholar alertes (à configurer manuellement)
+    # → "automotive industry geopolitics"
+    # → "electric vehicle supply chain"
+    # → "automotive trade policy"
+
+    # Revues (flux Atom/RSS si disponibles)
+    - https://www.sciencedirect.com/journal/energy-policy/rss
+    - https://www.sciencedirect.com/journal/resources-policy/rss
+    - https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice/rss
+
+  # ══════════════════════════════════════════════════════════
+  # RAPPORTS & SYNTHÈSES (trimestriel)
+  # ══════════════════════════════════════════════════════════
+  rapports:
+    # Institutions internationales
+    - https://www.iea.org/rss/publications.xml                  # IEA Publications
+    - https://www.oecd.org/en/rss/all-news.xml                  # OCDE
+    - https://www.imf.org/en/News/Rss?Category=Articles         # FMI
+
+    # Consultants stratégie (blogs/insights)
+    - https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/rss.xml
+    - https://www.bcg.com/rss.xml
+
+    # Stats & données
+    - https://www.oica.net/feed/                                # OICA (constructeurs)
+    - https://www.acea.auto/feed/                               # ACEA Europe
+
+  # ══════════════════════════════════════════════════════════
+  # POLITIQUE & INSTITUTIONS
+  # ══════════════════════════════════════════════════════════
   politique:
+    - https://www.vie-publique.fr/rss/a-la-une.rss
+    - https://www.ccomptes.fr/fr/rss.xml
     - https://rss.politico.com/politics-news.xml
     - https://feeds.bbci.co.uk/news/politics/rss.xml
 
-  climat_environnement:
-    - https://rss.politico.com/energy.xml
-    - https://theconversation.com/fr/environnement/articles.atom
-    - https://www.iea.org/feeds/news.xml
-    - https://www.actu-environnement.com/ae/rss.xml
-
-  automobile_industrie:
-    - https://www.autoactu.com/rss/
-    - https://www.usinenouvelle.com/rss/l-usine-auto/
-    - https://www.auto-infos.fr/rss.xml
-
-  automobile_environnement:
-    - https://insideevs.com/fr/rss/
-    - https://www.actu-environnement.com/ae/rss/transport.xml
-    - https://www.autorite-transports.fr/rss
+  # ══════════════════════════════════════════════════════════
+  # TECH & INNOVATION
+  # ══════════════════════════════════════════════════════════
+  tech:
+    - https://services.lesechos.fr/rss/les-echos-start-up.xml
+    - https://www.maddyness.com/feed/
+    - https://siecledigital.fr/feed/
+    - https://www.frenchweb.fr/feed
