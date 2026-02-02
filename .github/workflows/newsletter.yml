@@ -5,6 +5,9 @@ on:
     - cron: '0 10 * * *'  # 11h Paris (heure d'hiver) / 12h Paris (heure d'été)
   workflow_dispatch:  # lancement manuel possible
 
+permissions:
+  contents: write
+
 jobs:
   run-newsletter:
     runs-on: ubuntu-latest
