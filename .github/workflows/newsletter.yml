@@ -2,7 +2,7 @@ name: Daily Newsletter → Notion
 
 on:
   schedule:
-    - cron: '0 5 * * *'  # 6h Paris (heure d'hiver) / 7h Paris (heure d'été)
+    - cron: '0 6 * * *'  # 7h Paris (heure d'hiver) / 8h Paris (heure d'été)
   workflow_dispatch:  # lancement manuel possible
 
 jobs:
@@ -22,20 +22,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: Check Paris time (6h)
-        run: |
-          python - << 'EOF'
-          from datetime import datetime
-          from zoneinfo import ZoneInfo
-
-          now = datetime.now(ZoneInfo("Europe/Paris"))
-          if now.hour != 6:
-            print(f"Not 6:00 in Paris (now: {now}). Exiting.")
-            raise SystemExit(1)
-
-          print(f"It's 6:00 in Paris (now: {now}). Proceeding.")
-          EOF
 
       - name: Fetch RSS & Send to Notion
         env:
