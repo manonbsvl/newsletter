@@ -11,7 +11,7 @@ from models import Article
 
 # Configuration Notion
 NOTION_API_KEY = os.getenv("NOTION_API_KEY")
-NOTION_DATABASE_ID = os.getenv("NOTION_DATABASE_ID")  # ID de ta base "Sources"
+NOTION_DATABASE_ID = os.getenv("NOTION_DATABASE_ID")
 
 NOTION_API_URL = "https://api.notion.com/v1/pages"
 NOTION_VERSION = "2022-06-28"
@@ -56,7 +56,6 @@ def theme_to_thematique(theme: str) -> str:
 
 def source_to_editeur(source: str) -> str:
     """Normalise le nom du média pour Notion."""
-    # Mapping des sources connues
     mapping = {
         "alternatives-economiques": "Alternatives Économiques",
         "politico": "Politico",
@@ -71,61 +70,12 @@ def source_to_editeur(source: str) -> str:
         "insideevs": "InsideEVs",
         "autorite-transports": "ART",
     }
-    
+
     source_lower = source.lower()
     for key, value in mapping.items():
         if key in source_lower:
             return value
     return source
-
-
-def article_to_notion_payload(article: Article, theme: str) -> dict:
-    """Convertit un Article en payload Notion."""
-
-    properties = {
-        # Nom (Title - propriété principale de la page)
-        "Nom": {
-            "title": [{"text": {"content": article.title[:2000]}}]
-        },
-
-        # URL
-        "URL": {
-            "url": article.url
-        },
-
-        # Type (Select)
-        "Type": {
-            "select": {"name": "Article de presse"}
-        },
-
-        # Statut (Multi-select dans ta base)
-        "Statut": {
-            "multi_select": [{"name": "📥 À lire"}]
-        },
-
-        # Priorité (Select) — basé sur le score
-        "Priorité": {
-            "select": {"name": score_to_priority(article.score)}
-        },
-
-        # Éditeur/Média (Select)
-        "Éditeur/Média": {
-            "select": {"name": source_to_editeur(article.source)}
-        },
-
-        # Résumé rapide (Text)
-        "Résumé rapide": {
-            "rich_text": [{"text": {"content": article.summary[:2000] if article.summary else ""}}]
-        },
-
-        # Note: Thématiques est une Relation - on ne peut pas l'envoyer sans l'ID de la page liée
-        # On utilise Tags à la place pour stocker les thèmes
-
-        # Tags (Multi-select) - dédupliqués et convertis
-        "Tags": {
-            "multi_select": _build_tags(article.tags, theme)
-        },
-    }
 
 
 def _build_tags(tags: list, main_theme: str) -> list:
@@ -156,6 +106,52 @@ def _build_tags(tags: list, main_theme: str) -> list:
 
     return result
 
+
+def article_to_notion_payload(article: Article, theme: str) -> dict:
+    """Convertit un Article en payload Notion."""
+
+    properties = {
+        # Nom (Title - propriété principale de la page)
+        "Nom": {
+            "title": [{"text": {"content": article.title[:2000]}}]
+        },
+
+        # URL
+        "URL": {
+            "url": article.url
+        },
+
+        # Type (Select)
+        "Type": {
+            "select": {"name": "Article de presse"}
+        },
+
+        # Statut (Multi-select)
+        "Statut": {
+            "multi_select": [{"name": "📥 À lire"}]
+        },
+
+        # Priorité (Select) — basé sur le score
+        "Priorité": {
+            "select": {"name": score_to_priority(article.score)}
+        },
+
+        # Éditeur/Média (Select)
+        "Éditeur/Média": {
+            "select": {"name": source_to_editeur(article.source)}
+        },
+
+        # Résumé rapide (Text)
+        "Résumé rapide": {
+            "rich_text": [{"text": {"content": article.summary[:2000] if article.summary else ""}}]
+        },
+
+        # Tags (Multi-select)
+        "Tags": {
+            "multi_select": _build_tags(article.tags, theme)
+        },
+    }
+
     # Date de publication (si disponible)
     if article.published_at:
         properties["Date de publication"] = {
@@ -176,16 +172,16 @@ def send_to_notion(article: Article, theme: str) -> Optional[str]:
     if not NOTION_API_KEY or not NOTION_DATABASE_ID:
         print("⚠️  NOTION_API_KEY ou NOTION_DATABASE_ID non configuré")
         return None
-    
+
     payload = article_to_notion_payload(article, theme)
-    
+
     try:
         response = requests.post(
             NOTION_API_URL,
             headers=get_headers(),
             json=payload
         )
-        
+
         if response.status_code == 200:
             page_id = response.json().get("id")
             print(f"✅ Notion: {article.title[:50]}...")
@@ -193,7 +189,7 @@ def send_to_notion(article: Article, theme: str) -> Optional[str]:
         else:
             print(f"❌ Notion error {response.status_code}: {response.text[:200]}")
             return None
-            
+
     except Exception as e:
         print(f"❌ Notion exception: {e}")
         return None
@@ -205,14 +201,14 @@ def send_articles_to_notion(articles: List[Article], theme: str) -> dict:
     Retourne un résumé {success: int, failed: int}.
     """
     results = {"success": 0, "failed": 0}
-    
+
     for article in articles:
         page_id = send_to_notion(article, theme)
         if page_id:
             results["success"] += 1
         else:
             results["failed"] += 1
-    
+
     return results
 
 
@@ -220,7 +216,7 @@ def check_notion_connection() -> bool:
     """Vérifie que la connexion Notion fonctionne."""
     if not NOTION_API_KEY or not NOTION_DATABASE_ID:
         return False
-    
+
     try:
         response = requests.get(
             f"https://api.notion.com/v1/databases/{NOTION_DATABASE_ID}",
@@ -235,7 +231,7 @@ def check_notion_connection() -> bool:
 if __name__ == "__main__":
     from dotenv import load_dotenv
     load_dotenv()
-    
+
     if check_notion_connection():
         print("✅ Connexion Notion OK")
     else:
