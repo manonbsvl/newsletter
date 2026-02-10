@@ -50,10 +50,14 @@ https://ec.europa.eu/commission/presscorner/detail/en/speech_26_279
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_302
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_314
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_320
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_334
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_367
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_368
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_307
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_308
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_318
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_323
+https://ec.europa.eu/commission/presscorner/detail/en/statement_26_366
 https://ecfr.eu/article/a-new-world-in-trade-how-europeans-can-make-the-most-of-the-india-deal/
 https://ecfr.eu/article/avoiding-gas-panic-why-europe-should-remain-calm-about-us-energy-supply/
 https://ecfr.eu/article/calling-paris-and-washington-three-areas-for-g7-g20-collaboration-in-2026/
@@ -117,11 +121,16 @@ https://oica.net/02-05-2026-oicas-5-major-news-items-summarized-2/
 https://oica.net/02-05-2026-oicas-5-major-news-items-summarized/
 https://oica.net/02-06-2026-oicas-5-major-news-items-summarized/
 https://oica.net/02-09-2026-oicas-5-major-news-items-summarized/
+https://oica.net/02-10-2026-oicas-5-major-news-items-summarized/
+https://semiengineering.com/3d-printing-to-create-spatially-freeform-nanomaterial-based-electronics-rice-u-of-utah-nus/
 https://semiengineering.com/a-manufacturing-approach-that-brings-diamond-quantum-photonics-closer-to-industrial-production-mit-kaust-et-al/
 https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/
 https://semiengineering.com/blog-review-feb-4-2/
+https://semiengineering.com/catching-critical-defects-in-tsvs-and-stacked-chips/
 https://semiengineering.com/chiplet-fundamentals-for-engineers-ebook/
+https://semiengineering.com/chiplets-add-more-inspection-and-test-steps/
 https://semiengineering.com/from-monolithic-socs-to-chiplets-a-new-hardware-security-paradigm/
+https://semiengineering.com/impact-of-the-gate-and-fin-space-variation-on-stress-modulation-and-finfet-transistor-performance/
 https://semiengineering.com/ml-for-energy-performance-aware-scheduling-on-heterogeneous-multicore-architectures-cambridge/
 https://semiengineering.com/opening-the-door-to-stco-hierarchical-device-planning/
 https://semiengineering.com/overview-of-interface-dipole-engineering-formation-mechanisms-control-methods-and-emerging-applications-snu-sejong-u/
@@ -146,6 +155,7 @@ https://tnova.fr/economie-social/territoires-metropoles/budget-2026-rebatir-un-c
 https://tnova.fr/societe/immigration-integration-non-discrimination/politique-migratoire-lexception-espagnole/
 https://tnova.fr/societe/sante/les-virus-nont-pas-besoin-de-visas/
 https://www.alternatives-economiques.fr/au-bangladesh-linterim-de-yunus-se-termine-la-crise-sociale-demeure/00117726
+https://www.alternatives-economiques.fr/la-faim-recule-dans-le-monde-mais-les-foyers-de-crise-se-multiplient/00117428
 https://www.alternatives-economiques.fr/la-politique-du-logement-senfonce-dans-la-crise/00117695
 https://www.alternatives-economiques.fr/le-marche-de-lart-pas-encore-en-crise-mais-deja-en-pleine-mutation/00117701
 https://www.alternatives-economiques.fr/peut-on-empecher-les-mutuelles-daugmenter-leurs-tarifs-et-deux-autres-sujet/00117705
@@ -166,17 +176,21 @@ https://www.bbc.com/news/articles/c1jeyn3yxn9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c1kldw1e0w3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c23rxr1lz8do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c2e102vw1z2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3dm790vxlko?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c3wlpqpe2z4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3wzvggxz67o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g0ygqvq21o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g54xzzze0o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c4ged1g5wxwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y2lj3md8po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y2nn582l5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c626r78g122o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c62ndp17jv0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c70lg4jr0xlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss
@@ -189,6 +203,7 @@ https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wxewk82qlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd9e4xw8vqqo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cddg885344do?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cddn7qed35eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3exl1k247o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce8rk0je220o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cedw468e50wo?at_medium=RSS&at_campaign=rss
@@ -208,11 +223,13 @@ https://www.bbc.com/news/articles/cn8jm2vpve1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp80dpzdg37o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp80r4rdp3yo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cp85n416n3vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp87827jyk3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cpv7gj30vgmo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cpwnlwj80p8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cq5y7dd284do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cq8g20xgdjwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cqlk5gd3kv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cre2l5qxy9do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crmlr0nk8y9o?at_medium=RSS&at_campaign=rss
@@ -230,6 +247,7 @@ https://www.bbc.com/news/articles/cy8pzzmpdz9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy9yz3x332lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cyv5ve6dvqeo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz9v9d0xj8qo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czejp3gep63o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czjg2rlyvyzo?at_medium=RSS&at_campaign=rss
@@ -251,6 +269,8 @@ https://www.just-auto.com/analyst-comment/2026-will-be-a-pivotal-year-for-robota
 https://www.just-auto.com/analyst-comment/siat-2026-engineering-signals-point-to-a-broader-more-disciplined-electric-vehicle-launch-cycle-in-india/
 https://www.just-auto.com/analyst-comment/tariffs-as-a-structural-constraint-how-us-trade-volatility-is-reshaping-hyundai-and-kias-production-strategy/
 https://www.just-auto.com/industry-data/us-light-vehicle-market-slow-in-january-amid-severe-weather/
+https://www.just-auto.com/industry-data/western-european-car-market-contracts-for-the-first-time-in-seven-months/
+https://www.just-auto.com/interview/battery-thermal-runaway-issues-and-a-cell-based-monitoring-solution/
 https://www.just-auto.com/interview/safety-and-socs-qualcomm-and-the-snapdragon-ride-flex-platform/
 https://www.just-auto.com/news/acc-shelves-italy-germany-gigafactory-plans/
 https://www.just-auto.com/news/aisin-spend-y32bn-transmission-production/
@@ -274,6 +294,7 @@ https://www.just-auto.com/news/hyundai-partners-vodafone-car-connectivity/
 https://www.just-auto.com/news/hyundais-net-profits-drop-in-2025-hit-by-us-tariffs/
 https://www.just-auto.com/news/jac-brembo-collaborate-on-next-gen-braking-systems/
 https://www.just-auto.com/news/japans-vehicle-sales-decline-by-2-in-january/
+https://www.just-auto.com/news/mahindra-plans-rs150bn-investment-in-maharashtra-operations/
 https://www.just-auto.com/news/mazdas-global-vehicle-output-rebounds-in-december/
 https://www.just-auto.com/news/mercedes-momenta-deepen-china-partnership/
 https://www.just-auto.com/news/mercedes-s-class-robotaxi-partnerships/
@@ -282,6 +303,8 @@ https://www.just-auto.com/news/mitsubishis-global-vehicle-output-rises-6-in-dece
 https://www.just-auto.com/news/mobis-announces-quad-alliance-to-develop-hwd-technologies/
 https://www.just-auto.com/news/nissans-global-vehicle-sales-drop-7-in-december/
 https://www.just-auto.com/news/pirelli-board-blocks-cyber-tyre-spin-off/
+https://www.just-auto.com/news/proton-enters-phev-segment-with-new-e-mas-7-variant/
+https://www.just-auto.com/news/seres-partners-abu-dhabi-motors/
 https://www.just-auto.com/news/skoda-steps-up-its-vw-group-manufacturing-contribution/
 https://www.just-auto.com/news/stellantis-plans-e22-2bn-charges/
 https://www.just-auto.com/news/taiwan-vehicle-sales-flat-in-january/
@@ -295,6 +318,7 @@ https://www.just-auto.com/news/uk-car-market-up-but-sees-ev-share-fall-in-januar
 https://www.just-auto.com/news/vinfasts-global-deliveries-rise-102-in-2025/
 https://www.just-auto.com/news/volkswagen-china-cea-idunyx07-production/
 https://www.just-auto.com/news/waymo-16bn-funding-110bn-valuation/
+https://www.lemonde.fr/argent/article/2026/02/10/assurance-vie-les-fonds-en-euros-les-plus-performants_6666092_1657007.html
 https://www.lemonde.fr/campus/article/2026/02/05/voyager-sans-avion-ces-sites-internet-qui-tentent-de-faire-basculer-les-imaginaires_6665457_4401467.html
 https://www.lemonde.fr/economie-francaise/article/2026/02/07/la-filiere-de-l-edition-prete-a-en-decoudre-avec-les-ia-generatives-qui-piratent-le-droit-d-auteur_6665794_1656968.html
 https://www.lemonde.fr/economie/article/2026/01/31/ia-nouveau-monde-editions-accuse-mistral-ai-d-avoir-pirate-un-cinquieme-de-son-catalogue_6664916_3234.html
@@ -306,6 +330,7 @@ https://www.lemonde.fr/economie/article/2026/02/06/stellantis-annonce-22-milliar
 https://www.lemonde.fr/economie/article/2026/02/06/stellantis-les-dessous-d-un-desastre-strategique_6665728_3234.html
 https://www.lemonde.fr/economie/article/2026/02/06/stellantis-passe-une-provision-historique-de-22-milliards-pour-en-finir-avec-le-tout-electrique_6665646_3234.html
 https://www.lemonde.fr/economie/article/2026/02/08/avec-la-chute-des-cours-en-bourse-le-chaos-regne-au-pays-du-cacao_6665878_3234.html
+https://www.lemonde.fr/economie/article/2026/02/09/renault-va-reprendre-la-totalite-de-flexis-le-tesla-des-utilitaires_6666022_3234.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
 https://www.lemonde.fr/idees/article/2026/02/02/budget-2026-comment-en-vouloir-a-un-elu-d-etre-genereux-avec-l-argent-public_6665125_3232.html
 https://www.lemonde.fr/idees/article/2026/02/07/nicolas-jabko-politiste-kevin-warsh-pressenti-pour-diriger-la-fed-devra-apaiser-donald-trump-sans-apparaitre-comme-son-pantin_6665744_3232.html
@@ -319,6 +344,7 @@ https://www.nature.com/articles/d41586-026-00356-8
 https://www.nature.com/articles/s41378-026-01160-0
 https://www.nature.com/articles/s41467-026-68856-9
 https://www.nature.com/articles/s41545-026-00558-7
+https://www.nature.com/articles/s41598-025-03217-y
 https://www.nature.com/articles/s41598-025-16050-0
 https://www.nature.com/articles/s41598-025-23535-5
 https://www.nature.com/articles/s41598-025-33002-w
@@ -327,6 +353,7 @@ https://www.nature.com/articles/s41598-025-34627-7
 https://www.nature.com/articles/s41598-026-35184-3
 https://www.nature.com/articles/s41598-026-35799-6
 https://www.nature.com/articles/s41598-026-36149-2
+https://www.nature.com/articles/s41598-026-36663-3
 https://www.nature.com/articles/s41598-026-36761-2
 https://www.nature.com/articles/s41598-026-36844-0
 https://www.nature.com/articles/s41598-026-36997-y
@@ -360,6 +387,7 @@ https://www.nature.com/articles/s41598-026-38773-4
 https://www.nature.com/articles/s41598-026-38846-4
 https://www.nature.com/articles/s41598-026-39005-5
 https://www.nature.com/articles/s41598-026-39036-y
+https://www.nature.com/articles/s44182-026-00080-5
 https://www.nature.com/articles/s44221-025-00574-w
 https://www.nature.com/articles/s44385-025-00054-6
 https://www.nber.org/papers/w34716#fromrss
@@ -392,10 +420,13 @@ https://www.nber.org/papers/w34785#fromrss
 https://www.nber.org/papers/w34787#fromrss
 https://www.nber.org/papers/w34788#fromrss
 https://www.nber.org/papers/w34789#fromrss
+https://www.nber.org/papers/w34791#fromrss
 https://www.nber.org/papers/w34792#fromrss
 https://www.nber.org/papers/w34795#fromrss
 https://www.nber.org/papers/w34796#fromrss
+https://www.nber.org/papers/w34797#fromrss
 https://www.nber.org/papers/w34800#fromrss
+https://www.nber.org/papers/w34802#fromrss
 https://www.nber.org/papers/w34803#fromrss
 https://www.nber.org/papers/w34814#fromrss
 https://www.nber.org/papers/w34818#fromrss
@@ -425,6 +456,8 @@ https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-n
 https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/
 https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/
 https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/
+https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/
+https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/
 https://www.usinenouvelle.com/aero-spatial/aeronautique/dassault-aviation/scaf-commandes-record-rupture-technologique-lmb-aerospace-et-renault-les-dossiers-chauds-du-nouveau-patron-de-la-dga.YKF6CDVTRBG2BJJ5DJZMSCK23M.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/embraer/aeronautique-le-taxi-volant-du-bresilien-embraer-engrange-les-commandes-et-sapproche-de-son-exploitation-commerciale.VM664AM2DZDCLLFZE6EVS5V25Y.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/helicoptere/chez-optima-aero-sandra-bernard-fait-rimer-le-demantelement-dhelicopteres-avec-leconomie-circulaire.A5CW3A6GZZODVNKQFTID3CF3PE.html
@@ -458,6 +491,7 @@ https://www.usinenouvelle.com/chimie/mousses-polyurethanes-le-chimiste-covestro-
 https://www.usinenouvelle.com/chimie/vu-dans-la-chimie-hexane-covestro-basf.IREBAPDCCNCG3FXNGAJHYHSHFE.html
 https://www.usinenouvelle.com/chimie/vu-dans-la-chimie-ursula-von-der-leyen-la-nasa-michelin.E7RHQ7HAKRF3PJ5M6DQEKYYLBM.html
 https://www.usinenouvelle.com/chroniques/drinks-stories/maison-ferrand-investit-le-marche-en-croissance-des-spiritueux-sans-alcool-avec-un-gin-concu-a-base-deau.3PW4H662RBD6TDYGWK7U4ANTC4.html
+https://www.usinenouvelle.com/eco-social/economie/emploi/il-faut-se-reveiller-vite-et-fort-mobilisation-generale-pour-pourvoir-les-dizaines-de-milliers-demplois-necessaires-a-la-montee-en-puissance-de-lindustrie-de-larmement.4EDSZSL5BBEPHNV3WZDVPBLE7Y.html
 https://www.usinenouvelle.com/eco-social/economie/financement/4-milliards-deuros-injectes-en-2025-dont-670-millions-deuros-en-france-la-banque-europeenne-dinvestissement-passe-a-la-vitesse-superieure-dans-la-defense.4RPG7ELBE5B7DDSWZFR5BRWTAM.html
 https://www.usinenouvelle.com/eco-social/economie/malgre-les-tensions-commerciales-lamelioration-en-trompe-loeil-de-la-balance-commerciale-francaise.SIG4BXPIAZGUJPPA7ZREP75ZNQ.html
 https://www.usinenouvelle.com/eco-social/economie/pme-eti/le-temps-long-de-lindustrie-nest-pas-compatible-avec-la-speculation-parti-a-la-retraite-il-refuse-des-millions-deuros-et-donne-les-parts-de-son-entreprise-a-une-fondation-pour-proteger-lemploi-local.NRPWUZJWPVBLJGKK23K2VRU34E.html
@@ -501,10 +535,12 @@ https://www.usinenouvelle.com/industrie-technologie/hannover-messe-du-20-au-24-a
 https://www.usinenouvelle.com/industrie-technologie/numerique/a-grenoble-la-ligne-pilote-fames-se-devoile-pour-relancer-leurope-dans-les-semi-conducteurs.XWWZIOO5NVB6VM3RWXCLVRV2RY.html
 https://www.usinenouvelle.com/industrie-technologie/production/technos-robotique/exotec-devoile-ses-ambitions-a-limaginarium-son-nouveau-siege-social-a-wasquehal.YVJQMGWV4ZGWTJREBYVJYOTYTM.html
 https://www.usinenouvelle.com/luxe/kering-ex-ppr/les-pistes-de-luca-de-meo-pour-relancer-kering.TM7XDP4UHZKM5LJ4TIM6CM4PLI.html
+https://www.usinenouvelle.com/matieres-premieres/eramet-secoue-en-bourse-par-la-suspension-de-son-directeur-financier-une-semaine-apres-le-debarquement-de-son-directeur-general.BRZXTFCTZVBLPHAT5XCHABZBQY.html
 https://www.usinenouvelle.com/matieres-premieres/mineraux-critiques-les-etats-unis-lunion-europeenne-et-le-japon-forment-une-union-commerciale-pour-assurer-leur-approvisionnement-et-contrer-la-chine.J2BGTDN3WBHKNJNYCPSK4FJ4VA.html
 https://www.usinenouvelle.com/matieres-premieres/plus-de-200-morts-apres-un-glissement-de-terrain-dans-rubaya-la-plus-grande-mine-artisanale-de-tantale-de-republique-democratique-du-congo.TMZ4YQNXSREBBGNC67WC3N4JNY.html
 https://www.usinenouvelle.com/matieres-premieres/project-vault-le-plan-a-12-milliards-de-dollars-de-donald-trump-pour-stocker-des-metaux-critiques-pour-les-industriels-aux-etats-unis-et-diminuer-leur-dependance-a-la-chine.LWP336VEGRDJBCRXMBKJWSR4MA.html
 https://www.usinenouvelle.com/mes-magazines/magazine-usine-nouvelle/ballons-stratospheriques-drones-solaires-missiles-hypersoniques-le-nouvel-arsenal-de-la-tres-haute-altitude.H3B4TF3JZ5MSNLXEPVBNFXUOCI.html
+https://www.usinenouvelle.com/metallurgie-siderurgie/acier-arcelormittal-confirme-enfin-son-investissement-de-13-milliard-deuros-dans-un-four-electrique-geant-pour-produire-de-lacier-vert-a-dunkerque.J72DX4R2ENBN7FJXRI2KGP32XU.html
 https://www.usinenouvelle.com/metallurgie-siderurgie/le-geant-de-lacier-arcelormittal-devoile-de-bons-resultats-2025-mais-ne-rassure-toujours-pas-sur-sa-presence-en-europe.WZOQ3HS7YZGQZOG3K7NCQXJLRY.html
 https://www.usinenouvelle.com/nouvelle-aquitaine/gironde/communique-gironde-developpement-dun-parc-eolien-de-cinq-machines-par-valorem-a-saint-quentin-sur-coole.FIQUP3CF2JDGZIZTE5QTOLDKWM.html
 https://www.usinenouvelle.com/nouvelle-aquitaine/gironde/communique-gironde-integration-de-la-societe-nowa-no-water-a-la-deuxieme-promotion-de-lincubateur-transitions.7G46XMJUEBHFXFPBKP76IK3M7Y.html
@@ -517,6 +553,7 @@ https://www.usinenouvelle.com/polymeres-materiaux/materiaux/caoutchouc/une-etape
 https://www.usinenouvelle.com/polymeres-materiaux/materiaux/la-multifonctionnalite-un-standard-strategique-dans-lindustrie.D2QGYCPDENFKZG4HRKDRRCTS5Y.html
 https://www.usinenouvelle.com/polymeres-materiaux/materiaux/mineraux-verres/1300-tonnes-de-co2-economisees-par-an-a-lagneu-ain-verallia-mise-sur-la-recuperation-de-chaleur-fatale-pour-reduire-sa-consommation-de-gaz.HXONC6ODGVAVVAAV2BDWKDWOZI.html
 https://www.usinenouvelle.com/polymeres-materiaux/materiaux/plastiques-et-composites/la-canalisation-deau-potable-la-plus-decarbonee-deurope-elydan-lance-une-conduite-totalement-biosourcee-certifiee-iscc.PCASOAYERBD5XHNEFU5KN5SD64.html
+https://www.usinenouvelle.com/polymeres-materiaux/materiaux/plastiques-et-composites/traite-pollution-plastique-lambassadeur-chilien-julio-cordano-est-le-nouveau-president-du-comite-intergouvernemental-de-negociation.5UIUOQDPXVH7DCYEW7SEOZXGHA.html
 https://www.usinenouvelle.com/polymeres-materiaux/materiaux/textiles-non-tisses/une-acquisition-strategique-qui-vient-renforcer-sa-position-mondiale-sur-le-marche-des-textiles-non-tisses-beaulieu-international-group-annonce-lacquisition-difg-asota.MS5SJIKHRFFYJCWX3O25GO422Q.html
 https://www.usinenouvelle.com/polymeres-materiaux/reglementation-innovation-produit-multiples-acquisitions-a-linternational-recyclage-chimique-cest-leffervescence-dans-lemballage-le-btp-le-caoutchouc-industriel-ou-encore-les-pneumatiques.TBXXM2DLNNEUFG72CMSRTPYSFM.html
 https://www.usinenouvelle.com/provence-alpes-cote-d-azur/vaucluse/communique-vaucluse-selection-de-gse-pour-la-construction-dune-unite-pharmaceutique-a-gannat.ZVFA6O3Z3JFAFDJHTNST57KSPQ.html
@@ -535,6 +572,7 @@ https://www.usinenouvelle.com/sante-pharma/resultats-2025-malgre-la-perte-de-plu
 https://www.usinenouvelle.com/service/consulter-le-magazine/mes-magazines/magazine-chimie-pharma-hebdo/1166
 https://www.usinenouvelle.com/service/consulter-le-magazine/mes-magazines/magazine-chimie-pharma-hebdo/1167-2
 https://www.usinenouvelle.com/service/consulter-le-magazine/mes-magazines/magazine-chimie-pharma-hebdo/1168
+https://www.usinenouvelle.com/service/consulter-le-magazine/mes-magazines/magazine-chimie-pharma-hebdo/1169
 https://www.usinenouvelle.com/technos-et-innovations/ia/schmidt-veut-mettre-lia-au-service-des-techniciens-de-maintenance-de-ses-usines.DTGDKECY7ZPSDGEZES3QV7KNIY.html
 https://www.usinenouvelle.com/technos-et-innovations/l-instant-tech/surveillance-miniere-co-hydrogene-geolinks-veut-rendre-le-sous-sol-visible-en-temps-reel-grace-aux-ondes-sismiques.Y2J4BAHJ4JGCTMT5AHRO4IT5X4.html
 https://www.usinenouvelle.com/technos-et-innovations/quantique/made-in-france-isentroniq-veut-faire-passer-les-calculateurs-quantiques-a-lechelle-superieure-grace-a-des-cables-mille-fois-meilleurs-que-la-concurrence.E47G6DCB6FI7BC3KNIQLGIRSMA.html
