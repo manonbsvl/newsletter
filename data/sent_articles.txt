@@ -41,6 +41,8 @@ https://ec.europa.eu/commission/presscorner/detail/en/ip_26_342
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_384
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_385
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_403
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_412
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_417
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_272
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_301
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_311
@@ -50,6 +52,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/mex_26_330
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_381
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_397
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_411
+https://ec.europa.eu/commission/presscorner/detail/en/mex_26_416
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_415
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_270
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_276
@@ -148,6 +151,7 @@ https://oica.net/02-09-2026-oicas-5-major-news-items-summarized/
 https://oica.net/02-10-2026-oicas-5-major-news-items-summarized/
 https://oica.net/02-11-2026-oicas-5-major-news-items-summarized/
 https://oica.net/02-13-2026-oicas-5-major-news-items-summarized/
+https://oica.net/02-16-2026-oicas-5-major-news-items-summarized/
 https://semiengineering.com/3d-printing-to-create-spatially-freeform-nanomaterial-based-electronics-rice-u-of-utah-nus/
 https://semiengineering.com/5-strategic-decisions-for-building-a-scalable-compute-platform-for-now-and-the-future/
 https://semiengineering.com/a-manufacturing-approach-that-brings-diamond-quantum-photonics-closer-to-industrial-production-mit-kaust-et-al/
@@ -159,6 +163,7 @@ https://semiengineering.com/autonomous-driving-assessment-of-yolo-algorithms-rmi
 https://semiengineering.com/blog-review-feb-4-2/
 https://semiengineering.com/carrier-mapping-in-sub-2nm-node-nsfets-with-ssrm-imec-ku-leuven/
 https://semiengineering.com/catching-critical-defects-in-tsvs-and-stacked-chips/
+https://semiengineering.com/chip-industry-technical-paper-roundup-feb-17/
 https://semiengineering.com/chip-industry-week-in-review-125/
 https://semiengineering.com/chiplet-fundamentals-for-engineers-ebook/
 https://semiengineering.com/chiplets-add-more-inspection-and-test-steps/
@@ -167,6 +172,7 @@ https://semiengineering.com/from-monolithic-socs-to-chiplets-a-new-hardware-secu
 https://semiengineering.com/how-siemens-symphony-pro-enabled-analogport-to-verify-complex-chip-interfaces/
 https://semiengineering.com/imc-free-space-optical-neural-network-with-high-clockrate-berkeley-usc-tu-berlin/
 https://semiengineering.com/impact-of-the-gate-and-fin-space-variation-on-stress-modulation-and-finfet-transistor-performance/
+https://semiengineering.com/llm-based-learning-platform-for-chip-design-education-rptu/
 https://semiengineering.com/ml-for-energy-performance-aware-scheduling-on-heterogeneous-multicore-architectures-cambridge/
 https://semiengineering.com/neuromorphic-hw-that-detects-motion-changes-4x-faster-beihang-bit-kaust-cambridge-et-al/
 https://semiengineering.com/opening-the-door-to-stco-hierarchical-device-planning/
@@ -240,8 +246,10 @@ https://www.bbc.com/news/articles/c5y2nn582l5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c626r78g122o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c627eyzmmg8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c62ndp17jv0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c70lg4jr0xlo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c70n4l167l6o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78e4l3rm22o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78eyv1zdl3o?at_medium=RSS&at_campaign=rss
@@ -251,6 +259,7 @@ https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c89kl834nv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8e524n23rno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8e5zwndddyo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8xyp9xjxr4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wxewk82qlo?at_medium=RSS&at_campaign=rss
@@ -282,6 +291,7 @@ https://www.bbc.com/news/articles/cn40kmrkk9xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn56dnrvq03o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn8jm2vpve1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cnv6j9vrn06o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cp32j7v2dy5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp80dpzdg37o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp80r4rdp3yo?at_medium=RSS&at_campaign=rss
@@ -300,6 +310,7 @@ https://www.bbc.com/news/articles/cre2l5qxy9do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crmlr0nk8y9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrn8rplklgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvg5l75yx6vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvgd2j80klmo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvgjg98vmzjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvgnqk5wz5go?at_medium=RSS&at_campaign=rss
@@ -362,7 +373,9 @@ https://www.just-auto.com/news/byds-global-sales-plunge-30-in-january/
 https://www.just-auto.com/news/canada-plans-replace-ev-sales-mandate/
 https://www.just-auto.com/news/catl-and-changan-claim-big-battery-breakthrough/
 https://www.just-auto.com/news/chery-plans-liverpool-rd-hub/
+https://www.just-auto.com/news/china-introduces-new-policies-to-halt-damaging-price-war/
 https://www.just-auto.com/news/china-mandates-manual-door-releases-evs/
+https://www.just-auto.com/news/chinese-vehicle-sales-fall-3-in-january/
 https://www.just-auto.com/news/dutch-court-orders-nexperia-probe/
 https://www.just-auto.com/news/faraday-future-seven-agreements-hebei-huanzhou/
 https://www.just-auto.com/news/ford-geely-discuss-european-production/
@@ -377,6 +390,7 @@ https://www.just-auto.com/news/hyundais-net-profits-drop-in-2025-hit-by-us-tarif
 https://www.just-auto.com/news/indonesian-vehicle-market-up-7-in-january/
 https://www.just-auto.com/news/jac-brembo-collaborate-on-next-gen-braking-systems/
 https://www.just-auto.com/news/japans-vehicle-sales-decline-by-2-in-january/
+https://www.just-auto.com/news/jsw-mg-expand-halol-plant-capacity-india/
 https://www.just-auto.com/news/mahindra-expand-chennai-rd-hub/
 https://www.just-auto.com/news/mahindra-plans-rs150bn-investment-in-maharashtra-operations/
 https://www.just-auto.com/news/mazda-reports-net-loss-in-april-december-2025/
@@ -443,6 +457,7 @@ https://www.lemonde.fr/idees/article/2026/02/09/l-electrification-des-usages-n-e
 https://www.lemonde.fr/idees/article/2026/02/11/ia-pour-les-americains-l-objectif-n-est-pas-d-assurer-leur-prosperite-mais-la-dominance-face-a-leurs-concurrents_6666349_3232.html
 https://www.lemonde.fr/idees/article/2026/02/11/souverainete-economique-l-urgence-d-une-strategie-europeenne_6666303_3232.html
 https://www.lemonde.fr/idees/article/2026/02/14/il-faut-renouer-avec-la-lutte-pour-les-lumieres-la-lecon-inaugurale-de-la-philosophe-lea-ypi-au-college-de-france_6666800_3232.html
+https://www.lemonde.fr/idees/article/2026/02/16/pierre-khalfa-et-jacques-rigaudiat-la-cour-des-comptes-fait-sous-couvert-d-objectivite-l-apologie-des-politiques-neoliberales_6666932_3232.html
 https://www.lemonde.fr/international/article/2026/02/02/le-japon-dit-avoir-decouvert-des-terres-rares-lors-d-une-exploration-en-eaux-profondes_6665039_3210.html
 https://www.lemonde.fr/m-le-mag/article/2026/02/07/garaud-peyrefitte-chirac-le-recours-a-la-droite-vintage-quand-est-ce-qu-on-rehabilite-poher_6665786_4500055.html
 https://www.lemonde.fr/planete/article/2026/02/14/dieselgate-volkswagen-premier-constructeur-renvoye-devant-la-justice-en-france-dans-le-scandale-des-moteurs-truques_6666749_3244.html
@@ -495,6 +510,7 @@ https://www.nature.com/articles/s41598-026-38051-3
 https://www.nature.com/articles/s41598-026-38074-w
 https://www.nature.com/articles/s41598-026-38135-0
 https://www.nature.com/articles/s41598-026-38139-w
+https://www.nature.com/articles/s41598-026-38171-w
 https://www.nature.com/articles/s41598-026-38275-3
 https://www.nature.com/articles/s41598-026-38281-5
 https://www.nature.com/articles/s41598-026-38342-9
@@ -513,13 +529,20 @@ https://www.nature.com/articles/s41598-026-39005-5
 https://www.nature.com/articles/s41598-026-39036-y
 https://www.nature.com/articles/s41598-026-39080-8
 https://www.nature.com/articles/s41598-026-39418-2
+https://www.nature.com/articles/s41598-026-39506-3
+https://www.nature.com/articles/s41598-026-39710-1
+https://www.nature.com/articles/s41598-026-39716-9
 https://www.nature.com/articles/s41598-026-39729-4
+https://www.nature.com/articles/s41598-026-39772-1
 https://www.nature.com/articles/s41598-026-39807-7
 https://www.nature.com/articles/s41598-026-39828-2
+https://www.nature.com/articles/s41598-026-39858-w
+https://www.nature.com/articles/s41598-026-40007-6
 https://www.nature.com/articles/s41598-026-40097-2
 https://www.nature.com/articles/s41598-026-40473-y
 https://www.nature.com/articles/s44182-026-00080-5
 https://www.nature.com/articles/s44221-025-00574-w
+https://www.nature.com/articles/s44333-026-00081-9
 https://www.nature.com/articles/s44385-025-00054-6
 https://www.nature.com/articles/s44460-025-00021-z
 https://www.nber.org/papers/w34716#fromrss
@@ -568,6 +591,20 @@ https://www.nber.org/papers/w34814#fromrss
 https://www.nber.org/papers/w34816#fromrss
 https://www.nber.org/papers/w34818#fromrss
 https://www.nber.org/papers/w34820#fromrss
+https://www.nber.org/papers/w34824#fromrss
+https://www.nber.org/papers/w34828#fromrss
+https://www.nber.org/papers/w34830#fromrss
+https://www.nber.org/papers/w34832#fromrss
+https://www.nber.org/papers/w34833#fromrss
+https://www.nber.org/papers/w34834#fromrss
+https://www.nber.org/papers/w34836#fromrss
+https://www.nber.org/papers/w34837#fromrss
+https://www.nber.org/papers/w34838#fromrss
+https://www.nber.org/papers/w34839#fromrss
+https://www.nber.org/papers/w34844#fromrss
+https://www.nber.org/papers/w34849#fromrss
+https://www.nber.org/papers/w34851#fromrss
+https://www.nber.org/papers/w34853#fromrss
 https://www.politico.com/news/2025/12/08/trump-tariffs-mexico-rio-grande-water-00682220
 https://www.politico.com/news/2025/12/08/trumps-tariff-costs-consumers-00679261
 https://www.politico.com/news/2025/12/14/trump-hardball-tariff-fees-trade-00689892
