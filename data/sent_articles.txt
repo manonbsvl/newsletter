@@ -43,6 +43,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/ip_26_385
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_403
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_412
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_417
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_433
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_272
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_301
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_311
@@ -53,6 +54,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/mex_26_381
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_397
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_411
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_416
+https://ec.europa.eu/commission/presscorner/detail/en/mex_26_434
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_415
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_270
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_276
@@ -71,6 +73,8 @@ https://ec.europa.eu/commission/presscorner/detail/en/speech_26_391
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_406
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_414
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_425
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_427
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_435
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_307
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_308
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_318
@@ -154,6 +158,7 @@ https://oica.net/02-10-2026-oicas-5-major-news-items-summarized/
 https://oica.net/02-11-2026-oicas-5-major-news-items-summarized/
 https://oica.net/02-13-2026-oicas-5-major-news-items-summarized/
 https://oica.net/02-16-2026-oicas-5-major-news-items-summarized/
+https://oica.net/oica-celebrates-its-200th-technical-committee-marking-70-years-at-the-heart-of-global-automotive-regulation/
 https://semiengineering.com/3d-printing-to-create-spatially-freeform-nanomaterial-based-electronics-rice-u-of-utah-nus/
 https://semiengineering.com/5-strategic-decisions-for-building-a-scalable-compute-platform-for-now-and-the-future/
 https://semiengineering.com/a-manufacturing-approach-that-brings-diamond-quantum-photonics-closer-to-industrial-production-mit-kaust-et-al/
@@ -162,6 +167,7 @@ https://semiengineering.com/ai-inference-needs-a-mix-and-match-memory-strategy/
 https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/
 https://semiengineering.com/automated-mlir-based-hls-framework-that-generates-fpga-hw-designs-from-a-variety-of-cnn-layers-tu-dresden/
 https://semiengineering.com/autonomous-driving-assessment-of-yolo-algorithms-rmit-et-al/
+https://semiengineering.com/blog-review-feb-18-2/
 https://semiengineering.com/blog-review-feb-4-2/
 https://semiengineering.com/carrier-mapping-in-sub-2nm-node-nsfets-with-ssrm-imec-ku-leuven/
 https://semiengineering.com/catching-critical-defects-in-tsvs-and-stacked-chips/
@@ -170,6 +176,7 @@ https://semiengineering.com/chip-industry-week-in-review-125/
 https://semiengineering.com/chiplet-fundamentals-for-engineers-ebook/
 https://semiengineering.com/chiplets-add-more-inspection-and-test-steps/
 https://semiengineering.com/cnt-nano-sandpaper-for-atomic-level-polishing-kaist/
+https://semiengineering.com/detecting-architectural-vulnerabilities-in-closed-source-risc-v-cpus-cispa/
 https://semiengineering.com/from-monolithic-socs-to-chiplets-a-new-hardware-security-paradigm/
 https://semiengineering.com/how-siemens-symphony-pro-enabled-analogport-to-verify-complex-chip-interfaces/
 https://semiengineering.com/imc-free-space-optical-neural-network-with-high-clockrate-berkeley-usc-tu-berlin/
@@ -185,6 +192,7 @@ https://semiengineering.com/optimal-surface-condition-for-improved-cu-to-cu-dire
 https://semiengineering.com/overview-of-interface-dipole-engineering-formation-mechanisms-control-methods-and-emerging-applications-snu-sejong-u/
 https://semiengineering.com/research-bits-feb-3/
 https://semiengineering.com/research-bits-feb-9/
+https://semiengineering.com/router-in-a-package-design-combining-hbm4-chiplets-and-in-package-optics/
 https://semiengineering.com/rutile-tio2-as-a-post-zro2-dielectric-platform-for-next-gen-dram-capacitors-kist/
 https://semiengineering.com/simulate-faster-with-simai-software-for-high-returns-at-a-low-cost-of-ownership/
 https://semiengineering.com/six-3d-ic-design-trends-that-secure-the-ai-era/
@@ -233,6 +241,7 @@ https://www.bbc.com/news/articles/c1jeyn3yxn9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c1kldw1e0w3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c1l7pedyzjeo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c23rxr1lz8do?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c23z47zpj2do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2e102vw1z2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss
@@ -252,6 +261,8 @@ https://www.bbc.com/news/articles/c5y2lj3md8po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y2nn582l5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c626r78g122o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c627eyzmmg8o?at_medium=RSS&at_campaign=rss
@@ -264,12 +275,14 @@ https://www.bbc.com/news/articles/c78e4l3rm22o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78eyv1zdl3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78x9256pn7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c7951yl59lxo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c80jy2lkdg3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c89kl834nv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8e524n23rno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8e5zwndddyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8xyp9xjxr4o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c93wkxgydy2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wxewk82qlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd6z05p56xyo?at_medium=RSS&at_campaign=rss
@@ -287,6 +300,7 @@ https://www.bbc.com/news/articles/cedw468e50wo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cg5gpe3jdl9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cg7y45kxvp9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgk8z8xxpgmo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj0dq19qjp2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6dk0845n7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cje1e3n8jgvo?at_medium=RSS&at_campaign=rss
@@ -299,6 +313,8 @@ https://www.bbc.com/news/articles/cm2xy9x27mvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm2yvz838deo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn40kmrkk9xo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cn4gv9e8e10o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn56dnrvq03o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn8jm2vpve1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cnv6j9vrn06o?at_medium=RSS&at_campaign=rss
@@ -319,6 +335,7 @@ https://www.bbc.com/news/articles/cqlk5gd3kv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5lmg9l1y7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cre2l5qxy9do?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/crm8j8j3k38o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crmlr0nk8y9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrn8rplklgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss
@@ -345,6 +362,7 @@ https://www.bbc.com/news/articles/czj17w3n1e8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czjg2rlyvyzo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czx1qrx5jgzo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czx1vly05pvo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/videos/c5yqx9wg9ego?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cvgdrrnlyjlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cx2xk9w6ewzo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cx2xrxg97n1o?at_medium=RSS&at_campaign=rss
@@ -389,6 +407,7 @@ https://www.just-auto.com/news/catl-and-changan-claim-big-battery-breakthrough/
 https://www.just-auto.com/news/chery-plans-liverpool-rd-hub/
 https://www.just-auto.com/news/china-introduces-new-policies-to-halt-damaging-price-war/
 https://www.just-auto.com/news/china-mandates-manual-door-releases-evs/
+https://www.just-auto.com/news/chinas-pricing-guidelines-to-push-automakers-toward-innovation-led-competition/
 https://www.just-auto.com/news/chinese-vehicle-sales-fall-3-in-january/
 https://www.just-auto.com/news/dutch-court-orders-nexperia-probe/
 https://www.just-auto.com/news/faraday-future-seven-agreements-hebei-huanzhou/
@@ -404,7 +423,9 @@ https://www.just-auto.com/news/horse-powertrain-and-repsol-develop-new-hybrid-po
 https://www.just-auto.com/news/hyundai-partners-vodafone-car-connectivity/
 https://www.just-auto.com/news/hyundais-net-profits-drop-in-2025-hit-by-us-tariffs/
 https://www.just-auto.com/news/indonesian-vehicle-market-up-7-in-january/
+https://www.just-auto.com/news/infineon-semiconductors-bmw-neue-klasse-platform/
 https://www.just-auto.com/news/jac-brembo-collaborate-on-next-gen-braking-systems/
+https://www.just-auto.com/news/japan-safety-approval-us-built-vehicles/
 https://www.just-auto.com/news/japans-vehicle-sales-decline-by-2-in-january/
 https://www.just-auto.com/news/jsw-mg-expand-halol-plant-capacity-india/
 https://www.just-auto.com/news/mahindra-expand-chennai-rd-hub/
@@ -439,6 +460,7 @@ https://www.just-auto.com/news/toyota-plans-sharp-hybrid-output-rise/
 https://www.just-auto.com/news/toyotas-global-vehicle-sales-rise-3-in-december/
 https://www.just-auto.com/news/toyotas-vehicle-net-profits-plunge-43/
 https://www.just-auto.com/news/uk-car-market-up-but-sees-ev-share-fall-in-january/
+https://www.just-auto.com/news/valmet-jeti-industries-electric-bus-finland/
 https://www.just-auto.com/news/vehicle-software-updates-become-routine-but-fall-short-on-perceived-benefit-jd-power/
 https://www.just-auto.com/news/vietnam-vehicle-market-surges-90-in-january-vama/
 https://www.just-auto.com/news/vinfast-agrees-to-supply-battery-powered-taxis-to-drc/
@@ -447,6 +469,7 @@ https://www.just-auto.com/news/volkswagen-china-cea-idunyx07-production/
 https://www.just-auto.com/news/volkswagen-group-hits-5m-electric-drives-milestone/
 https://www.just-auto.com/news/volkswagen-targets-20-cost-cuts/
 https://www.just-auto.com/news/waymo-16bn-funding-110bn-valuation/
+https://www.just-auto.com/news/xpeng-outlines-ai-powered-vla-2-0-intelligent-driving-architecture/
 https://www.just-auto.com/news/zf-wins-major-order-for-its-axtrax-2-lf-in-india/
 https://www.lemonde.fr/actualite-medias/article/2026/02/11/l-arcom-sanctionne-cnews-d-une-amende-de-100-000-euros-pour-propos-juges-discriminatoires-envers-algeriens-et-palestiniens_6666282_3236.html
 https://www.lemonde.fr/argent/article/2026/02/10/assurance-vie-les-fonds-en-euros-les-plus-performants_6666092_1657007.html
@@ -485,6 +508,7 @@ https://www.lemonde.fr/planete/article/2026/02/14/dieselgate-volkswagen-premier-
 https://www.lemonde.fr/politique/article/2026/02/01/municipales-2026-roubaix-laboratoire-de-la-strategie-electorale-de-jean-luc-melenchon_6665021_823448.html
 https://www.lemonde.fr/politique/article/2026/02/05/municipales-les-ecologistes-suspendent-une-trentaine-de-militants-apres-une-tribune-denoncant-la-strategie-d-alliance-avec-le-ps_6665554_823448.html
 https://www.lemonde.fr/politique/article/2026/02/11/autour-de-la-demographie-un-debat-politique-qui-se-limite-a-la-natalite_6666233_823448.html
+https://www.lemonde.fr/politique/article/2026/02/18/emmanuel-macron-et-narendra-modi-souhaitent-un-partenariat-sans-limites_6667175_823448.html
 https://www.lemonde.fr/societe/article/2026/01/31/a-metz-le-financement-d-une-mosquee-par-la-mairie-conteste-par-une-association-de-defenseurs-de-la-laicite_6664899_3224.html
 https://www.nature.com/articles/d41586-026-00356-8
 https://www.nature.com/articles/s41378-025-01142-8
@@ -494,6 +518,7 @@ https://www.nature.com/articles/s41467-026-68856-9
 https://www.nature.com/articles/s41467-026-69362-8
 https://www.nature.com/articles/s41467-026-69499-6
 https://www.nature.com/articles/s41467-026-69757-7
+https://www.nature.com/articles/s41524-026-02000-5
 https://www.nature.com/articles/s41526-026-00570-8
 https://www.nature.com/articles/s41545-026-00558-7
 https://www.nature.com/articles/s41598-025-03217-y
@@ -517,6 +542,7 @@ https://www.nature.com/articles/s41598-026-36997-y
 https://www.nature.com/articles/s41598-026-37058-0
 https://www.nature.com/articles/s41598-026-37220-8
 https://www.nature.com/articles/s41598-026-37295-3
+https://www.nature.com/articles/s41598-026-37447-5
 https://www.nature.com/articles/s41598-026-37448-4
 https://www.nature.com/articles/s41598-026-37467-1
 https://www.nature.com/articles/s41598-026-37534-7
@@ -528,6 +554,8 @@ https://www.nature.com/articles/s41598-026-37850-y
 https://www.nature.com/articles/s41598-026-37858-4
 https://www.nature.com/articles/s41598-026-37890-4
 https://www.nature.com/articles/s41598-026-37893-1
+https://www.nature.com/articles/s41598-026-37965-2
+https://www.nature.com/articles/s41598-026-37984-z
 https://www.nature.com/articles/s41598-026-38051-3
 https://www.nature.com/articles/s41598-026-38074-w
 https://www.nature.com/articles/s41598-026-38135-0
@@ -553,6 +581,7 @@ https://www.nature.com/articles/s41598-026-39036-y
 https://www.nature.com/articles/s41598-026-39080-8
 https://www.nature.com/articles/s41598-026-39222-y
 https://www.nature.com/articles/s41598-026-39418-2
+https://www.nature.com/articles/s41598-026-39435-1
 https://www.nature.com/articles/s41598-026-39506-3
 https://www.nature.com/articles/s41598-026-39597-y
 https://www.nature.com/articles/s41598-026-39710-1
@@ -563,9 +592,16 @@ https://www.nature.com/articles/s41598-026-39807-7
 https://www.nature.com/articles/s41598-026-39828-2
 https://www.nature.com/articles/s41598-026-39858-w
 https://www.nature.com/articles/s41598-026-40007-6
+https://www.nature.com/articles/s41598-026-40071-y
 https://www.nature.com/articles/s41598-026-40097-2
+https://www.nature.com/articles/s41598-026-40101-9
+https://www.nature.com/articles/s41598-026-40232-z
 https://www.nature.com/articles/s41598-026-40240-z
 https://www.nature.com/articles/s41598-026-40473-y
+https://www.nature.com/articles/s41598-026-40489-4
+https://www.nature.com/articles/s41598-026-40613-4
+https://www.nature.com/articles/s41598-026-40618-z
+https://www.nature.com/articles/s41598-026-40646-9
 https://www.nature.com/articles/s44182-026-00080-5
 https://www.nature.com/articles/s44221-025-00574-w
 https://www.nature.com/articles/s44333-026-00081-9
