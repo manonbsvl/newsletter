@@ -75,6 +75,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/ip_26_553
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_583
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_584
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_589
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_605
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_272
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_301
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_311
@@ -184,6 +185,7 @@ https://ecfr.eu/article/escaping-the-special-relationship-how-britain-can-leave-
 https://ecfr.eu/article/europe-mauritania-and-the-gulf-states-securing-stability-and-growth-in-the-sahel/
 https://ecfr.eu/article/european-silence-on-us-iran-tensions-exposes-cracks-in-un-charter-defence/
 https://ecfr.eu/article/five-steps-to-stop-greenlands-annexation-destroying-the-eu/
+https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/
 https://ecfr.eu/article/funding-war-courting-crisis-why-chinas-support-for-russia-requires-a-european-response/
 https://ecfr.eu/article/gimme-fuel-hold-the-fire-how-europe-can-safeguard-its-energy-security-against-gulf-shocks/
 https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/
@@ -358,8 +360,10 @@ https://semiengineering.com/research-bits-feb-3/
 https://semiengineering.com/research-bits-feb-9/
 https://semiengineering.com/research-bits-mar-9/
 https://semiengineering.com/research-bits-march-3/
+https://semiengineering.com/rethinking-voice-ai-at-the-edge-a-practical-offline-pipeline/
 https://semiengineering.com/router-in-a-package-design-combining-hbm4-chiplets-and-in-package-optics/
 https://semiengineering.com/rutile-tio2-as-a-post-zro2-dielectric-platform-for-next-gen-dram-capacitors-kist/
+https://semiengineering.com/scale-up-scale-out-get-a-new-partner/
 https://semiengineering.com/semi-2026-u-s-policy-strategy/
 https://semiengineering.com/simulate-faster-with-simai-software-for-high-returns-at-a-low-cost-of-ownership/
 https://semiengineering.com/six-3d-ic-design-trends-that-secure-the-ai-era/
@@ -534,6 +538,7 @@ https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c77ed1e2r6zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78e4l3rm22o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78eyv1zdl3o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c78j3e0j281o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78x9256pn7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c7951yl59lxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss
@@ -552,12 +557,14 @@ https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8xyp9xjxr4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c93wkxgydy2o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c93wv0ylq9yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c98gne0z0rxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wxewk82qlo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd03lgmkr70o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd6z05p56xyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd6zn3ly22yo?at_medium=RSS&at_campaign=rss
@@ -576,6 +583,7 @@ https://www.bbc.com/news/articles/cdjmepg4pzlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdjmk030vzro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdr2kmjd31ro?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cdxg72nrw6vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3exl1k247o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3g0k60g4do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss
@@ -607,6 +615,7 @@ https://www.bbc.com/news/articles/cjd9zx7zne2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cje1e3n8jgvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ckg11e428e4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss
@@ -680,12 +689,14 @@ https://www.bbc.com/news/articles/cqlk5gd3kv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cr57g1ddqmdo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5lmg9l1y7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cre2l5qxy9do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crl45dp1gg5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crm8898ex3mo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crm8j8j3k38o?at_medium=RSS&at_campaign=rss
@@ -694,6 +705,7 @@ https://www.bbc.com/news/articles/crrn8rplklgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrxkjxg1zpo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/crrxywl5e2ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg3yly7gxpo?at_medium=RSS&at_campaign=rss
@@ -710,16 +722,20 @@ https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cwy9qvz3g15o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwygp3dqenwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwygr3p3e8go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwyn05d1494o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwynxdnj927o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwyx55nkxg9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwyxkzjpp87o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cwyxqdnvx9qo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwyxz3xe04yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cx2dzgy598go?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cx2gzmzn502o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2jxe382pwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2jy74895eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss
@@ -727,6 +743,7 @@ https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy031d1ny7jo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cy03zy1lr8go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy0dgpx71dyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy4qejvqv4no?at_medium=RSS&at_campaign=rss
@@ -742,6 +759,7 @@ https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz9q57y9y3xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz9v9d0xj8qo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/czdg795m5epo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czdq9gzdq5qo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cze0xj0n7jpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czejp3gep63o?at_medium=RSS&at_campaign=rss
@@ -1054,7 +1072,9 @@ https://www.lemonde.fr/economie/article/2026/03/13/a-l-usine-forvia-dans-l-orne-
 https://www.lemonde.fr/economie/article/2026/03/13/avec-la-guerre-au-moyen-orient-se-profile-un-nouveau-choc-economique-pour-l-afrique_6671010_3234.html
 https://www.lemonde.fr/economie/article/2026/03/13/les-etats-unis-autorisent-temporairement-la-vente-de-petrole-russe-sur-fond-de-flambee-des-prix-liee-a-la-guerre-en-iran_6670891_3234.html
 https://www.lemonde.fr/economie/article/2026/03/13/les-signaux-contradictoires-envoyes-par-donald-trump-sur-le-prix-du-petrole-alimentent-les-craintes-sur-l-inflation-aux-etats-unis_6670968_3234.html
+https://www.lemonde.fr/economie/article/2026/03/14/a-la-defense-logements-et-campus-etudiant-vont-venir-animer-le-quartier-d-affaires-parisien_6671221_3234.html
 https://www.lemonde.fr/economie/article/2026/03/14/l-ile-de-kharg-point-nevralgique-de-l-industrie-petroliere-iranienne-et-des-marches-energetiques-mondiaux_6671187_3234.html
+https://www.lemonde.fr/economie/article/2026/03/14/petrole-et-gaz-les-consequences-en-europe-de-la-crise-energetique-liee-a-la-guerre-au-moyen-orient-en-six-graphiques_6671204_3234.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
 https://www.lemonde.fr/idees/article/2026/02/02/budget-2026-comment-en-vouloir-a-un-elu-d-etre-genereux-avec-l-argent-public_6665125_3232.html
 https://www.lemonde.fr/idees/article/2026/02/07/nicolas-jabko-politiste-kevin-warsh-pressenti-pour-diriger-la-fed-devra-apaiser-donald-trump-sans-apparaitre-comme-son-pantin_6665744_3232.html
@@ -1120,6 +1140,7 @@ https://www.nature.com/articles/s41467-026-69499-6
 https://www.nature.com/articles/s41467-026-69757-7
 https://www.nature.com/articles/s41467-026-69902-2
 https://www.nature.com/articles/s41467-026-69999-5
+https://www.nature.com/articles/s41467-026-70607-9
 https://www.nature.com/articles/s41524-026-02000-5
 https://www.nature.com/articles/s41526-026-00570-8
 https://www.nature.com/articles/s41528-026-00549-1
@@ -1303,6 +1324,7 @@ https://www.nature.com/articles/s41598-026-41523-1
 https://www.nature.com/articles/s41598-026-41563-7
 https://www.nature.com/articles/s41598-026-41584-2
 https://www.nature.com/articles/s41598-026-41679-w
+https://www.nature.com/articles/s41598-026-41684-z
 https://www.nature.com/articles/s41598-026-41708-8
 https://www.nature.com/articles/s41598-026-41709-7
 https://www.nature.com/articles/s41598-026-41719-5
@@ -1331,6 +1353,7 @@ https://www.nature.com/articles/s41598-026-42482-3
 https://www.nature.com/articles/s41598-026-42606-9
 https://www.nature.com/articles/s41598-026-42707-5
 https://www.nature.com/articles/s41598-026-42728-0
+https://www.nature.com/articles/s41598-026-42814-3
 https://www.nature.com/articles/s41598-026-42850-z
 https://www.nature.com/articles/s41598-026-42874-5
 https://www.nature.com/articles/s41598-026-42890-5
@@ -1341,14 +1364,18 @@ https://www.nature.com/articles/s41598-026-43056-z
 https://www.nature.com/articles/s41598-026-43059-w
 https://www.nature.com/articles/s41598-026-43079-6
 https://www.nature.com/articles/s41598-026-43120-8
+https://www.nature.com/articles/s41598-026-43127-1
 https://www.nature.com/articles/s41598-026-43211-6
 https://www.nature.com/articles/s41598-026-43379-x
 https://www.nature.com/articles/s41598-026-43403-0
 https://www.nature.com/articles/s41598-026-43525-5
+https://www.nature.com/articles/s41598-026-43555-z
 https://www.nature.com/articles/s41598-026-43658-7
 https://www.nature.com/articles/s41598-026-43666-7
+https://www.nature.com/articles/s41598-026-43976-w
 https://www.nature.com/articles/s41598-026-43977-9
 https://www.nature.com/articles/s41598-026-43995-7
+https://www.nature.com/articles/s41598-026-44376-w
 https://www.nature.com/articles/s41746-026-02445-4
 https://www.nature.com/articles/s41746-026-02481-0
 https://www.nature.com/articles/s41893-026-01774-2
@@ -1585,6 +1612,7 @@ https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-c
 https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/
 https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/
 https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/
+https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/
 https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/
 https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/
 https://www.usinenouvelle.com/aero-spatial/aeronautique/dassault-aviation/scaf-commandes-record-rupture-technologique-lmb-aerospace-et-renault-les-dossiers-chauds-du-nouveau-patron-de-la-dga.YKF6CDVTRBG2BJJ5DJZMSCK23M.html
