@@ -97,6 +97,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/mex_26_578
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_594
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_600
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_606
+https://ec.europa.eu/commission/presscorner/detail/en/mex_26_612
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_415
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_527
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_543
@@ -152,6 +153,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/speech_26_601
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_602
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_603
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_607
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_610
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_307
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_308
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_318
@@ -188,6 +190,7 @@ https://ecfr.eu/article/five-steps-to-stop-greenlands-annexation-destroying-the-
 https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/
 https://ecfr.eu/article/funding-war-courting-crisis-why-chinas-support-for-russia-requires-a-european-response/
 https://ecfr.eu/article/gimme-fuel-hold-the-fire-how-europe-can-safeguard-its-energy-security-against-gulf-shocks/
+https://ecfr.eu/article/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks/
 https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/
 https://ecfr.eu/article/its-the-geoeconomy-stupid-why-the-eu-india-deal-matters-beyond-trade/
 https://ecfr.eu/article/keep-ice-cool-how-europeans-should-respond-to-trumps-greenland-tariff-threats/
@@ -425,11 +428,13 @@ https://www.autoactu.com/actualites/toyota-garde-le-1er-rang-mondial-et-creuse-l
 https://www.autoritedelaconcurrence.fr/fr/article/la-commission-europeenne-ouvre-une-procedure-dexamen-du-rachat-de-grail-par-illumina-fondee
 https://www.autoritedelaconcurrence.fr/fr/node/10588
 https://www.autoritedelaconcurrence.fr/fr/node/10589
+https://www.bbc.co.uk/sounds/play/m002sfvg?at_medium=RSS&at_campaign=rss
 https://www.bbc.co.uk/sounds/play/w3ct73n3?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c07j0v4yvd0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c0mge7lzr32o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0q3dvww5pqo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0q48d71ke8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0rj5lly78xo?at_medium=RSS&at_campaign=rss
@@ -605,6 +610,7 @@ https://www.bbc.com/news/articles/cgl5gee07xzo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgrz790l8g2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgrzvdqze5xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj0dq19qjp2o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6dk0845n7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj983wrngyvo?at_medium=RSS&at_campaign=rss
@@ -638,6 +644,7 @@ https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm211jnz568o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm24j1dpexvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cm287wg3nr2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm287ylyydjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss
@@ -865,6 +872,7 @@ https://www.just-auto.com/news/chinas-baic-signs-order-for-hesais-next-gen-lidar
 https://www.just-auto.com/news/chinas-pricing-guidelines-to-push-automakers-toward-innovation-led-competition/
 https://www.just-auto.com/news/chinas-pv-retail-sales-plunge-25-in-february/
 https://www.just-auto.com/news/chinas-zeekr-enters-italian-market/
+https://www.just-auto.com/news/chinese-vehicle-sales-fall-15-in-february/
 https://www.just-auto.com/news/chinese-vehicle-sales-fall-3-in-january/
 https://www.just-auto.com/news/cie-automotive-receives-support-from-the-eib-for-decarbonisation-strategy/
 https://www.just-auto.com/news/denso-y1-3tn-bid-rohm/
@@ -924,6 +932,7 @@ https://www.just-auto.com/news/mercedes-sharing-south-africa-plant-gwm/
 https://www.just-auto.com/news/mg-brand-adds-mg4-ev-urban-to-uk-range/
 https://www.just-auto.com/news/microchip-hyundai-single-pair-ethernet/
 https://www.just-auto.com/news/middle-east-tensions-pressure-global-demand/
+https://www.just-auto.com/news/mitsubishi-fuso-india-global-engineering-hub/
 https://www.just-auto.com/news/mitsubishi-launches-xforce-production-in-malaysia/
 https://www.just-auto.com/news/mitsubishis-global-output-rises-8-in-january/
 https://www.just-auto.com/news/mitsubishis-global-vehicle-output-rises-6-in-december/
@@ -941,6 +950,7 @@ https://www.just-auto.com/news/philippine-vehicle-sales-fall-10-in-january/
 https://www.just-auto.com/news/pirelli-board-blocks-cyber-tyre-spin-off/
 https://www.just-auto.com/news/pirelli-meets-2025-targets/
 https://www.just-auto.com/news/posco-sila-to-collaborate-in-next-gen-battery-technologies/
+https://www.just-auto.com/news/posco-to-invest-in-global-artificial-graphite-anode-plant-in-vietnam/
 https://www.just-auto.com/news/proton-enters-phev-segment-with-new-e-mas-7-variant/
 https://www.just-auto.com/news/qualcomm-tata-tieup-automotive-module/
 https://www.just-auto.com/news/qualcomm-wayve-partner-aiadas-tech/
@@ -956,6 +966,7 @@ https://www.just-auto.com/news/skf-rebrands-stand-alone-automotive-unit/
 https://www.just-auto.com/news/skoda-battery-assembly-plant-czech-republic/
 https://www.just-auto.com/news/skoda-steps-up-its-vw-group-manufacturing-contribution/
 https://www.just-auto.com/news/south-korea-import-sales-surge-38-in-january/
+https://www.just-auto.com/news/stellantis-chinese-partnerships-european-operations/
 https://www.just-auto.com/news/stellantis-exit-samsung-us-battery-venture/
 https://www.just-auto.com/news/stellantis-leapmotor-ev-tech-tie-up/
 https://www.just-auto.com/news/stellantis-plans-e22-2bn-charges/
@@ -1075,6 +1086,10 @@ https://www.lemonde.fr/economie/article/2026/03/13/les-signaux-contradictoires-e
 https://www.lemonde.fr/economie/article/2026/03/14/a-la-defense-logements-et-campus-etudiant-vont-venir-animer-le-quartier-d-affaires-parisien_6671221_3234.html
 https://www.lemonde.fr/economie/article/2026/03/14/l-ile-de-kharg-point-nevralgique-de-l-industrie-petroliere-iranienne-et-des-marches-energetiques-mondiaux_6671187_3234.html
 https://www.lemonde.fr/economie/article/2026/03/14/petrole-et-gaz-les-consequences-en-europe-de-la-crise-energetique-liee-a-la-guerre-au-moyen-orient-en-six-graphiques_6671204_3234.html
+https://www.lemonde.fr/economie/article/2026/03/15/guerre-en-iran-les-taux-d-interet-de-la-france-au-plus-haut-depuis-2011_6671315_3234.html
+https://www.lemonde.fr/economie/article/2026/03/16/avec-la-guerre-contre-l-iran-la-chine-decouvre-la-vulnerabilite-de-ses-interets-au-moyen-orient_6671382_3234.html
+https://www.lemonde.fr/economie/article/2026/03/16/la-fed-entre-soutien-a-l-economie-et-risque-d-une-poussee-de-l-inflation-prise-entre-deux-feux_6671354_3234.html
+https://www.lemonde.fr/economie/article/2026/03/16/petrole-les-frappes-sur-l-ile-de-kharg-renforcent-les-craintes-d-une-perturbation-durable-des-approvisionnements_6671376_3234.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
 https://www.lemonde.fr/idees/article/2026/02/02/budget-2026-comment-en-vouloir-a-un-elu-d-etre-genereux-avec-l-argent-public_6665125_3232.html
 https://www.lemonde.fr/idees/article/2026/02/07/nicolas-jabko-politiste-kevin-warsh-pressenti-pour-diriger-la-fed-devra-apaiser-donald-trump-sans-apparaitre-comme-son-pantin_6665744_3232.html
@@ -1094,6 +1109,7 @@ https://www.lemonde.fr/idees/article/2026/03/01/le-passage-dans-la-langue-couran
 https://www.lemonde.fr/idees/article/2026/03/07/la-tarification-carbone-aux-frontieres-de-l-europe-est-une-bonne-idee-mais-qui-presente-des-limites-evidentes_6669901_3232.html
 https://www.lemonde.fr/idees/article/2026/03/09/comment-le-capitalisme-pourrait-entrer-en-etat-d-urgence_6670143_3232.html
 https://www.lemonde.fr/idees/article/2026/03/14/la-souverainete-financiere-de-l-europe-passe-par-les-eurobonds_6671182_3232.html
+https://www.lemonde.fr/idees/article/2026/03/16/elections-municipales-2026-un-paysage-fragmente-et-instable_6671387_3232.html
 https://www.lemonde.fr/international/article/2026/02/02/le-japon-dit-avoir-decouvert-des-terres-rares-lors-d-une-exploration-en-eaux-profondes_6665039_3210.html
 https://www.lemonde.fr/international/article/2026/02/19/guerre-en-ukraine-la-russie-et-les-etats-unis-negocient-des-accords-economiques-bilateraux-massifs-en-marge-des-pourparlers-de-paix_6667346_3210.html
 https://www.lemonde.fr/international/article/2026/02/28/iran-les-attaques-ravivent-les-craintes-sur-les-cours-du-petrole_6668703_3210.html
@@ -1115,6 +1131,7 @@ https://www.lemonde.fr/planete/article/2026/02/14/dieselgate-volkswagen-premier-
 https://www.lemonde.fr/planete/article/2026/02/20/dermatose-bovine-apres-huit-mois-de-tensions-la-crise-sanitaire-semble-toucher-a-sa-fin_6667501_3244.html
 https://www.lemonde.fr/planete/article/2026/02/21/salon-de-l-agriculture-derriere-les-objectifs-de-simplification-et-de-relance-de-la-production-les-reculs-environnementaux-s-accumulent-depuis-deux-ans_6667733_3244.html
 https://www.lemonde.fr/podcasts/article/2026/03/11/gaz-petrole-le-choc-economique-de-la-guerre-au-moyen-orient_6670415_5463015.html
+https://www.lemonde.fr/podcasts/article/2026/03/16/luxe-francais-les-racines-d-une-crise_6671357_5463015.html
 https://www.lemonde.fr/politique/article/2026/02/01/municipales-2026-roubaix-laboratoire-de-la-strategie-electorale-de-jean-luc-melenchon_6665021_823448.html
 https://www.lemonde.fr/politique/article/2026/02/05/municipales-les-ecologistes-suspendent-une-trentaine-de-militants-apres-une-tribune-denoncant-la-strategie-d-alliance-avec-le-ps_6665554_823448.html
 https://www.lemonde.fr/politique/article/2026/02/11/autour-de-la-demographie-un-debat-politique-qui-se-limite-a-la-natalite_6666233_823448.html
@@ -1400,6 +1417,7 @@ https://www.nature.com/articles/s44458-026-00045-7
 https://www.nature.com/articles/s44460-025-00021-z
 https://www.nature.com/articles/s44460-026-00032-4
 https://www.nature.com/articles/s44460-026-00037-z
+https://www.nature.com/articles/s44460-026-00041-3
 https://www.nber.org/papers/w34716#fromrss
 https://www.nber.org/papers/w34717#fromrss
 https://www.nber.org/papers/w34720#fromrss
@@ -1509,6 +1527,15 @@ https://www.nber.org/papers/w34941#fromrss
 https://www.nber.org/papers/w34942#fromrss
 https://www.nber.org/papers/w34945#fromrss
 https://www.nber.org/papers/w34946#fromrss
+https://www.nber.org/papers/w34950#fromrss
+https://www.nber.org/papers/w34955#fromrss
+https://www.nber.org/papers/w34956#fromrss
+https://www.nber.org/papers/w34957#fromrss
+https://www.nber.org/papers/w34958#fromrss
+https://www.nber.org/papers/w34961#fromrss
+https://www.nber.org/papers/w34963#fromrss
+https://www.nber.org/papers/w34964#fromrss
+https://www.nber.org/papers/w34968#fromrss
 https://www.politico.com/news/2025/12/08/trump-tariffs-mexico-rio-grande-water-00682220
 https://www.politico.com/news/2025/12/08/trumps-tariff-costs-consumers-00679261
 https://www.politico.com/news/2025/12/14/trump-hardball-tariff-fees-trade-00689892
@@ -1547,6 +1574,7 @@ https://www.politico.com/news/2026/03/12/iran-war-oil-market-disruption-00824791
 https://www.politico.com/news/2026/03/12/oil-prices-iran-trump-war-energy-trends-00823417
 https://www.politico.com/news/2026/03/12/us-shipping-oil-prices-jones-act-00825650
 https://www.politico.com/news/2026/03/13/oil-iran-trump-price-messaging-00826428
+https://www.politico.com/news/2026/03/15/energy-chris-wright-iran-war-weeks-00829247
 https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888
 https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/
 https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/
