@@ -438,6 +438,7 @@ https://tnova.fr/economie-social/territoires-metropoles/budget-2026-rebatir-un-c
 https://tnova.fr/societe/immigration-integration-non-discrimination/politique-migratoire-lexception-espagnole/
 https://tnova.fr/societe/sante/les-virus-nont-pas-besoin-de-visas/
 https://tnova.fr/societe/sante/partenariats-en-sante-et-patients-partenaires/
+https://tnova.fr/societe/sante/sante-mentale-au-travail-les-entreprises-francaises-nont-plus-le-choix-de-lattentisme/
 https://www.alternatives-economiques.fr/arnaud-miranda-les-neoreactionnaires-poussent-trump-vers-le-coup-det/00118133
 https://www.alternatives-economiques.fr/au-bangladesh-linterim-de-yunus-se-termine-la-crise-sociale-demeure/00117726
 https://www.alternatives-economiques.fr/byd-prend-a-tesla-la-place-de-leader-mondial-de-la-voiture-electrique-et-3-a/00117931
@@ -472,9 +473,11 @@ https://www.autoritedelaconcurrence.fr/fr/node/10588
 https://www.autoritedelaconcurrence.fr/fr/node/10589
 https://www.bbc.co.uk/iplayer/episode/m002sw4z?at_medium=RSS&at_campaign=rss
 https://www.bbc.co.uk/sounds/play/m002sfvg?at_medium=RSS&at_campaign=rss
+https://www.bbc.co.uk/sounds/play/m002t118?at_medium=RSS&at_campaign=rss
 https://www.bbc.co.uk/sounds/play/w3ct73n3?at_medium=RSS&at_campaign=rss
 https://www.bbc.co.uk/sounds/play/w3ct747l?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c070en1gr79o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c07j0v4yvd0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss
@@ -509,6 +512,7 @@ https://www.bbc.com/news/articles/c1l76581d0ro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c1l7pedyzjeo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c20jn073gj4o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c20zg54g5vvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c23rxr1lz8do?at_medium=RSS&at_campaign=rss
@@ -552,6 +556,7 @@ https://www.bbc.com/news/articles/c3wzvggxz67o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g0201rj8go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g0ygqvq21o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c4g2kyg4e78o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g54xzzze0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g58vlwdq3o?at_medium=RSS&at_campaign=rss
@@ -567,16 +572,19 @@ https://www.bbc.com/news/articles/c4gjmm7dlggo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gjxwre1ydo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c4gqyp8q594o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y2lj3md8po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y2nn582l5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c5y5d2g3wgxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y5lvznj1eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y6820nn23o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5ykzyd0rkyo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5yv255914xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss
@@ -605,6 +613,7 @@ https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78x9256pn7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c7951yl59lxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c79jwxypp1ro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c80jy2lkdg3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss
@@ -631,6 +640,7 @@ https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c9d41ne6dx1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wxewk82qlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss
@@ -663,6 +673,7 @@ https://www.bbc.com/news/articles/ce8wew99ngpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cedw468e50wo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cew7ll9v0wqo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cg5gpe3jdl9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cg7e2elj05po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cg7y45kxvp9o?at_medium=RSS&at_campaign=rss
@@ -674,13 +685,16 @@ https://www.bbc.com/news/articles/cgk2d7yxm2zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgk2zygg0k3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgk8z8xxpgmo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgl5gee07xzo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cgl5rwgr5l2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgrz790l8g2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgrzvdqze5xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj0dq19qjp2o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj375v264rko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6d66w0995o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6dk0845n7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj94lp9k28zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj983wrngyvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj98zm22327o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss
@@ -714,6 +728,7 @@ https://www.bbc.com/news/articles/clyx9n5p7v7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyz0ep9g8lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyz1vqqjq9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/clyznzrqeggo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm211jnz568o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm24j1dpexvo?at_medium=RSS&at_campaign=rss
@@ -791,6 +806,7 @@ https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrxkjxg1zpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrxywl5e2ko?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvg05xrgkg6o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg12yerjr9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss
@@ -806,6 +822,7 @@ https://www.bbc.com/news/articles/cvgkk2de8e5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvgnqk5wz5go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvgp7ry9evwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cwy35k5x5d3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss
@@ -825,6 +842,8 @@ https://www.bbc.com/news/articles/cx2dndp7z12o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2dxz5l962o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2dzgy598go?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2gzmzn502o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2jxe382pwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2jy74895eo?at_medium=RSS&at_campaign=rss
@@ -839,6 +858,7 @@ https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy0dgpx71dyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy41ly2d9wko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy4qejvqv4no?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cy514kv2vzro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy8pzzmpdz9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss
@@ -851,6 +871,7 @@ https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cz90ww8veqno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz9q57y9y3xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz9v9d0xj8qo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czdg795m5epo?at_medium=RSS&at_campaign=rss
@@ -873,6 +894,7 @@ https://www.bbc.com/news/videos/c5ygpz9yr3no?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/c5yqx9wg9ego?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/c93w42zx66do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cd03py027vyo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/videos/cdxdlzkwnkpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cedz4x07ezpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cewz8kplwkdo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cvgdrrnlyjlo?at_medium=RSS&at_campaign=rss
@@ -1384,6 +1406,7 @@ https://www.nature.com/articles/s41598-026-38846-4
 https://www.nature.com/articles/s41598-026-39005-5
 https://www.nature.com/articles/s41598-026-39036-y
 https://www.nature.com/articles/s41598-026-39054-w
+https://www.nature.com/articles/s41598-026-39064-8
 https://www.nature.com/articles/s41598-026-39080-8
 https://www.nature.com/articles/s41598-026-39126-x
 https://www.nature.com/articles/s41598-026-39172-5
@@ -1493,6 +1516,7 @@ https://www.nature.com/articles/s41598-026-42061-6
 https://www.nature.com/articles/s41598-026-42090-1
 https://www.nature.com/articles/s41598-026-42092-z
 https://www.nature.com/articles/s41598-026-42096-9
+https://www.nature.com/articles/s41598-026-42127-5
 https://www.nature.com/articles/s41598-026-42138-2
 https://www.nature.com/articles/s41598-026-42165-z
 https://www.nature.com/articles/s41598-026-42183-x
@@ -1516,6 +1540,7 @@ https://www.nature.com/articles/s41598-026-42874-5
 https://www.nature.com/articles/s41598-026-42890-5
 https://www.nature.com/articles/s41598-026-42951-9
 https://www.nature.com/articles/s41598-026-42959-1
+https://www.nature.com/articles/s41598-026-43000-1
 https://www.nature.com/articles/s41598-026-43024-7
 https://www.nature.com/articles/s41598-026-43032-7
 https://www.nature.com/articles/s41598-026-43049-y
@@ -1536,16 +1561,22 @@ https://www.nature.com/articles/s41598-026-43976-w
 https://www.nature.com/articles/s41598-026-43977-9
 https://www.nature.com/articles/s41598-026-43995-7
 https://www.nature.com/articles/s41598-026-44016-3
+https://www.nature.com/articles/s41598-026-44019-0
+https://www.nature.com/articles/s41598-026-44032-3
 https://www.nature.com/articles/s41598-026-44289-8
 https://www.nature.com/articles/s41598-026-44340-8
 https://www.nature.com/articles/s41598-026-44368-w
 https://www.nature.com/articles/s41598-026-44376-w
 https://www.nature.com/articles/s41598-026-44409-4
 https://www.nature.com/articles/s41598-026-44453-0
+https://www.nature.com/articles/s41598-026-44530-4
 https://www.nature.com/articles/s41598-026-44603-4
 https://www.nature.com/articles/s41598-026-44723-x
+https://www.nature.com/articles/s41598-026-44848-z
 https://www.nature.com/articles/s41598-026-44865-y
+https://www.nature.com/articles/s41598-026-44874-x
 https://www.nature.com/articles/s41598-026-44888-5
+https://www.nature.com/articles/s41598-026-45235-4
 https://www.nature.com/articles/s41598-026-45269-8
 https://www.nature.com/articles/s41612-026-01374-z
 https://www.nature.com/articles/s41746-026-02445-4
@@ -1813,6 +1844,7 @@ https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-cou
 https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/
 https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/
 https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/
+https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/
 https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/
 https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/
 https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/
