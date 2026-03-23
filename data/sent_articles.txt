@@ -81,6 +81,8 @@ https://ec.europa.eu/commission/presscorner/detail/en/ip_26_605
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_636
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_647
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_651
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_655
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_656
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_660
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_272
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_301
@@ -447,6 +449,7 @@ https://www.alternatives-economiques.fr/christian-chavagneux/guerre-en-iran-enco
 https://www.alternatives-economiques.fr/complementaires-sante-limpasse-juridique-du-gel-des-tarifs/00117806
 https://www.alternatives-economiques.fr/comprendre-laccord-commercial-entre-lue-et-linde-en-6-graphiques/00117875
 https://www.alternatives-economiques.fr/dalcatel-a-nokia-le-lent-declin-des-telecoms-francais/00117836
+https://www.alternatives-economiques.fr/en-pleine-crise-energetique-letat-reste-mal-arme-contre-linflation-des/00118132
 https://www.alternatives-economiques.fr/entre-les-mollahs-et-la-guerre-les-iraniens-esperent-une-troisieme-voie/00118087
 https://www.alternatives-economiques.fr/eteindre-leclairage-pour-retrouver-la-nuit-et-faire-des-economies-le-pari/00117944
 https://www.alternatives-economiques.fr/face-aux-sanctions-occidentales-un-autre-capitalisme-sorganise/00116998
@@ -606,6 +609,7 @@ https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c77ed1e2r6zo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78e4l3rm22o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78eyv1zdl3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78j3e0j281o?at_medium=RSS&at_campaign=rss
@@ -642,6 +646,7 @@ https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9d41ne6dx1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c9v0v1p4el8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wxewk82qlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd03lgmkr70o?at_medium=RSS&at_campaign=rss
@@ -663,6 +668,7 @@ https://www.bbc.com/news/articles/cdjmk030vzro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdr2kmjd31ro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdxg72nrw6vo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3exl1k247o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3g0k60g4do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss
@@ -798,6 +804,7 @@ https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crl45dp1gg5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crm8898ex3mo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crm8j8j3k38o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crmlr0nk8y9o?at_medium=RSS&at_campaign=rss
@@ -878,6 +885,7 @@ https://www.bbc.com/news/articles/czdg795m5epo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czdq9gzdq5qo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cze0xj0n7jpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czejp3gep63o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czj17w3n1e8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czj1833lyddo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czjg2rlyvyzo?at_medium=RSS&at_campaign=rss
@@ -1042,6 +1050,7 @@ https://www.just-auto.com/news/jsw-mg-expand-halol-plant-capacity-india/
 https://www.just-auto.com/news/jtekt-divest-european-operations/
 https://www.just-auto.com/news/kia-launches-production-of-telluride-hev-in-the-us/
 https://www.just-auto.com/news/kia-totalenergies-extend-global-partnership/
+https://www.just-auto.com/news/lamborghini-posts-revenue-rise/
 https://www.just-auto.com/news/lg-gm-lfp-ess-batteries-tennessee/
 https://www.just-auto.com/news/lucid-trims-us-workforce-12/
 https://www.just-auto.com/news/lyten-northvolts-swedish-battery-assets/
@@ -1069,8 +1078,10 @@ https://www.just-auto.com/news/mitsubishis-global-output-rises-8-in-january/
 https://www.just-auto.com/news/mitsubishis-global-vehicle-output-rises-6-in-december/
 https://www.just-auto.com/news/mobis-announces-quad-alliance-to-develop-hwd-technologies/
 https://www.just-auto.com/news/momenta-files-hong-kong-ipo/
+https://www.just-auto.com/news/more-european-automotive-suppliers-bracing-for-losses/
 https://www.just-auto.com/news/motional-uber-robotaxi-service-las-vegas/
 https://www.just-auto.com/news/new-xpeng-g6-now-at-uk-retailers-nationwide/
+https://www.just-auto.com/news/nhtsa-steps-up-tesla-fsd-probe/
 https://www.just-auto.com/news/nio-bosch-in-sdv-technology-partnership/
 https://www.just-auto.com/news/nissan-launches-new-gravite-in-india/
 https://www.just-auto.com/news/nissan-leaf-chosen-by-the-wwcoty-as-the-supreme-winner-of-2026/
@@ -1150,15 +1161,18 @@ https://www.just-auto.com/news/volkswagen-targets-20-cost-cuts/
 https://www.just-auto.com/news/volvo-cars-expanding-ex60-output-to-meet-strong-demand/
 https://www.just-auto.com/news/volvo-launches-largest-software-update/
 https://www.just-auto.com/news/waymo-16bn-funding-110bn-valuation/
+https://www.just-auto.com/news/weride-enters-slovakia-through/
 https://www.just-auto.com/news/weride-farizon-partnership-robotaxi-production/
 https://www.just-auto.com/news/xpeng-outlines-ai-powered-vla-2-0-intelligent-driving-architecture/
 https://www.just-auto.com/news/zf-shifts-strategy-hybrid-demand-eases/
+https://www.just-auto.com/news/zf-signals-more-divestments/
 https://www.just-auto.com/news/zf-wins-major-order-for-its-axtrax-2-lf-in-india/
 https://www.lemonde.fr/actualite-medias/article/2026/02/11/l-arcom-sanctionne-cnews-d-une-amende-de-100-000-euros-pour-propos-juges-discriminatoires-envers-algeriens-et-palestiniens_6666282_3236.html
 https://www.lemonde.fr/afrique/article/2026/03/10/en-rdc-le-premier-producteur-mondial-de-cobalt-suspecte-d-etre-a-l-origine-d-une-epidemie-de-maladies-respiratoires_6670187_3212.html
 https://www.lemonde.fr/argent/article/2026/02/10/assurance-vie-les-fonds-en-euros-les-plus-performants_6666092_1657007.html
 https://www.lemonde.fr/argent/article/2026/03/03/banque-41-des-francais-sont-a-decouvert-au-moins-une-fois-par-an_6669316_1657007.html
 https://www.lemonde.fr/campus/article/2026/02/05/voyager-sans-avion-ces-sites-internet-qui-tentent-de-faire-basculer-les-imaginaires_6665457_4401467.html
+https://www.lemonde.fr/disparitions/article/2026/03/23/lionel-jospin-socialiste-au-destin-foudroye-est-mort_6673872_3382.html
 https://www.lemonde.fr/economie-francaise/article/2026/02/07/la-filiere-de-l-edition-prete-a-en-decoudre-avec-les-ia-generatives-qui-piratent-le-droit-d-auteur_6665794_1656968.html
 https://www.lemonde.fr/economie/article/2026/01/31/ia-nouveau-monde-editions-accuse-mistral-ai-d-avoir-pirate-un-cinquieme-de-son-catalogue_6664916_3234.html
 https://www.lemonde.fr/economie/article/2026/01/31/la-cote-du-b-uf-au-plus-haut_6664876_3234.html
@@ -1235,6 +1249,8 @@ https://www.lemonde.fr/economie/article/2026/03/19/pour-la-banque-centrale-europ
 https://www.lemonde.fr/economie/article/2026/03/19/spotify-et-deezer-ont-eu-beau-eclore-quasiment-en-meme-temps-cela-reste-surprenant-de-les-voir-sortir-du-rouge-au-meme-moment_6672388_3234.html
 https://www.lemonde.fr/economie/article/2026/03/20/les-etats-unis-veulent-assouplir-la-reglementation-du-secteur-bancaire_6672740_3234.html
 https://www.lemonde.fr/economie/article/2026/03/21/le-cours-des-cereales-reste-au-ras-des-paquerettes_6673252_3234.html
+https://www.lemonde.fr/economie/article/2026/03/23/crise-energetique-en-europe-les-lecons-incompletes-de-la-guerre-en-ukraine_6673861_3234.html
+https://www.lemonde.fr/economie/article/2026/03/23/du-choc-petrolier-provoque-par-la-guerre-en-iran-a-la-spirale-inflationniste-comment-la-hausse-des-prix-se-propage-a-l-economie_6673846_3234.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
 https://www.lemonde.fr/idees/article/2026/02/02/budget-2026-comment-en-vouloir-a-un-elu-d-etre-genereux-avec-l-argent-public_6665125_3232.html
 https://www.lemonde.fr/idees/article/2026/02/07/nicolas-jabko-politiste-kevin-warsh-pressenti-pour-diriger-la-fed-devra-apaiser-donald-trump-sans-apparaitre-comme-son-pantin_6665744_3232.html
@@ -1256,6 +1272,7 @@ https://www.lemonde.fr/idees/article/2026/03/09/comment-le-capitalisme-pourrait-
 https://www.lemonde.fr/idees/article/2026/03/14/la-souverainete-financiere-de-l-europe-passe-par-les-eurobonds_6671182_3232.html
 https://www.lemonde.fr/idees/article/2026/03/16/elections-municipales-2026-un-paysage-fragmente-et-instable_6671387_3232.html
 https://www.lemonde.fr/idees/article/2026/03/21/patrick-artus-quand-ils-rejettent-la-perspective-d-une-crise-financiere-les-marches-sont-bien-optimistes_6673092_3232.html
+https://www.lemonde.fr/idees/article/2026/03/23/le-choc-petrolier-au-moyen-orient-est-une-divine-surprise-pour-la-russie_6673853_3232.html
 https://www.lemonde.fr/international/article/2026/02/02/le-japon-dit-avoir-decouvert-des-terres-rares-lors-d-une-exploration-en-eaux-profondes_6665039_3210.html
 https://www.lemonde.fr/international/article/2026/02/19/guerre-en-ukraine-la-russie-et-les-etats-unis-negocient-des-accords-economiques-bilateraux-massifs-en-marge-des-pourparlers-de-paix_6667346_3210.html
 https://www.lemonde.fr/international/article/2026/02/28/iran-les-attaques-ravivent-les-craintes-sur-les-cours-du-petrole_6668703_3210.html
@@ -1291,6 +1308,7 @@ https://www.lemonde.fr/politique/article/2026/03/07/france-travail-tente-d-encad
 https://www.lemonde.fr/politique/article/2026/03/08/municipales-en-correze-l-extreme-droite-s-invite-sur-les-terres-de-chirac-et-hollande_6669960_823448.html
 https://www.lemonde.fr/politique/article/2026/03/16/l-insoumis-david-guiraud-largement-en-tete-au-premier-tour-a-roubaix-on-gagne-4-0-a-la-mi-temps_6671459_823448.html
 https://www.lemonde.fr/politique/article/2026/03/19/municipales-a-lorient-l-ecologiste-damien-girard-a-la-reconquete-de-la-ville_6672376_823448.html
+https://www.lemonde.fr/politique/article/2026/03/23/mort-de-lionel-jospin-olivier-faure-salue-la-memoire-d-un-inspirateur-jean-luc-melenchon-rend-hommage-a-l-homme-de-l-alliance-rouge-rose-vert_6673880_823448.html
 https://www.lemonde.fr/societe/article/2026/01/31/a-metz-le-financement-d-une-mosquee-par-la-mairie-conteste-par-une-association-de-defenseurs-de-la-laicite_6664899_3224.html
 https://www.lemonde.fr/societe/article/2026/03/09/1-1-million-d-euros-en-neuf-mois-dans-les-coulisses-d-une-fraude-presumee-a-maprimrenov_6670041_3224.html
 https://www.nature.com/articles/d41586-026-00356-8
@@ -1431,6 +1449,7 @@ https://www.nature.com/articles/s41598-026-39788-7
 https://www.nature.com/articles/s41598-026-39807-7
 https://www.nature.com/articles/s41598-026-39828-2
 https://www.nature.com/articles/s41598-026-39858-w
+https://www.nature.com/articles/s41598-026-39870-0
 https://www.nature.com/articles/s41598-026-39880-y
 https://www.nature.com/articles/s41598-026-40007-6
 https://www.nature.com/articles/s41598-026-40022-7
@@ -1576,6 +1595,7 @@ https://www.nature.com/articles/s41598-026-44848-z
 https://www.nature.com/articles/s41598-026-44865-y
 https://www.nature.com/articles/s41598-026-44874-x
 https://www.nature.com/articles/s41598-026-44888-5
+https://www.nature.com/articles/s41598-026-45176-y
 https://www.nature.com/articles/s41598-026-45235-4
 https://www.nature.com/articles/s41598-026-45269-8
 https://www.nature.com/articles/s41612-026-01374-z
@@ -1714,6 +1734,7 @@ https://www.nber.org/papers/w34941#fromrss
 https://www.nber.org/papers/w34942#fromrss
 https://www.nber.org/papers/w34945#fromrss
 https://www.nber.org/papers/w34946#fromrss
+https://www.nber.org/papers/w34949#fromrss
 https://www.nber.org/papers/w34950#fromrss
 https://www.nber.org/papers/w34955#fromrss
 https://www.nber.org/papers/w34956#fromrss
@@ -1726,6 +1747,13 @@ https://www.nber.org/papers/w34965#fromrss
 https://www.nber.org/papers/w34968#fromrss
 https://www.nber.org/papers/w34969#fromrss
 https://www.nber.org/papers/w34970#fromrss
+https://www.nber.org/papers/w34972#fromrss
+https://www.nber.org/papers/w34977#fromrss
+https://www.nber.org/papers/w34978#fromrss
+https://www.nber.org/papers/w34986#fromrss
+https://www.nber.org/papers/w34988#fromrss
+https://www.nber.org/papers/w34989#fromrss
+https://www.nber.org/papers/w34990#fromrss
 https://www.politico.com/news/2025/12/08/trump-tariffs-mexico-rio-grande-water-00682220
 https://www.politico.com/news/2025/12/08/trumps-tariff-costs-consumers-00679261
 https://www.politico.com/news/2025/12/14/trump-hardball-tariff-fees-trade-00689892
@@ -1849,6 +1877,7 @@ https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computi
 https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/
 https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/
 https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/
+https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/
 https://www.usinenouvelle.com/aero-spatial/aeronautique/dassault-aviation/scaf-commandes-record-rupture-technologique-lmb-aerospace-et-renault-les-dossiers-chauds-du-nouveau-patron-de-la-dga.YKF6CDVTRBG2BJJ5DJZMSCK23M.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/embraer/aeronautique-le-taxi-volant-du-bresilien-embraer-engrange-les-commandes-et-sapproche-de-son-exploitation-commerciale.VM664AM2DZDCLLFZE6EVS5V25Y.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/helicoptere/chez-optima-aero-sandra-bernard-fait-rimer-le-demantelement-dhelicopteres-avec-leconomie-circulaire.A5CW3A6GZZODVNKQFTID3CF3PE.html
