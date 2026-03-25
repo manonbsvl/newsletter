@@ -36,6 +36,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/fs_26_432
 https://ec.europa.eu/commission/presscorner/detail/en/fs_26_487
 https://ec.europa.eu/commission/presscorner/detail/en/fs_26_529
 https://ec.europa.eu/commission/presscorner/detail/en/fs_26_646
+https://ec.europa.eu/commission/presscorner/detail/en/fs_26_688
 https://ec.europa.eu/commission/presscorner/detail/en/inf_26_115
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_214
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_232
@@ -86,6 +87,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/ip_26_655
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_656
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_660
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_672
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_687
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_272
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_301
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_311
@@ -179,6 +181,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/speech_26_649
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_658
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_661
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_670
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_717
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_307
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_308
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_318
@@ -202,6 +205,8 @@ https://ec.europa.eu/commission/presscorner/detail/en/statement_26_609
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_624
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_642
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_673
+https://ec.europa.eu/commission/presscorner/detail/en/statement_26_702
+https://ec.europa.eu/commission/presscorner/detail/en/statement_26_706
 https://ecfr.eu/article/a-kurdish-rebellion-in-iran-could-be-a-disaster/
 https://ecfr.eu/article/a-new-world-in-trade-how-europeans-can-make-the-most-of-the-india-deal/
 https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/
@@ -251,6 +256,7 @@ https://ecfr.eu/article/under-my-parapluie-macrons-nuclear-guarantee-for-europe/
 https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/
 https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/
 https://ecfr.eu/article/where-does-europe-go-from-here/
+https://ecfr.eu/article/why-china-not-russia-could-be-the-real-winner-of-the-iran-war/
 https://ecfr.eu/podcasts/episode/bretton-woods-institutions-in-a-new-world-order/
 https://ecfr.eu/podcasts/episode/europe-africa-relations-in-2026/
 https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/
@@ -352,6 +358,7 @@ https://semiengineering.com/blog-review-feb-18-2/
 https://semiengineering.com/blog-review-feb-25-2/
 https://semiengineering.com/blog-review-feb-4-2/
 https://semiengineering.com/blog-review-mar-18/
+https://semiengineering.com/blog-review-mar-25/
 https://semiengineering.com/carrier-mapping-in-sub-2nm-node-nsfets-with-ssrm-imec-ku-leuven/
 https://semiengineering.com/catching-critical-defects-in-tsvs-and-stacked-chips/
 https://semiengineering.com/chip-industry-technical-paper-roundup-feb-17/
@@ -459,6 +466,7 @@ https://www.alternatives-economiques.fr/christian-chavagneux/guerre-en-iran-enco
 https://www.alternatives-economiques.fr/complementaires-sante-limpasse-juridique-du-gel-des-tarifs/00117806
 https://www.alternatives-economiques.fr/comprendre-laccord-commercial-entre-lue-et-linde-en-6-graphiques/00117875
 https://www.alternatives-economiques.fr/dalcatel-a-nokia-le-lent-declin-des-telecoms-francais/00117836
+https://www.alternatives-economiques.fr/emploi-les-jeunes-nhesitent-plus-a-quitter-leur-cdi/00118095
 https://www.alternatives-economiques.fr/en-pleine-crise-energetique-letat-reste-mal-arme-contre-linflation-des/00118132
 https://www.alternatives-economiques.fr/entre-les-mollahs-et-la-guerre-les-iraniens-esperent-une-troisieme-voie/00118087
 https://www.alternatives-economiques.fr/eteindre-leclairage-pour-retrouver-la-nuit-et-faire-des-economies-le-pari/00117944
@@ -469,11 +477,13 @@ https://www.alternatives-economiques.fr/la-decision-de-la-cour-supreme-contre-le
 https://www.alternatives-economiques.fr/la-dette-mondiale-augmente-et-se-transforme/00117985
 https://www.alternatives-economiques.fr/la-faim-recule-dans-le-monde-mais-les-foyers-de-crise-se-multiplient/00117428
 https://www.alternatives-economiques.fr/la-france-est-elle-en-train-de-perdre-sa-souverainete-alimentaire/00117901
+https://www.alternatives-economiques.fr/la-guerre-au-moyen-orient-va-t-elle-reconfigurer-le-trafic-aerien-mondial/00118165
 https://www.alternatives-economiques.fr/la-guerre-en-iran-provoque-un-choc-energetique-historique-et-3-autres-infogr/00118106
 https://www.alternatives-economiques.fr/la-politique-du-logement-senfonce-dans-la-crise/00117695
 https://www.alternatives-economiques.fr/le-choc-iranien-va-t-il-electriser-la-transition-energetique-francaise/00118023
 https://www.alternatives-economiques.fr/le-marche-de-lart-pas-encore-en-crise-mais-deja-en-pleine-mutation/00117701
 https://www.alternatives-economiques.fr/les-hommes-derriere-la-crise-de-1929-et-3-autres-conseils-de-lecture/00117898
+https://www.alternatives-economiques.fr/petrole-immobilier-cryptos-paradis-fiscaux-plongee-au-coeur-de-la-fortun/00118102
 https://www.alternatives-economiques.fr/peut-on-empecher-les-mutuelles-daugmenter-leurs-tarifs-et-deux-autres-sujet/00117705
 https://www.alternatives-economiques.fr/pourquoi-la-guerre-contre-liran-fait-elle-augmenter-le-prix-des-hydrocarbures/00117986
 https://www.alternatives-economiques.fr/thierry-coville-le-but-des-etats-unis-et-disrael-nest-pas-tant-d/00117977
@@ -657,12 +667,14 @@ https://www.bbc.com/news/articles/c93wv0ylq9yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c98gne0z0rxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9d41ne6dx1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9v0v1p4el8o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wxewk82qlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd03lgmkr70o?at_medium=RSS&at_campaign=rss
@@ -756,6 +768,7 @@ https://www.bbc.com/news/articles/clyznzrqeggo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm211jnz568o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm24j1dpexvo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cm25e8k2je1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm287wg3nr2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm287ylyydjo?at_medium=RSS&at_campaign=rss
@@ -813,6 +826,7 @@ https://www.bbc.com/news/articles/cqlk5gd3kv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr57g1ddqmdo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5lmg9l1y7o?at_medium=RSS&at_campaign=rss
@@ -877,6 +891,7 @@ https://www.bbc.com/news/articles/cx2jy74895eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2lrw42r59o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy01l49kkgdo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy031d1ny7jo?at_medium=RSS&at_campaign=rss
@@ -952,8 +967,10 @@ https://www.just-auto.com/analysis/diesel-revival-continues-with-new-audi-a6/
 https://www.just-auto.com/analysis/why-audi-should-study-the-vw-passat/
 https://www.just-auto.com/analyst-comment/2026-will-be-a-pivotal-year-for-robotaxi-adoption-in-london/
 https://www.just-auto.com/analyst-comment/chicago-vs-detroit-the-shift-to-consumer-first-auto-shows/
+https://www.just-auto.com/analyst-comment/chinas-auto-market-achieved-steady-growth-in-2025/
 https://www.just-auto.com/analyst-comment/european-light-vehicle-production-and-sales-decouple-as-chinese-imports-take-off/
 https://www.just-auto.com/analyst-comment/forget-interest-rate-cuts-theres-an-inflationary-shock-coming/
+https://www.just-auto.com/analyst-comment/globaldata-revises-forecasts-down-on-middle-east-conflict/
 https://www.just-auto.com/analyst-comment/has-chinese-light-vehicle-demand-peaked/
 https://www.just-auto.com/analyst-comment/middle-east-auto-sales-outlook-cut-for-2026-as-geopolitical-tensions-escalate/
 https://www.just-auto.com/analyst-comment/protons-2030-vision-navigating-its-ambitious-targets-and-strategy/
@@ -1074,6 +1091,7 @@ https://www.just-auto.com/news/jtekt-divest-european-operations/
 https://www.just-auto.com/news/kia-launches-production-of-telluride-hev-in-the-us/
 https://www.just-auto.com/news/kia-totalenergies-extend-global-partnership/
 https://www.just-auto.com/news/lamborghini-posts-revenue-rise/
+https://www.just-auto.com/news/leapmotor-munich-overseas-innovation-centre/
 https://www.just-auto.com/news/lg-gm-lfp-ess-batteries-tennessee/
 https://www.just-auto.com/news/lucid-trims-us-workforce-12/
 https://www.just-auto.com/news/lyten-northvolts-swedish-battery-assets/
@@ -1099,6 +1117,7 @@ https://www.just-auto.com/news/mitsubishi-fuso-india-global-engineering-hub/
 https://www.just-auto.com/news/mitsubishi-launches-xforce-production-in-malaysia/
 https://www.just-auto.com/news/mitsubishis-global-output-rises-8-in-january/
 https://www.just-auto.com/news/mitsubishis-global-vehicle-output-rises-6-in-december/
+https://www.just-auto.com/news/mobileye-announces-us-oem-win-for-driver-monitoring-system-dms/
 https://www.just-auto.com/news/mobis-announces-quad-alliance-to-develop-hwd-technologies/
 https://www.just-auto.com/news/momenta-files-hong-kong-ipo/
 https://www.just-auto.com/news/more-european-automotive-suppliers-bracing-for-losses/
@@ -1193,9 +1212,11 @@ https://www.just-auto.com/news/waymo-16bn-funding-110bn-valuation/
 https://www.just-auto.com/news/weride-enters-slovakia-through/
 https://www.just-auto.com/news/weride-farizon-partnership-robotaxi-production/
 https://www.just-auto.com/news/xpeng-outlines-ai-powered-vla-2-0-intelligent-driving-architecture/
+https://www.just-auto.com/news/xpeng-sets-up-standalone-robotaxi-unit/
 https://www.just-auto.com/news/zf-shifts-strategy-hybrid-demand-eases/
 https://www.just-auto.com/news/zf-signals-more-divestments/
 https://www.just-auto.com/news/zf-wins-major-order-for-its-axtrax-2-lf-in-india/
+https://www.just-auto.com/news/zyt-beijing-ai-driving-system/
 https://www.lemonde.fr/actualite-medias/article/2026/02/11/l-arcom-sanctionne-cnews-d-une-amende-de-100-000-euros-pour-propos-juges-discriminatoires-envers-algeriens-et-palestiniens_6666282_3236.html
 https://www.lemonde.fr/afrique/article/2026/03/10/en-rdc-le-premier-producteur-mondial-de-cobalt-suspecte-d-etre-a-l-origine-d-une-epidemie-de-maladies-respiratoires_6670187_3212.html
 https://www.lemonde.fr/argent/article/2026/02/10/assurance-vie-les-fonds-en-euros-les-plus-performants_6666092_1657007.html
@@ -1283,6 +1304,9 @@ https://www.lemonde.fr/economie/article/2026/03/23/du-choc-petrolier-provoque-pa
 https://www.lemonde.fr/economie/article/2026/03/23/face-a-la-crise-du-petit-commerce-la-piste-de-l-encadrement-des-loyers_6673930_3234.html
 https://www.lemonde.fr/economie/article/2026/03/23/l-etat-italien-veut-prendre-le-controle-total-de-telecom-italia_6673951_3234.html
 https://www.lemonde.fr/economie/article/2026/03/23/totalenergies-et-l-administration-trump-concluent-un-accord-d-environ-1-milliard-de-dollars-pour-annuler-des-projets-eoliens-en-mer_6673952_3234.html
+https://www.lemonde.fr/economie/article/2026/03/24/face-au-choc-petrolier-sebastien-lecornu-refuse-l-idee-d-un-nouveau-bouclier-tarifaire_6674127_3234.html
+https://www.lemonde.fr/economie/article/2026/03/24/plus-d-inflation-et-moins-de-croissance-en-france-pour-le-premier-semestre-selon-l-insee_6674099_3234.html
+https://www.lemonde.fr/economie/article/2026/03/25/a-brest-le-mica-center-surveille-les-mers-et-protege-la-marine-marchande_6674180_3234.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
 https://www.lemonde.fr/idees/article/2026/02/02/budget-2026-comment-en-vouloir-a-un-elu-d-etre-genereux-avec-l-argent-public_6665125_3232.html
 https://www.lemonde.fr/idees/article/2026/02/07/nicolas-jabko-politiste-kevin-warsh-pressenti-pour-diriger-la-fed-devra-apaiser-donald-trump-sans-apparaitre-comme-son-pantin_6665744_3232.html
@@ -1305,6 +1329,7 @@ https://www.lemonde.fr/idees/article/2026/03/14/la-souverainete-financiere-de-l-
 https://www.lemonde.fr/idees/article/2026/03/16/elections-municipales-2026-un-paysage-fragmente-et-instable_6671387_3232.html
 https://www.lemonde.fr/idees/article/2026/03/21/patrick-artus-quand-ils-rejettent-la-perspective-d-une-crise-financiere-les-marches-sont-bien-optimistes_6673092_3232.html
 https://www.lemonde.fr/idees/article/2026/03/23/le-choc-petrolier-au-moyen-orient-est-une-divine-surprise-pour-la-russie_6673853_3232.html
+https://www.lemonde.fr/idees/article/2026/03/25/les-gauches-face-a-l-heritage-de-lionel-jospin_6674197_3232.html
 https://www.lemonde.fr/international/article/2026/02/02/le-japon-dit-avoir-decouvert-des-terres-rares-lors-d-une-exploration-en-eaux-profondes_6665039_3210.html
 https://www.lemonde.fr/international/article/2026/02/19/guerre-en-ukraine-la-russie-et-les-etats-unis-negocient-des-accords-economiques-bilateraux-massifs-en-marge-des-pourparlers-de-paix_6667346_3210.html
 https://www.lemonde.fr/international/article/2026/02/28/iran-les-attaques-ravivent-les-craintes-sur-les-cours-du-petrole_6668703_3210.html
@@ -1603,9 +1628,12 @@ https://www.nature.com/articles/s41598-026-43079-6
 https://www.nature.com/articles/s41598-026-43120-8
 https://www.nature.com/articles/s41598-026-43127-1
 https://www.nature.com/articles/s41598-026-43211-6
+https://www.nature.com/articles/s41598-026-43308-y
 https://www.nature.com/articles/s41598-026-43379-x
 https://www.nature.com/articles/s41598-026-43403-0
+https://www.nature.com/articles/s41598-026-43487-8
 https://www.nature.com/articles/s41598-026-43525-5
+https://www.nature.com/articles/s41598-026-43540-6
 https://www.nature.com/articles/s41598-026-43555-z
 https://www.nature.com/articles/s41598-026-43658-7
 https://www.nature.com/articles/s41598-026-43666-7
@@ -1616,6 +1644,7 @@ https://www.nature.com/articles/s41598-026-43995-7
 https://www.nature.com/articles/s41598-026-44016-3
 https://www.nature.com/articles/s41598-026-44019-0
 https://www.nature.com/articles/s41598-026-44032-3
+https://www.nature.com/articles/s41598-026-44188-y
 https://www.nature.com/articles/s41598-026-44215-y
 https://www.nature.com/articles/s41598-026-44289-8
 https://www.nature.com/articles/s41598-026-44340-8
@@ -1625,11 +1654,13 @@ https://www.nature.com/articles/s41598-026-44409-4
 https://www.nature.com/articles/s41598-026-44453-0
 https://www.nature.com/articles/s41598-026-44530-4
 https://www.nature.com/articles/s41598-026-44603-4
+https://www.nature.com/articles/s41598-026-44705-z
 https://www.nature.com/articles/s41598-026-44723-x
 https://www.nature.com/articles/s41598-026-44848-z
 https://www.nature.com/articles/s41598-026-44865-y
 https://www.nature.com/articles/s41598-026-44874-x
 https://www.nature.com/articles/s41598-026-44888-5
+https://www.nature.com/articles/s41598-026-45086-z
 https://www.nature.com/articles/s41598-026-45176-y
 https://www.nature.com/articles/s41598-026-45235-4
 https://www.nature.com/articles/s41598-026-45269-8
@@ -1643,6 +1674,7 @@ https://www.nature.com/articles/s41928-026-01585-5
 https://www.nature.com/articles/s44172-026-00615-6
 https://www.nature.com/articles/s44182-026-00080-5
 https://www.nature.com/articles/s44221-025-00574-w
+https://www.nature.com/articles/s44286-026-00364-5
 https://www.nature.com/articles/s44287-026-00275-w
 https://www.nature.com/articles/s44296-025-00091-7
 https://www.nature.com/articles/s44303-026-00147-w
@@ -1837,6 +1869,9 @@ https://www.politico.com/news/2026/03/23/iran-oil-agen-production-energy-0084110
 https://www.politico.com/news/2026/03/23/iran-war-oil-markets-damage-00839780
 https://www.politico.com/news/2026/03/23/mattis-ending-iran-war-now-cede-hormuz-00841109
 https://www.politico.com/news/2026/03/23/wright-urges-oil-and-gas-industry-to-up-production-amid-iran-war-00839747
+https://www.politico.com/news/2026/03/24/burgum-iran-price-shock-energy-00842938
+https://www.politico.com/news/2026/03/24/the-worst-ive-seen-oil-industry-grapples-with-the-fallout-from-trumps-war-with-iran-00841820
+https://www.politico.com/news/2026/03/24/us-must-reopen-strait-of-hormuz-to-cut-spiking-energy-prices-oil-chief-says-00843191
 https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888
 https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/
 https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/
