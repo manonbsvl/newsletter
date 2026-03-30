@@ -22,6 +22,7 @@ https://cleantechnica.com/2026/01/29/researchers-improve-sodium-ion-batteries-al
 https://cleantechnica.com/2026/01/29/vinfast-introduces-battery-subscription-program-in-the-philippines/
 https://cleantechnica.com/2026/01/30/the-chinese-renewable-energy-revolution-affects-the-whole-world/
 https://cleantechnica.com/2026/01/30/why-a-new-us-fleet-payment-first-is-routine-in-europe-china/
+https://content.knowledgehub.wiley.com/5g-ntn-takes-flight-technical-overview-of-5g-non-terrestrial-networks/
 https://content.knowledgehub.wiley.com/a-guide-to-selecting-adhesives-for-medical-device-applications/
 https://content.knowledgehub.wiley.com/breaking-boundaries-in-wireless-communication-simulating-animated-on-body-rf-propagation/
 https://content.knowledgehub.wiley.com/setting-new-performance-standards-with-ieee-802-11bn-an-in-depth-overview-of-wi-fi-8/
@@ -198,6 +199,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/speech_26_717
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_740
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_742
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_743
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_755
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_307
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_308
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_318
@@ -496,6 +498,7 @@ https://www.alternatives-economiques.fr/christian-chavagneux/guerre-en-iran-enco
 https://www.alternatives-economiques.fr/complementaires-sante-limpasse-juridique-du-gel-des-tarifs/00117806
 https://www.alternatives-economiques.fr/comprendre-laccord-commercial-entre-lue-et-linde-en-6-graphiques/00117875
 https://www.alternatives-economiques.fr/dalcatel-a-nokia-le-lent-declin-des-telecoms-francais/00117836
+https://www.alternatives-economiques.fr/dans-la-guerre-commerciale-les-etats-unis-sont-loin-de-pouvoir-se-passer-des-pr/00118170
 https://www.alternatives-economiques.fr/emploi-les-jeunes-nhesitent-plus-a-quitter-leur-cdi/00118095
 https://www.alternatives-economiques.fr/en-pleine-crise-energetique-letat-reste-mal-arme-contre-linflation-des/00118132
 https://www.alternatives-economiques.fr/entre-les-mollahs-et-la-guerre-les-iraniens-esperent-une-troisieme-voie/00118087
@@ -560,6 +563,7 @@ https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c17xvqlx8r8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c1dz0dz0zkvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c1evxve8q7jo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c1jeyn3yxn9o?at_medium=RSS&at_campaign=rss
@@ -639,6 +643,7 @@ https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gjxwre1ydo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gqyp8q594o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c4gx01d0re1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y2lj3md8po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y2nn582l5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss
@@ -701,6 +706,7 @@ https://www.bbc.com/news/articles/c87wx970yw9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8957234108o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c89kl834nv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8e524n23rno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8e5zwndddyo?at_medium=RSS&at_campaign=rss
@@ -983,6 +989,7 @@ https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz90ww8veqno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz9q57y9y3xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz9v9d0xj8qo?at_medium=RSS&at_campaign=rss
@@ -1096,6 +1103,7 @@ https://www.just-auto.com/news/brazil-imposes-anti-dumping-duties-on-chinese-ste
 https://www.just-auto.com/news/byd-evuk-partnership-uk-ev-adoption/
 https://www.just-auto.com/news/byd-explores-canada-plant/
 https://www.just-auto.com/news/byd-geely-vinfast-bid-mexico-plant/
+https://www.just-auto.com/news/byd-reports-drop-in-earnings-in-2025-despite-record-sales/
 https://www.just-auto.com/news/byd-sales-continue-to-plunge-in-february/
 https://www.just-auto.com/news/byd-to-build-automotive-testing-and-evaluation-centre-in-brazil/
 https://www.just-auto.com/news/byd-unveils-new-blade-batteries/
@@ -1105,6 +1113,7 @@ https://www.just-auto.com/news/catl-and-bmw-to-deepen-cooperation-on-batteries-d
 https://www.just-auto.com/news/catl-and-changan-claim-big-battery-breakthrough/
 https://www.just-auto.com/news/catl-net-profit-rises-42-3/
 https://www.just-auto.com/news/chaevi-in-deal-to-supply-ev-chargers-to-the-uae/
+https://www.just-auto.com/news/changan-launches-vehicle-production-in-brazil/
 https://www.just-auto.com/news/chery-launch-icaur-v23-south-africa/
 https://www.just-auto.com/news/chery-plans-liverpool-rd-hub/
 https://www.just-auto.com/news/china-introduces-new-policies-to-halt-damaging-price-war/
@@ -1161,6 +1170,7 @@ https://www.just-auto.com/news/infineon-semiconductors-bmw-neue-klasse-platform/
 https://www.just-auto.com/news/infineon-subaru-partners-adas-tech/
 https://www.just-auto.com/news/isuzu-deploys-level-4-autonomous-buses/
 https://www.just-auto.com/news/jac-brembo-collaborate-on-next-gen-braking-systems/
+https://www.just-auto.com/news/jaguar-land-rover-pauses-production-due-to-supplier-disruption/
 https://www.just-auto.com/news/japan-safety-approval-us-built-vehicles/
 https://www.just-auto.com/news/japans-vehicle-sales-decline-by-2-in-january/
 https://www.just-auto.com/news/japans-vehicle-sales-decline-by-3-5-in-february/
@@ -1310,6 +1320,7 @@ https://www.lemonde.fr/afrique/article/2026/03/10/en-rdc-le-premier-producteur-m
 https://www.lemonde.fr/argent/article/2026/02/10/assurance-vie-les-fonds-en-euros-les-plus-performants_6666092_1657007.html
 https://www.lemonde.fr/argent/article/2026/03/03/banque-41-des-francais-sont-a-decouvert-au-moins-une-fois-par-an_6669316_1657007.html
 https://www.lemonde.fr/argent/article/2026/03/28/l-essor-des-marches-de-prediction-attire-desormais-les-acteurs-traditionnels-de-la-finance_6675080_1657007.html
+https://www.lemonde.fr/argent/article/2026/03/30/bourse-comment-transferer-son-pea-pour-payer-moins-de-frais_6675391_1657007.html
 https://www.lemonde.fr/campus/article/2026/02/05/voyager-sans-avion-ces-sites-internet-qui-tentent-de-faire-basculer-les-imaginaires_6665457_4401467.html
 https://www.lemonde.fr/disparitions/article/2026/03/23/lionel-jospin-socialiste-au-destin-foudroye-est-mort_6673872_3382.html
 https://www.lemonde.fr/economie-francaise/article/2026/02/07/la-filiere-de-l-edition-prete-a-en-decoudre-avec-les-ia-generatives-qui-piratent-le-droit-d-auteur_6665794_1656968.html
@@ -1403,7 +1414,9 @@ https://www.lemonde.fr/economie/article/2026/03/26/les-stations-service-autorise
 https://www.lemonde.fr/economie/article/2026/03/27/guerre-au-moyen-orient-dans-les-ports-d-afrique-de-l-est-les-consequences-encore-incertaines-du-conflit_6674566_3234.html
 https://www.lemonde.fr/economie/article/2026/03/28/donald-trump-perd-la-confiance-de-wall-street-sur-fond-de-guerre-en-iran_6674727_3234.html
 https://www.lemonde.fr/economie/article/2026/03/28/le-sucre-roux-du-pays-des-kangourous-est-pret-a-fondre-sur-l-europe_6675029_3234.html
+https://www.lemonde.fr/economie/article/2026/03/29/comment-les-medias-couvrent-la-guerre-au-moyen-orient-malgre-les-pressions-sur-les-journalistes-et-l-essor-des-images-generees-par-ia_6675251_3234.html
 https://www.lemonde.fr/economie/article/2026/03/29/guerre-au-moyen-orient-le-mois-qui-a-plonge-le-monde-dans-un-choc-energetique_6675213_3234.html
+https://www.lemonde.fr/economie/article/2026/03/30/les-vociferations-de-donald-trump-ne-rassurent-plus-les-marches-financiers_6675410_3234.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
 https://www.lemonde.fr/idees/article/2026/02/02/budget-2026-comment-en-vouloir-a-un-elu-d-etre-genereux-avec-l-argent-public_6665125_3232.html
 https://www.lemonde.fr/idees/article/2026/02/07/nicolas-jabko-politiste-kevin-warsh-pressenti-pour-diriger-la-fed-devra-apaiser-donald-trump-sans-apparaitre-comme-son-pantin_6665744_3232.html
@@ -1468,6 +1481,7 @@ https://www.lemonde.fr/politique/article/2026/03/23/mort-de-lionel-jospin-olivie
 https://www.lemonde.fr/politique/article/2026/03/24/lionel-jospin-l-homme-a-la-croisee-des-gauches-irreconciliables_6674032_823448.html
 https://www.lemonde.fr/politique/article/2026/03/26/le-comite-de-deontologie-du-senat-saisi-apres-les-menaces-de-mort-proferees-par-le-senateur-lr-thierry-meignen-a-l-encontre-de-la-journaliste-nassira-el-moaddem_6674406_823448.html
 https://www.lemonde.fr/politique/article/2026/03/28/polemique-sur-cnews-des-propos-juges-racistes-contre-bally-bagayoko-qui-annonce-une-plainte-et-souhaite-un-grand-rassemblement-antiraciste_6675085_823448.html
+https://www.lemonde.fr/politique/article/2026/03/30/municipales-entre-attaques-racistes-et-alternances-sous-tension-les-nouveaux-elus-insoumis-s-installent-dans-un-climat-electrique_6675380_823448.html
 https://www.lemonde.fr/societe/article/2026/01/31/a-metz-le-financement-d-une-mosquee-par-la-mairie-conteste-par-une-association-de-defenseurs-de-la-laicite_6664899_3224.html
 https://www.lemonde.fr/societe/article/2026/03/09/1-1-million-d-euros-en-neuf-mois-dans-les-coulisses-d-une-fraude-presumee-a-maprimrenov_6670041_3224.html
 https://www.nature.com/articles/d41586-026-00356-8
@@ -1476,6 +1490,7 @@ https://www.nature.com/articles/s41378-025-01142-8
 https://www.nature.com/articles/s41378-026-01160-0
 https://www.nature.com/articles/s41378-026-01173-9
 https://www.nature.com/articles/s41378-026-01212-5
+https://www.nature.com/articles/s41378-026-01232-1
 https://www.nature.com/articles/s41467-026-68856-9
 https://www.nature.com/articles/s41467-026-69362-8
 https://www.nature.com/articles/s41467-026-69463-4
@@ -1781,6 +1796,7 @@ https://www.nature.com/articles/s41598-026-45269-8
 https://www.nature.com/articles/s41598-026-45413-4
 https://www.nature.com/articles/s41598-026-45658-z
 https://www.nature.com/articles/s41598-026-45662-3
+https://www.nature.com/articles/s41598-026-45741-5
 https://www.nature.com/articles/s41598-026-45887-2
 https://www.nature.com/articles/s41598-026-46095-8
 https://www.nature.com/articles/s41598-026-46453-6
@@ -1947,6 +1963,18 @@ https://www.nber.org/papers/w34987#fromrss
 https://www.nber.org/papers/w34988#fromrss
 https://www.nber.org/papers/w34989#fromrss
 https://www.nber.org/papers/w34990#fromrss
+https://www.nber.org/papers/w34992#fromrss
+https://www.nber.org/papers/w34993#fromrss
+https://www.nber.org/papers/w34994#fromrss
+https://www.nber.org/papers/w34998#fromrss
+https://www.nber.org/papers/w35000#fromrss
+https://www.nber.org/papers/w35008#fromrss
+https://www.nber.org/papers/w35009#fromrss
+https://www.nber.org/papers/w35010#fromrss
+https://www.nber.org/papers/w35014#fromrss
+https://www.nber.org/papers/w35016#fromrss
+https://www.nber.org/papers/w35017#fromrss
+https://www.nber.org/papers/w35018#fromrss
 https://www.politico.com/news/2025/12/08/trump-tariffs-mexico-rio-grande-water-00682220
 https://www.politico.com/news/2025/12/08/trumps-tariff-costs-consumers-00679261
 https://www.politico.com/news/2025/12/14/trump-hardball-tariff-fees-trade-00689892
@@ -2004,6 +2032,7 @@ https://www.politico.com/news/2026/03/25/ukrainian-energy-russia-oil-sanctions-w
 https://www.politico.com/news/2026/03/26/iran-war-strait-mandeb-energy-00845751
 https://www.politico.com/news/2026/03/27/former-trump-iran-adviser-says-war-is-headed-for-escalation-00847112
 https://www.politico.com/news/2026/03/28/iran-trump-maga-men-divide-cpac-00849378
+https://www.politico.com/news/2026/03/29/iran-war-trump-gop-midterms-prices-00849116
 https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888
 https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/
 https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/
