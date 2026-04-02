@@ -102,6 +102,8 @@ https://ec.europa.eu/commission/presscorner/detail/en/ip_26_735
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_744
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_748
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_764
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_768
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_771
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_272
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_301
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_311
@@ -382,6 +384,7 @@ https://semiengineering.com/a-gpu-microarchitecture-optimized-for-fully-homomorp
 https://semiengineering.com/a-manufacturing-approach-that-brings-diamond-quantum-photonics-closer-to-industrial-production-mit-kaust-et-al/
 https://semiengineering.com/a-test-generation-procedure-targeting-subcircuits-with-high-susceptibilities-to-aging-purdue-university/
 https://semiengineering.com/accelerate-your-ip-selection-with-smart-solido-library-profiler/
+https://semiengineering.com/ai-demand-resets-memory-market-priorities-tightening-nor-flash-availability/
 https://semiengineering.com/ai-energy-gap-and-chiplets-why-data-movement-matters/
 https://semiengineering.com/ai-inference-needs-a-mix-and-match-memory-strategy/
 https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/
@@ -422,6 +425,7 @@ https://semiengineering.com/data-center-digital-twins-how-simulation-improves-de
 https://semiengineering.com/data-driven-optimization-in-semiconductor-manufacturing/
 https://semiengineering.com/detecting-architectural-vulnerabilities-in-closed-source-risc-v-cpus-cispa/
 https://semiengineering.com/detecting-chemical-variability-at-advanced-nodes/
+https://semiengineering.com/embedded-world-2026-bringing-edge-ai-into-the-real-world/
 https://semiengineering.com/enabling-the-industrys-first-gpu-accelerated-manufacturing-platform/
 https://semiengineering.com/from-monolithic-socs-to-chiplets-a-new-hardware-security-paradigm/
 https://semiengineering.com/hbm4e-raises-the-bar-for-ai-memory-bandwidth/
@@ -437,6 +441,7 @@ https://semiengineering.com/limiting-ai-ml-tools-to-ensure-physical-ai-safety-se
 https://semiengineering.com/llm-based-learning-platform-for-chip-design-education-rptu/
 https://semiengineering.com/memory-wall-gets-higher/
 https://semiengineering.com/ml-for-energy-performance-aware-scheduling-on-heterogeneous-multicore-architectures-cambridge/
+https://semiengineering.com/moving-electrons-not-just-vehicles/
 https://semiengineering.com/nanoscale-mos%e2%82%82-based-memristors-integrated-into-cmos-microchips/
 https://semiengineering.com/neuromorphic-computing-platform-in-perovskite-nickelates-ucsd-rutgers/
 https://semiengineering.com/neuromorphic-hw-that-detects-motion-changes-4x-faster-beihang-bit-kaust-cambridge-et-al/
@@ -475,6 +480,7 @@ https://semiengineering.com/systematic-training-and-validation-of-ai-based-syste
 https://semiengineering.com/the-petabyte-problem-how-ai-is-finally-making-semiconductor-manufacturing-data-actionable/
 https://semiengineering.com/ultrafast-laser-filamentation-dictates-energy-deposition-in-narrow-gap-semiconductors/
 https://semiengineering.com/using-gate-all-around-transistors-instead-of-charge-sensors-to-simplify-qubit-readout-architecture/
+https://semiengineering.com/world-first-macsec-ip-receives-iso-pas-8800-certification-for-automotive-and-physical-ai-security/
 https://spectrum.ieee.org/darpa-triage-challenge-robot
 https://spectrum.ieee.org/fda-medical-device-rules
 https://spectrum.ieee.org/ieee-annual-election-2026
@@ -501,6 +507,7 @@ https://tnova.fr/economie-social/logement-politique-de-la-ville/le-devenir-dacti
 https://tnova.fr/economie-social/logement-politique-de-la-ville/logements-vacants-et-bureaux-vides-au-mieux-un-maigre-appoint-a-la-construction-neuve/
 https://tnova.fr/economie-social/logement-politique-de-la-ville/pour-un-soutien-raisonne-a-laccession-a-la-propriete/
 https://tnova.fr/economie-social/logement-politique-de-la-ville/quel-avenir-pour-les-aides-personnelles-au-logement/
+https://tnova.fr/economie-social/logement-politique-de-la-ville/quelle-politique-de-transition-energetique-dans-les-batiments-residentiels/
 https://tnova.fr/economie-social/logement-politique-de-la-ville/vive-le-periurbain-pour-des-campagnes-urbaines-au-coeur-des-transitions-territoriales/
 https://tnova.fr/economie-social/territoires-metropoles/budget-2026-rebatir-un-climat-de-confiance-entre-letat-et-les-collectivites-locales/
 https://tnova.fr/societe/immigration-integration-non-discrimination/politique-migratoire-lexception-espagnole/
@@ -517,6 +524,7 @@ https://www.alternatives-economiques.fr/comprendre-laccord-commercial-entre-lue-
 https://www.alternatives-economiques.fr/cuba-sous-pression-maximale-des-etats-unis/00118190
 https://www.alternatives-economiques.fr/dalcatel-a-nokia-le-lent-declin-des-telecoms-francais/00117836
 https://www.alternatives-economiques.fr/dans-la-guerre-commerciale-les-etats-unis-sont-loin-de-pouvoir-se-passer-des-pr/00118170
+https://www.alternatives-economiques.fr/dependance-energetique-le-piege-du-freedom-gas-americain/00118217
 https://www.alternatives-economiques.fr/des-autos-aux-robots-le-pari-douteux-delon-musk-pour-tesla/00118154
 https://www.alternatives-economiques.fr/emploi-les-jeunes-nhesitent-plus-a-quitter-leur-cdi/00118095
 https://www.alternatives-economiques.fr/en-pleine-crise-energetique-letat-reste-mal-arme-contre-linflation-des/00118132
@@ -613,6 +621,7 @@ https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2e4l9k9yd1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2lrlnnqp7zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss
@@ -691,6 +700,7 @@ https://www.bbc.com/news/articles/c5yvmd6k38ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5yvmvx0gyvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c620egvdqgyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c625v1l4l29o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c626emvy1z7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c626mdvn6d5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c626mrzmv26o?at_medium=RSS&at_campaign=rss
@@ -719,6 +729,7 @@ https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78x9256pn7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c7951yl59lxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c79jwxypp1ro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c80jy2lkdg3o?at_medium=RSS&at_campaign=rss
@@ -741,6 +752,7 @@ https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8xyp9xjxr4o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c937g1lkk5do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c937qj0lp32o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c93wkxgydy2o?at_medium=RSS&at_campaign=rss
@@ -785,6 +797,7 @@ https://www.bbc.com/news/articles/ce3exl1k247o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3g0k60g4do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce8rk0je220o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce8wew99ngpo?at_medium=RSS&at_campaign=rss
@@ -803,6 +816,7 @@ https://www.bbc.com/news/articles/cg7y45kxvp9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cge8e2dq9plo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cge8g15p4v4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgjzegn40dlo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgk2822rgplo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgk2d7yxm2zo?at_medium=RSS&at_campaign=rss
@@ -907,6 +921,7 @@ https://www.bbc.com/news/articles/cp80r4rdp3yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp853p5g9meo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp85jd321p5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp85n416n3vo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cp86v8lze34o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp87827jyk3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp9m8n2vx0mo?at_medium=RSS&at_campaign=rss
@@ -950,6 +965,7 @@ https://www.bbc.com/news/articles/crrxkjxg1zpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crrxywl5e2ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg05xrgkg6o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg12yerjr9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss
@@ -1039,6 +1055,7 @@ https://www.bbc.com/news/articles/czx1vly05pvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czx41k51595o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/czx902w50dro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czxr567npxko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/c05v93l1vmmo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/c309v7802v4o?at_medium=RSS&at_campaign=rss
@@ -1092,6 +1109,7 @@ https://www.just-auto.com/analyst-comment/uber-is-steering-towards-a-driverless-
 https://www.just-auto.com/analyst-comment/will-the-iran-crisis-derail-the-european-truck-markets-recovery-in-2026/
 https://www.just-auto.com/features/chinese-automakers-strengthen-their-presence-in-southeast-asia/
 https://www.just-auto.com/features/decembers-global-new-car-bev-sales-tally-was-highest-monthly-total-of-2025/
+https://www.just-auto.com/features/lifting-the-lid-toyotas-first-european-circular-factory-in-the-uk/
 https://www.just-auto.com/features/middle-east-conflict-an-initial-impact-assessment-on-automotive/
 https://www.just-auto.com/features/south-korea-report-domestic-sales-fall-15-in-february/
 https://www.just-auto.com/features/ten-major-trends-in-the-automotive-tyres-sector/
@@ -1121,6 +1139,7 @@ https://www.just-auto.com/news/anritsu-valeo-collaborate-virtual-validation-sdvs
 https://www.just-auto.com/news/apac-battery-manufacturing-plant-construction-set-to-surge/
 https://www.just-auto.com/news/applied-intuition-lg-innotek-partnership/
 https://www.just-auto.com/news/aptiv-subsidiaries-1-5bn-notes-offering/
+https://www.just-auto.com/news/archion-launches-after-hino-fuso-integration/
 https://www.just-auto.com/news/arkema-senior-battery-materials-development-agreement/
 https://www.just-auto.com/news/baic-hesai-contract-signals-high-volume-lidar-adoption-in-china/
 https://www.just-auto.com/news/baidu-uber-autonomous-ride-hailing-dubai/
@@ -1212,6 +1231,7 @@ https://www.just-auto.com/news/jaguar-land-rover-pauses-production-due-to-suppli
 https://www.just-auto.com/news/japan-safety-approval-us-built-vehicles/
 https://www.just-auto.com/news/japans-vehicle-sales-decline-by-2-in-january/
 https://www.just-auto.com/news/japans-vehicle-sales-decline-by-3-5-in-february/
+https://www.just-auto.com/news/jd-power-holds-its-2026-us-light-vehicle-sales-forecast-at-16-3m-units/
 https://www.just-auto.com/news/jobs-axe-confirmed-at-aston-martin/
 https://www.just-auto.com/news/jsw-mg-expand-halol-plant-capacity-india/
 https://www.just-auto.com/news/jtekt-divest-european-operations/
@@ -1287,6 +1307,7 @@ https://www.just-auto.com/news/sk-on-lays-off-1000-workers-at-us-battery-plant/
 https://www.just-auto.com/news/sk-on-signs-long-term-lithium-sourcing-deal-with-posco/
 https://www.just-auto.com/news/skf-rebrands-stand-alone-automotive-unit/
 https://www.just-auto.com/news/skoda-battery-assembly-plant-czech-republic/
+https://www.just-auto.com/news/skoda-offers-first-glimpse-of-new-peaq-electric-flagship/
 https://www.just-auto.com/news/skoda-steps-up-its-vw-group-manufacturing-contribution/
 https://www.just-auto.com/news/skoda-to-exit-china/
 https://www.just-auto.com/news/south-korea-import-sales-surge-38-in-january/
@@ -1299,6 +1320,7 @@ https://www.just-auto.com/news/stellantis-posts-e22-3bn-net-loss/
 https://www.just-auto.com/news/stellantis-taps-blue-nexus-bosch/
 https://www.just-auto.com/news/stellantis-tata-motors-sign-mou/
 https://www.just-auto.com/news/subaru-infineon-partnership-to-intensify-oem-competition-in-adas/
+https://www.just-auto.com/news/subaru-secures-y100bn-credit-line/
 https://www.just-auto.com/news/suzuki-invests-linkwiz-sgv/
 https://www.just-auto.com/news/suzuki-kanadevia-all-solid-state-battery/
 https://www.just-auto.com/news/suzuki-launches-e-every-in-japan/
@@ -1463,9 +1485,11 @@ https://www.lemonde.fr/economie/article/2026/03/29/guerre-au-moyen-orient-le-moi
 https://www.lemonde.fr/economie/article/2026/03/30/les-vociferations-de-donald-trump-ne-rassurent-plus-les-marches-financiers_6675410_3234.html
 https://www.lemonde.fr/economie/article/2026/03/31/atos-cede-ses-activites-strategiques-a-l-etat-qui-revendique-une-etape-pour-la-souverainete-technologique-francaise_6675694_3234.html
 https://www.lemonde.fr/economie/article/2026/03/31/la-fnsea-veut-feminiser-son-conseil-d-administration_6675600_3234.html
+https://www.lemonde.fr/economie/article/2026/04/01/guerre-au-moyen-orient-comment-le-plastique-et-la-chimie-ingredients-cles-de-l-economie-alimentent-l-inflation_6675943_3234.html
 https://www.lemonde.fr/economie/article/2026/04/01/nationalisation-de-bull-laisser-ce-savoir-faire-entre-les-mains-du-groupe-atos-a-la-sante-financiere-fragile-faisait-planer-trop-de-risques_6675876_3234.html
 https://www.lemonde.fr/economie/article/2026/04/01/petrole-histoire-d-une-dependance-mondiale_6675820_3234.html
 https://www.lemonde.fr/economie/article/2026/04/01/stellantis-rappelle-700-000-vehicules-dans-le-monde-pour-un-risque-d-incendie_6675889_3234.html
+https://www.lemonde.fr/economie/article/2026/04/02/guerre-au-moyen-orient-l-industrie-francaise-touchee-de-plein-fouet-par-la-crise-energetique_6676095_3234.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/01/les-chinois-qui-avaient-mise-sur-l-iran-pris-dans-l-incertitude-de-la-guerre_6675855_6325529.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
 https://www.lemonde.fr/idees/article/2026/02/02/budget-2026-comment-en-vouloir-a-un-elu-d-etre-genereux-avec-l-argent-public_6665125_3232.html
@@ -1501,12 +1525,14 @@ https://www.lemonde.fr/international/article/2026/03/09/les-emirats-arabes-unis-
 https://www.lemonde.fr/international/article/2026/03/10/au-chili-jose-antonio-kast-et-les-fantomes-de-son-fief-familial_6670273_3210.html
 https://www.lemonde.fr/international/article/2026/03/10/guerre-en-iran-a-bord-du-porte-avions-charles-de-gaulle-emmanuel-macron-fait-etalage-de-la-puissance-militaire-de-la-france_6670175_3210.html
 https://www.lemonde.fr/international/article/2026/03/12/les-etats-unis-lancent-des-enquetes-commerciales-sur-les-prejudices-economiques-et-le-travail-force-de-nouveaux-droits-de-douane-en-vue_6670575_3210.html
+https://www.lemonde.fr/international/article/2026/04/02/donald-trump-se-moque-du-couple-macron-lors-d-un-dejeuner-prive-dans-un-contexte-de-mesentente-sur-la-guerre-au-moyen-orient_6676093_3210.html
 https://www.lemonde.fr/international/live/2026/02/22/en-direct-droits-de-douane-apres-les-annonces-de-donald-trump-les-dernieres-informations-et-reactions_6667585_3210.html
 https://www.lemonde.fr/international/video/2026/03/03/guerre-en-iran-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron_6669424_3210.html
 https://www.lemonde.fr/international/video/2026/03/13/irak-un-soldat-dans-une-frappe-de-drone-six-autres-blesses_6671043_3210.html
 https://www.lemonde.fr/international/video/2026/04/01/emmanuel-macron-repond-a-donald-trump-qui-accuse-la-france-de-ne-pas-cooperer-avec-les-etats-unis-dans-le-conflit-qui-les-oppose-a-l-iran_6675868_3210.html
 https://www.lemonde.fr/les-decodeurs/article/2026/03/13/municipales-ces-promesses-de-campagne-qui-depassent-les-pouvoirs-des-maires_6670962_4355770.html
 https://www.lemonde.fr/m-le-mag/article/2026/02/07/garaud-peyrefitte-chirac-le-recours-a-la-droite-vintage-quand-est-ce-qu-on-rehabilite-poher_6665786_4500055.html
+https://www.lemonde.fr/outre-mer/article/2026/04/02/nouvelle-caledonie-le-projet-de-reforme-constitutionnelle-rejete-d-emblee-par-l-assemblee-nationale_6676115_1840826.html
 https://www.lemonde.fr/pixels/article/2026/02/19/des-donnees-personnelles-d-adherents-de-la-cfdt-derobees-dans-un-piratage_6667398_4408996.html
 https://www.lemonde.fr/pixels/article/2026/03/01/adele-goldberg-la-pionniere-de-l-ordinateur-personnel-qui-inspira-steve-jobs_6668756_4408996.html
 https://www.lemonde.fr/planete/article/2026/02/14/dieselgate-volkswagen-premier-constructeur-renvoye-devant-la-justice-en-france-dans-le-scandale-des-moteurs-truques_6666749_3244.html
@@ -1784,6 +1810,7 @@ https://www.nature.com/articles/s41598-026-42338-w
 https://www.nature.com/articles/s41598-026-42450-x
 https://www.nature.com/articles/s41598-026-42482-3
 https://www.nature.com/articles/s41598-026-42606-9
+https://www.nature.com/articles/s41598-026-42634-5
 https://www.nature.com/articles/s41598-026-42671-0
 https://www.nature.com/articles/s41598-026-42674-x
 https://www.nature.com/articles/s41598-026-42707-5
@@ -1827,6 +1854,7 @@ https://www.nature.com/articles/s41598-026-44016-3
 https://www.nature.com/articles/s41598-026-44017-2
 https://www.nature.com/articles/s41598-026-44019-0
 https://www.nature.com/articles/s41598-026-44032-3
+https://www.nature.com/articles/s41598-026-44147-7
 https://www.nature.com/articles/s41598-026-44188-y
 https://www.nature.com/articles/s41598-026-44215-y
 https://www.nature.com/articles/s41598-026-44244-7
@@ -1837,7 +1865,9 @@ https://www.nature.com/articles/s41598-026-44368-w
 https://www.nature.com/articles/s41598-026-44376-w
 https://www.nature.com/articles/s41598-026-44409-4
 https://www.nature.com/articles/s41598-026-44453-0
+https://www.nature.com/articles/s41598-026-44461-0
 https://www.nature.com/articles/s41598-026-44530-4
+https://www.nature.com/articles/s41598-026-44599-x
 https://www.nature.com/articles/s41598-026-44603-4
 https://www.nature.com/articles/s41598-026-44705-z
 https://www.nature.com/articles/s41598-026-44723-x
@@ -1854,12 +1884,14 @@ https://www.nature.com/articles/s41598-026-45305-7
 https://www.nature.com/articles/s41598-026-45413-4
 https://www.nature.com/articles/s41598-026-45658-z
 https://www.nature.com/articles/s41598-026-45662-3
+https://www.nature.com/articles/s41598-026-45672-1
 https://www.nature.com/articles/s41598-026-45741-5
 https://www.nature.com/articles/s41598-026-45887-2
 https://www.nature.com/articles/s41598-026-46095-8
 https://www.nature.com/articles/s41598-026-46453-6
 https://www.nature.com/articles/s41598-026-46518-6
 https://www.nature.com/articles/s41598-026-46525-7
+https://www.nature.com/articles/s41598-026-46779-1
 https://www.nature.com/articles/s41598-026-46948-2
 https://www.nature.com/articles/s41612-026-01374-z
 https://www.nature.com/articles/s41746-026-02445-4
@@ -2037,6 +2069,7 @@ https://www.nber.org/papers/w35000#fromrss
 https://www.nber.org/papers/w35008#fromrss
 https://www.nber.org/papers/w35009#fromrss
 https://www.nber.org/papers/w35010#fromrss
+https://www.nber.org/papers/w35011#fromrss
 https://www.nber.org/papers/w35014#fromrss
 https://www.nber.org/papers/w35016#fromrss
 https://www.nber.org/papers/w35017#fromrss
@@ -2099,7 +2132,9 @@ https://www.politico.com/news/2026/03/26/iran-war-strait-mandeb-energy-00845751
 https://www.politico.com/news/2026/03/27/former-trump-iran-adviser-says-war-is-headed-for-escalation-00847112
 https://www.politico.com/news/2026/03/28/iran-trump-maga-men-divide-cpac-00849378
 https://www.politico.com/news/2026/03/29/iran-war-trump-gop-midterms-prices-00849116
+https://www.politico.com/news/2026/03/30/iran-midterms-veterans-00850440
 https://www.politico.com/news/2026/04/01/votevets-iran-war-ad-00853505
+https://www.politico.com/news/2026/04/02/manufacturers-still-waiting-trump-tariff-promises-00854987
 https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888
 https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/
 https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/
@@ -2187,6 +2222,8 @@ https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses
 https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/
 https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/
 https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/
+https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/
+https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/
 https://www.usinenouvelle.com/aero-spatial/aeronautique/dassault-aviation/scaf-commandes-record-rupture-technologique-lmb-aerospace-et-renault-les-dossiers-chauds-du-nouveau-patron-de-la-dga.YKF6CDVTRBG2BJJ5DJZMSCK23M.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/embraer/aeronautique-le-taxi-volant-du-bresilien-embraer-engrange-les-commandes-et-sapproche-de-son-exploitation-commerciale.VM664AM2DZDCLLFZE6EVS5V25Y.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/helicoptere/chez-optima-aero-sandra-bernard-fait-rimer-le-demantelement-dhelicopteres-avec-leconomie-circulaire.A5CW3A6GZZODVNKQFTID3CF3PE.html
