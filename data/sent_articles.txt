@@ -392,6 +392,7 @@ https://semiengineering.com/ai-demand-resets-memory-market-priorities-tightening
 https://semiengineering.com/ai-energy-gap-and-chiplets-why-data-movement-matters/
 https://semiengineering.com/ai-inference-needs-a-mix-and-match-memory-strategy/
 https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/
+https://semiengineering.com/all-ai-data-center-interconnects-will-be-optical-within-5-years/
 https://semiengineering.com/an-fpga-based-accelerator-addressing-bottlenecks-in-gnn-preprocessing-kaist-et-al/
 https://semiengineering.com/an-integrated-workflow-for-circuit-design-simulation-and-functional-safety-analysis/
 https://semiengineering.com/analog-scan-unlocking-a-new-era-in-mixed-signal-test/
@@ -638,8 +639,10 @@ https://www.bbc.com/news/articles/c2e102vw1z2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2e4l9k9yd1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c2k98jw3xnxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2lrlnnqp7zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss
@@ -766,6 +769,7 @@ https://www.bbc.com/news/articles/c89kl834nv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8e524n23rno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8e5zwndddyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss
@@ -774,6 +778,7 @@ https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8xyp9xjxr4o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c937909n152o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c937g1lkk5do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c937kqxyy5wo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c937qj0lp32o?at_medium=RSS&at_campaign=rss
@@ -1057,6 +1062,7 @@ https://www.bbc.com/news/articles/cy03zy1lr8go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy0dgpx71dyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy41ly2d9wko?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy4qejvqv4no?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy514kv2vzro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss
@@ -1095,6 +1101,7 @@ https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czx902w50dro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/czxr567npxko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/c05v93l1vmmo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/videos/c0mj9pdw4pno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/c1eqp2j9ly0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/c309v7802v4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/c33jr4g8gvyo?at_medium=RSS&at_campaign=rss
@@ -1432,6 +1439,7 @@ https://www.lemonde.fr/argent/article/2026/02/10/assurance-vie-les-fonds-en-euro
 https://www.lemonde.fr/argent/article/2026/03/03/banque-41-des-francais-sont-a-decouvert-au-moins-une-fois-par-an_6669316_1657007.html
 https://www.lemonde.fr/argent/article/2026/03/28/l-essor-des-marches-de-prediction-attire-desormais-les-acteurs-traditionnels-de-la-finance_6675080_1657007.html
 https://www.lemonde.fr/argent/article/2026/03/30/bourse-comment-transferer-son-pea-pour-payer-moins-de-frais_6675391_1657007.html
+https://www.lemonde.fr/argent/article/2026/04/06/immobilier-a-nice-la-demande-etrangere-fait-monter-les-prix_6677139_1657007.html
 https://www.lemonde.fr/campus/article/2026/02/05/voyager-sans-avion-ces-sites-internet-qui-tentent-de-faire-basculer-les-imaginaires_6665457_4401467.html
 https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/04/04/vivons-nous-un-quatrieme-choc-petrolier-comprendre-en-trois-minutes_6676626_6176282.html
 https://www.lemonde.fr/disparitions/article/2026/03/23/lionel-jospin-socialiste-au-destin-foudroye-est-mort_6673872_3382.html
@@ -1579,6 +1587,7 @@ https://www.lemonde.fr/international/article/2026/03/10/au-chili-jose-antonio-ka
 https://www.lemonde.fr/international/article/2026/03/10/guerre-en-iran-a-bord-du-porte-avions-charles-de-gaulle-emmanuel-macron-fait-etalage-de-la-puissance-militaire-de-la-france_6670175_3210.html
 https://www.lemonde.fr/international/article/2026/03/12/les-etats-unis-lancent-des-enquetes-commerciales-sur-les-prejudices-economiques-et-le-travail-force-de-nouveaux-droits-de-douane-en-vue_6670575_3210.html
 https://www.lemonde.fr/international/article/2026/04/02/donald-trump-se-moque-du-couple-macron-lors-d-un-dejeuner-prive-dans-un-contexte-de-mesentente-sur-la-guerre-au-moyen-orient_6676093_3210.html
+https://www.lemonde.fr/international/article/2026/04/05/harold-james-historien-les-etats-unis-commencent-a-faire-face-a-leur-propre-impasse-au-moyen-orient_6676908_3210.html
 https://www.lemonde.fr/international/live/2026/02/22/en-direct-droits-de-douane-apres-les-annonces-de-donald-trump-les-dernieres-informations-et-reactions_6667585_3210.html
 https://www.lemonde.fr/international/video/2026/03/03/guerre-en-iran-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron_6669424_3210.html
 https://www.lemonde.fr/international/video/2026/03/13/irak-un-soldat-dans-une-frappe-de-drone-six-autres-blesses_6671043_3210.html
@@ -1617,6 +1626,7 @@ https://www.lemonde.fr/politique/article/2026/04/02/nouvelle-caledonie-le-projet
 https://www.lemonde.fr/politique/article/2026/04/03/bally-bagayoko-le-pari-de-saint-denis-le-racisme-n-a-pas-les-memes-yeux-pas-le-meme-cerveau_6676325_823448.html
 https://www.lemonde.fr/politique/article/2026/04/04/a-l-assemblee-de-la-polynesie-francaise-14-elus-quittent-le-groupe-independantiste-tavini-provoquant-une-scission-au-sein-du-mouvement_6676644_823448.html
 https://www.lemonde.fr/politique/article/2026/04/04/menacee-de-mort-par-le-senateur-lr-thierry-meignen-la-journaliste-nassira-el-moaddem-denonce-le-silence-des-autorites_6676647_823448.html
+https://www.lemonde.fr/politique/article/2026/04/05/eric-zemmour-refuse-de-condamner-les-propos-racistes-contre-bally-bagayoko_6676921_823448.html
 https://www.lemonde.fr/societe/article/2026/01/31/a-metz-le-financement-d-une-mosquee-par-la-mairie-conteste-par-une-association-de-defenseurs-de-la-laicite_6664899_3224.html
 https://www.lemonde.fr/societe/article/2026/03/09/1-1-million-d-euros-en-neuf-mois-dans-les-coulisses-d-une-fraude-presumee-a-maprimrenov_6670041_3224.html
 https://www.lemonde.fr/societe/article/2026/04/04/avec-le-rassemblement-de-saint-denis-a-l-appel-de-bally-bagayoko-l-espoir-d-un-retour-de-la-lutte-antiraciste-dans-le-debat-public_6676621_3224.html
@@ -1627,6 +1637,7 @@ https://www.nature.com/articles/s41378-026-01160-0
 https://www.nature.com/articles/s41378-026-01173-9
 https://www.nature.com/articles/s41378-026-01212-5
 https://www.nature.com/articles/s41378-026-01232-1
+https://www.nature.com/articles/s41428-026-01162-9
 https://www.nature.com/articles/s41467-026-68856-9
 https://www.nature.com/articles/s41467-026-69362-8
 https://www.nature.com/articles/s41467-026-69463-4
@@ -1875,6 +1886,7 @@ https://www.nature.com/articles/s41598-026-42606-9
 https://www.nature.com/articles/s41598-026-42634-5
 https://www.nature.com/articles/s41598-026-42671-0
 https://www.nature.com/articles/s41598-026-42674-x
+https://www.nature.com/articles/s41598-026-42704-8
 https://www.nature.com/articles/s41598-026-42707-5
 https://www.nature.com/articles/s41598-026-42728-0
 https://www.nature.com/articles/s41598-026-42750-2
@@ -1901,6 +1913,7 @@ https://www.nature.com/articles/s41598-026-43379-x
 https://www.nature.com/articles/s41598-026-43403-0
 https://www.nature.com/articles/s41598-026-43475-y
 https://www.nature.com/articles/s41598-026-43487-8
+https://www.nature.com/articles/s41598-026-43497-6
 https://www.nature.com/articles/s41598-026-43525-5
 https://www.nature.com/articles/s41598-026-43540-6
 https://www.nature.com/articles/s41598-026-43555-z
@@ -1939,6 +1952,7 @@ https://www.nature.com/articles/s41598-026-44848-z
 https://www.nature.com/articles/s41598-026-44865-y
 https://www.nature.com/articles/s41598-026-44874-x
 https://www.nature.com/articles/s41598-026-44888-5
+https://www.nature.com/articles/s41598-026-44936-0
 https://www.nature.com/articles/s41598-026-44950-2
 https://www.nature.com/articles/s41598-026-45086-z
 https://www.nature.com/articles/s41598-026-45176-y
@@ -1957,6 +1971,7 @@ https://www.nature.com/articles/s41598-026-45741-5
 https://www.nature.com/articles/s41598-026-45796-4
 https://www.nature.com/articles/s41598-026-45828-z
 https://www.nature.com/articles/s41598-026-45857-8
+https://www.nature.com/articles/s41598-026-45886-3
 https://www.nature.com/articles/s41598-026-45887-2
 https://www.nature.com/articles/s41598-026-45890-7
 https://www.nature.com/articles/s41598-026-45910-6
@@ -1965,6 +1980,7 @@ https://www.nature.com/articles/s41598-026-46095-8
 https://www.nature.com/articles/s41598-026-46453-6
 https://www.nature.com/articles/s41598-026-46518-6
 https://www.nature.com/articles/s41598-026-46525-7
+https://www.nature.com/articles/s41598-026-46550-6
 https://www.nature.com/articles/s41598-026-46701-9
 https://www.nature.com/articles/s41598-026-46770-w
 https://www.nature.com/articles/s41598-026-46779-1
@@ -1972,8 +1988,15 @@ https://www.nature.com/articles/s41598-026-46872-5
 https://www.nature.com/articles/s41598-026-46908-w
 https://www.nature.com/articles/s41598-026-46948-2
 https://www.nature.com/articles/s41598-026-47066-9
+https://www.nature.com/articles/s41598-026-47096-3
 https://www.nature.com/articles/s41598-026-47124-2
+https://www.nature.com/articles/s41598-026-47229-8
+https://www.nature.com/articles/s41598-026-47251-w
 https://www.nature.com/articles/s41598-026-47289-w
+https://www.nature.com/articles/s41598-026-47401-0
+https://www.nature.com/articles/s41598-026-47484-9
+https://www.nature.com/articles/s41598-026-47524-4
+https://www.nature.com/articles/s41598-026-47573-9
 https://www.nature.com/articles/s41612-026-01374-z
 https://www.nature.com/articles/s41746-026-02445-4
 https://www.nature.com/articles/s41746-026-02481-0
@@ -2160,6 +2183,16 @@ https://www.nber.org/papers/w35014#fromrss
 https://www.nber.org/papers/w35016#fromrss
 https://www.nber.org/papers/w35017#fromrss
 https://www.nber.org/papers/w35018#fromrss
+https://www.nber.org/papers/w35019#fromrss
+https://www.nber.org/papers/w35022#fromrss
+https://www.nber.org/papers/w35024#fromrss
+https://www.nber.org/papers/w35029#fromrss
+https://www.nber.org/papers/w35030#fromrss
+https://www.nber.org/papers/w35031#fromrss
+https://www.nber.org/papers/w35032#fromrss
+https://www.nber.org/papers/w35034#fromrss
+https://www.nber.org/papers/w35038#fromrss
+https://www.nber.org/papers/w35041#fromrss
 https://www.politico.com/news/2025/12/08/trump-tariffs-mexico-rio-grande-water-00682220
 https://www.politico.com/news/2025/12/08/trumps-tariff-costs-consumers-00679261
 https://www.politico.com/news/2025/12/14/trump-hardball-tariff-fees-trade-00689892
@@ -2224,6 +2257,7 @@ https://www.politico.com/news/2026/04/02/manufacturers-still-waiting-trump-tarif
 https://www.politico.com/news/2026/04/02/trump-new-tariffs-pharmaceuticals-metals-00856242
 https://www.politico.com/news/2026/04/02/what-the-hell-did-he-just-say-gop-iran-worries-build-after-trump-speech-00855321
 https://www.politico.com/news/2026/04/03/trump-us-oil-exports-00856780
+https://www.politico.com/news/2026/04/05/arizona-hobbs-trump-iran-water-00858745
 https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888
 https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/
 https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/
