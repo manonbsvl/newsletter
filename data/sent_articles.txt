@@ -603,6 +603,7 @@ https://www.bbc.co.uk/sounds/play/p0n8js3h?at_medium=RSS&at_campaign=rss
 https://www.bbc.co.uk/sounds/play/w3ct73n3?at_medium=RSS&at_campaign=rss
 https://www.bbc.co.uk/sounds/play/w3ct747l?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c070en1gr79o?at_medium=RSS&at_campaign=rss
@@ -690,6 +691,7 @@ https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3dm790vxlko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3dzymj4yz7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3ewje4xk3yo?at_medium=RSS&at_campaign=rss
@@ -742,6 +744,7 @@ https://www.bbc.com/news/articles/c5y5lvznj1eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y6820nn23o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y70r6y3ldo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c5y70z1q0k3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y73z94xzeo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y7gnkez3lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y8d2qvr9do?at_medium=RSS&at_campaign=rss
@@ -784,6 +787,7 @@ https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c77ed1e2r6zo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c77m3p8182no?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78e4l3rm22o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78eyv1zdl3o?at_medium=RSS&at_campaign=rss
@@ -858,12 +862,14 @@ https://www.bbc.com/news/articles/cddn6yyr66yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cddn7qed35eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cddnry8dnl7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cde4w32573xo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdjm289ye4mo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdjmepg4pzlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdjmk030vzro?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdr2kmjd31ro?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cdxde5e4rngo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdxg72nrw6vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss
@@ -871,6 +877,7 @@ https://www.bbc.com/news/articles/ce3exl1k247o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3g0k60g4do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce8rk0je220o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss
@@ -904,6 +911,7 @@ https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgrz790l8g2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgrzvdqze5xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj0dq19qjp2o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj0v1qdd45no?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj32d05x702o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj375v264rko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss
@@ -912,6 +920,7 @@ https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6d66w0995o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6dk0845n7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj94lp9k28zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj983wrngyvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj98zm22327o?at_medium=RSS&at_campaign=rss
@@ -1039,6 +1048,7 @@ https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5lmg9l1y7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cr71ld371j5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cre2l5qxy9do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss
@@ -1359,6 +1369,7 @@ https://www.just-auto.com/news/jsw-mg-expand-halol-plant-capacity-india/
 https://www.just-auto.com/news/jtekt-divest-european-operations/
 https://www.just-auto.com/news/kia-ev3-debuts-at-new-york-auto-show/
 https://www.just-auto.com/news/kia-launches-production-of-telluride-hev-in-the-us/
+https://www.just-auto.com/news/kia-plans-won49tn-capex-2030/
 https://www.just-auto.com/news/kia-totalenergies-extend-global-partnership/
 https://www.just-auto.com/news/lamborghini-posts-revenue-rise/
 https://www.just-auto.com/news/leapmotor-munich-overseas-innovation-centre/
@@ -1478,6 +1489,7 @@ https://www.just-auto.com/news/toyotas-global-vehicle-sales-rise-3-in-december/
 https://www.just-auto.com/news/toyotas-vehicle-net-profits-plunge-43/
 https://www.just-auto.com/news/uber-acquires-spothero/
 https://www.just-auto.com/news/uber-to-invest-up-to-1-25bn-in-rivian/
+https://www.just-auto.com/news/uk-awards-380m-grant-agratas/
 https://www.just-auto.com/news/uk-car-market-up-7-2-in-february/
 https://www.just-auto.com/news/uk-car-market-up-but-sees-ev-share-fall-in-january/
 https://www.just-auto.com/news/uk-heavy-goods-vehicle-sales-dipped-in-2025-zevs-at-1-4-share/
@@ -1639,6 +1651,10 @@ https://www.lemonde.fr/economie/article/2026/04/08/les-armateurs-ne-se-pressent-
 https://www.lemonde.fr/economie/article/2026/04/08/transport-aerien-malgre-la-treve-en-iran-des-hausses-de-prix-durables_6678298_3234.html
 https://www.lemonde.fr/economie/article/2026/04/09/conflit-au-moyen-orient-la-commission-europeenne-redoute-un-choc-stagflationniste_6678625_3234.html
 https://www.lemonde.fr/economie/article/2026/04/09/la-hausse-des-prix-de-l-energie-inquiete-l-industrie-papetiere-deja-frappee-par-la-crise_6678630_3234.html
+https://www.lemonde.fr/economie/article/2026/04/10/l-inflation-bondit-aux-etats-unis-les-americains-recoivent-la-facture-amere-de-la-guerre-en-iran-de-donald-trump_6679066_3234.html
+https://www.lemonde.fr/economie/article/2026/04/10/stellantis-supprime-650-postes-d-ingenieurs-chez-opel-en-allemagne-et-investit-a-sochaux_6679081_3234.html
+https://www.lemonde.fr/economie/article/2026/04/11/dans-les-stations-essence-la-colere-et-la-resignation-on-calcule-tout-tout-tout_6679323_3234.html
+https://www.lemonde.fr/economie/article/2026/04/11/l-etrange-anomalie-du-prix-de-l-huile-d-olive_6679355_3234.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/01/les-chinois-qui-avaient-mise-sur-l-iran-pris-dans-l-incertitude-de-la-guerre_6675855_6325529.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
 https://www.lemonde.fr/idees/article/2026/02/02/budget-2026-comment-en-vouloir-a-un-elu-d-etre-genereux-avec-l-argent-public_6665125_3232.html
@@ -1680,12 +1696,14 @@ https://www.lemonde.fr/international/article/2026/03/12/les-etats-unis-lancent-d
 https://www.lemonde.fr/international/article/2026/04/02/donald-trump-se-moque-du-couple-macron-lors-d-un-dejeuner-prive-dans-un-contexte-de-mesentente-sur-la-guerre-au-moyen-orient_6676093_3210.html
 https://www.lemonde.fr/international/article/2026/04/05/harold-james-historien-les-etats-unis-commencent-a-faire-face-a-leur-propre-impasse-au-moyen-orient_6676908_3210.html
 https://www.lemonde.fr/international/article/2026/04/08/cecile-kohler-et-jacques-paris-les-otages-francais-detenus-pendant-quatre-ans-en-iran-sont-arrives-a-l-elysee_6678217_3211.html
+https://www.lemonde.fr/international/article/2026/04/10/etats-unis-l-inflation-grimpe-a-3-3-en-mars-portee-par-la-flambee-des-prix-de-l-essence-liee-a-la-guerre-au-moyen-orient_6679012_3210.html
 https://www.lemonde.fr/international/live/2026/02/22/en-direct-droits-de-douane-apres-les-annonces-de-donald-trump-les-dernieres-informations-et-reactions_6667585_3210.html
 https://www.lemonde.fr/international/video/2026/03/03/guerre-en-iran-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron_6669424_3210.html
 https://www.lemonde.fr/international/video/2026/03/13/irak-un-soldat-dans-une-frappe-de-drone-six-autres-blesses_6671043_3210.html
 https://www.lemonde.fr/international/video/2026/04/01/emmanuel-macron-repond-a-donald-trump-qui-accuse-la-france-de-ne-pas-cooperer-avec-les-etats-unis-dans-le-conflit-qui-les-oppose-a-l-iran_6675868_3210.html
 https://www.lemonde.fr/les-decodeurs/article/2026/03/13/municipales-ces-promesses-de-campagne-qui-depassent-les-pouvoirs-des-maires_6670962_4355770.html
 https://www.lemonde.fr/les-decodeurs/article/2026/04/09/prix-des-carburants-l-etat-s-enrichit-il-vraiment-grace-aux-taxes-payees-par-les-automobilistes_6678557_4355770.html
+https://www.lemonde.fr/les-decodeurs/article/2026/04/11/la-carte-des-prix-des-carburants-dans-toutes-les-stations-service-de-france_6670140_4355771.html
 https://www.lemonde.fr/m-le-mag/article/2026/02/07/garaud-peyrefitte-chirac-le-recours-a-la-droite-vintage-quand-est-ce-qu-on-rehabilite-poher_6665786_4500055.html
 https://www.lemonde.fr/outre-mer/article/2026/04/02/nouvelle-caledonie-le-projet-de-reforme-constitutionnelle-rejete-d-emblee-par-l-assemblee-nationale_6676115_1840826.html
 https://www.lemonde.fr/pixels/article/2026/02/19/des-donnees-personnelles-d-adherents-de-la-cfdt-derobees-dans-un-piratage_6667398_4408996.html
@@ -1722,6 +1740,7 @@ https://www.lemonde.fr/politique/article/2026/04/04/menacee-de-mort-par-le-senat
 https://www.lemonde.fr/politique/article/2026/04/05/eric-zemmour-refuse-de-condamner-les-propos-racistes-contre-bally-bagayoko_6676921_823448.html
 https://www.lemonde.fr/politique/article/2026/04/08/carburants-sebastien-lecornu-souhaite-une-baisse-des-prix-d-ici-a-la-fin-du-week-end-ou-au-debut-de-la-semaine-prochaine_6678285_823448.html
 https://www.lemonde.fr/politique/article/2026/04/10/free-parties-l-assemblee-nationale-adopte-un-arsenal-renforce-de-sanctions_6678652_823448.html
+https://www.lemonde.fr/politique/article/2026/04/10/sebastien-lecornu-veut-relancer-la-transition-energetique-face-a-la-crise-liee-a-la-guerre-au-moyen-orient_6679136_823448.html
 https://www.lemonde.fr/societe/article/2026/01/31/a-metz-le-financement-d-une-mosquee-par-la-mairie-conteste-par-une-association-de-defenseurs-de-la-laicite_6664899_3224.html
 https://www.lemonde.fr/societe/article/2026/03/09/1-1-million-d-euros-en-neuf-mois-dans-les-coulisses-d-une-fraude-presumee-a-maprimrenov_6670041_3224.html
 https://www.lemonde.fr/societe/article/2026/04/04/avec-le-rassemblement-de-saint-denis-a-l-appel-de-bally-bagayoko-l-espoir-d-un-retour-de-la-lutte-antiraciste-dans-le-debat-public_6676621_3224.html
@@ -1748,6 +1767,8 @@ https://www.nature.com/articles/s41467-026-70897-z
 https://www.nature.com/articles/s41467-026-71107-6
 https://www.nature.com/articles/s41467-026-71123-6
 https://www.nature.com/articles/s41467-026-71385-0
+https://www.nature.com/articles/s41467-026-71410-2
+https://www.nature.com/articles/s41467-026-71906-x
 https://www.nature.com/articles/s41524-026-02000-5
 https://www.nature.com/articles/s41526-026-00570-8
 https://www.nature.com/articles/s41528-026-00549-1
@@ -1979,6 +2000,7 @@ https://www.nature.com/articles/s41598-026-42336-y
 https://www.nature.com/articles/s41598-026-42338-w
 https://www.nature.com/articles/s41598-026-42450-x
 https://www.nature.com/articles/s41598-026-42482-3
+https://www.nature.com/articles/s41598-026-42592-y
 https://www.nature.com/articles/s41598-026-42606-9
 https://www.nature.com/articles/s41598-026-42634-5
 https://www.nature.com/articles/s41598-026-42671-0
@@ -2082,6 +2104,7 @@ https://www.nature.com/articles/s41598-026-45921-3
 https://www.nature.com/articles/s41598-026-45937-9
 https://www.nature.com/articles/s41598-026-46095-8
 https://www.nature.com/articles/s41598-026-46198-2
+https://www.nature.com/articles/s41598-026-46354-8
 https://www.nature.com/articles/s41598-026-46374-4
 https://www.nature.com/articles/s41598-026-46392-2
 https://www.nature.com/articles/s41598-026-46427-8
@@ -2098,6 +2121,7 @@ https://www.nature.com/articles/s41598-026-46841-y
 https://www.nature.com/articles/s41598-026-46872-5
 https://www.nature.com/articles/s41598-026-46908-w
 https://www.nature.com/articles/s41598-026-46948-2
+https://www.nature.com/articles/s41598-026-47011-w
 https://www.nature.com/articles/s41598-026-47066-9
 https://www.nature.com/articles/s41598-026-47096-3
 https://www.nature.com/articles/s41598-026-47124-2
@@ -2106,6 +2130,8 @@ https://www.nature.com/articles/s41598-026-47238-7
 https://www.nature.com/articles/s41598-026-47251-w
 https://www.nature.com/articles/s41598-026-47265-4
 https://www.nature.com/articles/s41598-026-47289-w
+https://www.nature.com/articles/s41598-026-47377-x
+https://www.nature.com/articles/s41598-026-47392-y
 https://www.nature.com/articles/s41598-026-47401-0
 https://www.nature.com/articles/s41598-026-47412-x
 https://www.nature.com/articles/s41598-026-47462-1
@@ -2118,6 +2144,9 @@ https://www.nature.com/articles/s41598-026-47728-8
 https://www.nature.com/articles/s41598-026-47766-2
 https://www.nature.com/articles/s41598-026-47817-8
 https://www.nature.com/articles/s41598-026-47927-3
+https://www.nature.com/articles/s41598-026-48008-1
+https://www.nature.com/articles/s41598-026-48203-0
+https://www.nature.com/articles/s41598-026-48447-w
 https://www.nature.com/articles/s41612-026-01374-z
 https://www.nature.com/articles/s41746-026-02445-4
 https://www.nature.com/articles/s41746-026-02481-0
@@ -2387,6 +2416,7 @@ https://www.politico.com/news/2026/04/05/arizona-hobbs-trump-iran-water-00858745
 https://www.politico.com/news/2026/04/08/hormuz-oil-trump-iran-tolls-00863570
 https://www.politico.com/news/2026/04/08/trump-threatens-50-percent-tariffs-on-iran-arms-supplies-his-legal-path-is-murky-00863519
 https://www.politico.com/news/2026/04/09/white-house-says-ieepa-still-in-play-for-iran-tariffs-00865314
+https://www.politico.com/news/2026/04/10/pope-leo-condemns-war-divine-backing-00867250
 https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888
 https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/
 https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/
