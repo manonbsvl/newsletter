@@ -606,6 +606,7 @@ https://semiengineering.com/ultrafast-laser-filamentation-dictates-energy-deposi
 https://semiengineering.com/untrusted-analog-components-add-risks-for-critical-infrastructure/
 https://semiengineering.com/using-gate-all-around-transistors-instead-of-charge-sensors-to-simplify-qubit-readout-architecture/
 https://semiengineering.com/why-more-cpus-are-needed-for-agentic-ai/
+https://semiengineering.com/why-proof-convergence-matters/
 https://semiengineering.com/world-first-macsec-ip-receives-iso-pas-8800-certification-for-automotive-and-physical-ai-security/
 https://spectrum.ieee.org/darpa-triage-challenge-robot
 https://spectrum.ieee.org/fda-medical-device-rules
@@ -796,6 +797,7 @@ https://www.bbc.com/news/articles/c2lrlnnqp7zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c309yem61q6o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3635485603o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss
@@ -837,6 +839,7 @@ https://www.bbc.com/news/articles/c4g54xzzze0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g58vlwdq3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g5jej5ydyo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c4g615jnv17o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g8eq9z2v8o?at_medium=RSS&at_campaign=rss
@@ -932,6 +935,7 @@ https://www.bbc.com/news/articles/c78e4l3rm22o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78eyv1zdl3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78j3e0j281o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c78vv47x422o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c78x9256pn7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c7951yl59lxo?at_medium=RSS&at_campaign=rss
@@ -1000,6 +1004,7 @@ https://www.bbc.com/news/articles/c9qe1d8p5xgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9v0v1p4el8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wq8w9q0y1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c9wqzekxvlqo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c9wxewk82qlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cd03lgmkr70o?at_medium=RSS&at_campaign=rss
@@ -1058,6 +1063,7 @@ https://www.bbc.com/news/articles/cg7y45kxvp9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cge8e2dq9plo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cge8g15p4v4o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgjzegn40dlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss
@@ -1139,6 +1145,7 @@ https://www.bbc.com/news/articles/clyr7dmry5mo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyrzrp0x5go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyx9n5p7v7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/clyxlnzrq41o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyxpnz45yzo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyz0ep9g8lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyz1vqqjq9o?at_medium=RSS&at_campaign=rss
@@ -1152,6 +1159,7 @@ https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm287wg3nr2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm287ylyydjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cm2rr9pg4jzo?at_medium=RSS&at_campaign=rss
@@ -1205,6 +1213,7 @@ https://www.bbc.com/news/articles/cp86v8lze34o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp87827jyk3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cp9m8n2vx0mo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cp9v3lk34yvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cpd5n2gqw0eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cpd8jpn0np1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cpv7gj30vgmo?at_medium=RSS&at_campaign=rss
@@ -1216,6 +1225,7 @@ https://www.bbc.com/news/articles/cq57j8nqn67o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cq57ylzz4dlo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cq59leg3gp5o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cq59nqv8v88o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cq5y7dd284do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cq6jnz828ljo?at_medium=RSS&at_campaign=rss
@@ -1230,6 +1240,7 @@ https://www.bbc.com/news/articles/cql70rlkk27o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cqlk5gd3kv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss
@@ -1253,6 +1264,7 @@ https://www.bbc.com/news/articles/crl45dp1gg5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crm172nkeplo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crm8898ex3mo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crm8j8j3k38o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/crmlr0nk8y9o?at_medium=RSS&at_campaign=rss
@@ -1352,6 +1364,7 @@ https://www.bbc.com/news/articles/cyv5ve6dvqeo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cyv916d999no?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cyv9nj336v5o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cz0g4dkm77zo?at_medium=RSS&at_campaign=rss
@@ -1966,6 +1979,7 @@ https://www.lemonde.fr/economie/article/2026/04/23/plan-d-electrification-le-gou
 https://www.lemonde.fr/economie/article/2026/04/24/la-clio-reine-discrete-du-paysage-automobile-francais-et-championne-des-ventes-aux-professionnels_6683018_3234.html
 https://www.lemonde.fr/economie/article/2026/04/25/l-economie-americaine-semble-naviguer-resolument-a-travers-toutes-les-tempetes_6683223_3234.html
 https://www.lemonde.fr/economie/article/2026/04/25/le-prix-du-lait-va-de-mal-en-pis-apres-deux-annees-ou-les-eleveurs-ont-pu-faire-leur-beurre_6683238_3234.html
+https://www.lemonde.fr/economie/article/2026/04/26/les-constructeurs-automobiles-chinois-convoitent-les-usines-europeennes-pour-percer-sur-le-vieux-continent_6683413_3234.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/01/les-chinois-qui-avaient-mise-sur-l-iran-pris-dans-l-incertitude-de-la-guerre_6675855_6325529.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/23/en-cisjordanie-et-a-gaza-la-france-veut-que-le-gouvernement-israelien-change-sa-politique_6682784_6325529.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
@@ -2075,6 +2089,7 @@ https://www.lemonde.fr/politique/article/2026/04/19/carburants-le-gouvernement-a
 https://www.lemonde.fr/politique/article/2026/04/19/election-presidentielle-2027-la-precampagne-prudente-d-edouard-philippe_6681321_823448.html
 https://www.lemonde.fr/politique/article/2026/04/21/presidentielle-2027-le-parti-socialiste-publie-une-ebauche-programmatique-sur-fond-de-divisions-internes_6681968_823448.html
 https://www.lemonde.fr/politique/article/2026/04/25/reconduit-a-la-tete-de-fo-frederic-souillot-reaffirme-l-identite-antiraciste-du-syndicat_6683231_823448.html
+https://www.lemonde.fr/politique/article/2026/04/26/presidentielle-2027-en-bretagne-la-gauche-hors-la-france-insoumise-compte-ses-divisions-et-ses-candidats_6683416_823448.html
 https://www.lemonde.fr/societe/article/2026/01/31/a-metz-le-financement-d-une-mosquee-par-la-mairie-conteste-par-une-association-de-defenseurs-de-la-laicite_6664899_3224.html
 https://www.lemonde.fr/societe/article/2026/03/09/1-1-million-d-euros-en-neuf-mois-dans-les-coulisses-d-une-fraude-presumee-a-maprimrenov_6670041_3224.html
 https://www.lemonde.fr/societe/article/2026/04/04/avec-le-rassemblement-de-saint-denis-a-l-appel-de-bally-bagayoko-l-espoir-d-un-retour-de-la-lutte-antiraciste-dans-le-debat-public_6676621_3224.html
@@ -2506,6 +2521,7 @@ https://www.nature.com/articles/s41598-026-47524-4
 https://www.nature.com/articles/s41598-026-47549-9
 https://www.nature.com/articles/s41598-026-47573-9
 https://www.nature.com/articles/s41598-026-47596-2
+https://www.nature.com/articles/s41598-026-47638-9
 https://www.nature.com/articles/s41598-026-47658-5
 https://www.nature.com/articles/s41598-026-47679-0
 https://www.nature.com/articles/s41598-026-47726-w
@@ -2538,6 +2554,7 @@ https://www.nature.com/articles/s41598-026-48569-1
 https://www.nature.com/articles/s41598-026-48578-0
 https://www.nature.com/articles/s41598-026-48698-7
 https://www.nature.com/articles/s41598-026-48818-3
+https://www.nature.com/articles/s41598-026-48822-7
 https://www.nature.com/articles/s41598-026-48824-5
 https://www.nature.com/articles/s41598-026-48971-9
 https://www.nature.com/articles/s41598-026-48980-8
@@ -2555,15 +2572,22 @@ https://www.nature.com/articles/s41598-026-49203-w
 https://www.nature.com/articles/s41598-026-49205-8
 https://www.nature.com/articles/s41598-026-49220-9
 https://www.nature.com/articles/s41598-026-49434-x
+https://www.nature.com/articles/s41598-026-49443-w
 https://www.nature.com/articles/s41598-026-49507-x
+https://www.nature.com/articles/s41598-026-49545-5
 https://www.nature.com/articles/s41598-026-49581-1
+https://www.nature.com/articles/s41598-026-49625-6
 https://www.nature.com/articles/s41598-026-49784-6
 https://www.nature.com/articles/s41598-026-49935-9
 https://www.nature.com/articles/s41598-026-49937-7
+https://www.nature.com/articles/s41598-026-50089-x
 https://www.nature.com/articles/s41598-026-50158-1
 https://www.nature.com/articles/s41598-026-50226-6
 https://www.nature.com/articles/s41598-026-50257-z
+https://www.nature.com/articles/s41598-026-50390-9
 https://www.nature.com/articles/s41598-026-50577-0
+https://www.nature.com/articles/s41598-026-50702-z
+https://www.nature.com/articles/s41598-026-50729-2
 https://www.nature.com/articles/s41612-026-01374-z
 https://www.nature.com/articles/s41746-026-02445-4
 https://www.nature.com/articles/s41746-026-02481-0
