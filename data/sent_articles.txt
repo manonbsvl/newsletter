@@ -46,6 +46,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/fs_26_688
 https://ec.europa.eu/commission/presscorner/detail/en/fs_26_737
 https://ec.europa.eu/commission/presscorner/detail/en/inf_26_115
 https://ec.europa.eu/commission/presscorner/detail/en/inf_26_679
+https://ec.europa.eu/commission/presscorner/detail/en/inf_26_720
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_214
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_232
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_271
@@ -127,12 +128,16 @@ https://ec.europa.eu/commission/presscorner/detail/en/ip_26_826
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_831
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_833
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_834
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_838
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_862
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_866
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_873
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_878
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_881
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_910
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_912
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_919
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_920
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_272
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_301
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_311
@@ -175,6 +180,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/mex_26_860
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_867
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_880
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_892
+https://ec.europa.eu/commission/presscorner/detail/en/mex_26_925
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_415
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_527
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_543
@@ -280,6 +286,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/speech_26_890
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_897
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_898
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_908
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_926
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_307
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_308
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_318
@@ -486,6 +493,7 @@ https://semiengineering.com/ai-energy-gap-and-chiplets-why-data-movement-matters
 https://semiengineering.com/ai-inference-needs-a-mix-and-match-memory-strategy/
 https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/
 https://semiengineering.com/all-ai-data-center-interconnects-will-be-optical-within-5-years/
+https://semiengineering.com/alumina-nanowires-improve-thermal-management-in-advanced-packaging-georgia-tech-et-al/
 https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/
 https://semiengineering.com/an-fpga-based-accelerator-addressing-bottlenecks-in-gnn-preprocessing-kaist-et-al/
 https://semiengineering.com/an-integrated-workflow-for-circuit-design-simulation-and-functional-safety-analysis/
@@ -501,6 +509,7 @@ https://semiengineering.com/batteries-charge-to-the-edge/
 https://semiengineering.com/blog-review-apr-1/
 https://semiengineering.com/blog-review-apr-15/
 https://semiengineering.com/blog-review-apr-22/
+https://semiengineering.com/blog-review-apr-29/
 https://semiengineering.com/blog-review-apr-8/
 https://semiengineering.com/blog-review-feb-18-2/
 https://semiengineering.com/blog-review-feb-25-2/
@@ -557,8 +566,10 @@ https://semiengineering.com/impact-of-surface-states-and-band-modulations-in-rut
 https://semiengineering.com/impact-of-the-gate-and-fin-space-variation-on-stress-modulation-and-finfet-transistor-performance/
 https://semiengineering.com/improving-yield-through-shared-data/
 https://semiengineering.com/less-power-and-higher-performance-with-a-nanolaser-with-extreme-dielectric-confinement-dtu/
+https://semiengineering.com/leveraging-agentic-ai-techniques-to-improve-formal-verification-infineon-et-al/
 https://semiengineering.com/limiting-ai-ml-tools-to-ensure-physical-ai-safety-security/
 https://semiengineering.com/llm-based-learning-platform-for-chip-design-education-rptu/
+https://semiengineering.com/mapping-and-routing-fault-tolerant-quantum-circuits-onto-chiplet-architectures-tu-munich/
 https://semiengineering.com/memory-wall-gets-higher/
 https://semiengineering.com/ml-for-energy-performance-aware-scheduling-on-heterogeneous-multicore-architectures-cambridge/
 https://semiengineering.com/moving-electrons-not-just-vehicles/
@@ -594,6 +605,7 @@ https://semiengineering.com/research-bits-mar-24/
 https://semiengineering.com/research-bits-mar-31/
 https://semiengineering.com/research-bits-mar-9/
 https://semiengineering.com/research-bits-march-3/
+https://semiengineering.com/rethinking-esd-protection-for-system-on-integrated-chiplets-uc-riverside/
 https://semiengineering.com/rethinking-voice-ai-at-the-edge-a-practical-offline-pipeline/
 https://semiengineering.com/router-in-a-package-design-combining-hbm4-chiplets-and-in-package-optics/
 https://semiengineering.com/rutile-tio2-as-a-post-zro2-dielectric-platform-for-next-gen-dram-capacitors-kist/
@@ -1102,6 +1114,9 @@ https://www.bbc.com/news/articles/cj375v264rko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj60pl5g4z4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj6d66w0995o?at_medium=RSS&at_campaign=rss
@@ -1439,6 +1454,7 @@ https://www.bbc.com/news/videos/cewz8kplwkdo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cjd89jy7lp7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/ckgr4r9k2dqo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cly9peevj5yo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/videos/cm2pnde3l7yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cn08y2jgdxpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/crr1pk5jkyqo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cvgdrrnlyjlo?at_medium=RSS&at_campaign=rss
@@ -1453,6 +1469,7 @@ https://www.bbc.com/news/videos/cy4w1r078x2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cy716gl6vp5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cz0p2xy38d0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/videos/cz6y2580eeqo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/videos/cz92wdvwek8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/videos/cn9zel8v9eeo?at_medium=RSS&at_campaign=rss
 https://www.bruegel.org/node/11138
 https://www.carbonbrief.org/debriefed-23-january-2026-trumps-davos-tirade-eu-wind-and-solar-milestone-high-seas-hope/
@@ -1533,6 +1550,7 @@ https://www.just-auto.com/news/aptiv-subsidiaries-1-5bn-notes-offering/
 https://www.just-auto.com/news/archion-launches-after-hino-fuso-integration/
 https://www.just-auto.com/news/arkema-senior-battery-materials-development-agreement/
 https://www.just-auto.com/news/asahi-kasei-postpones-canada-plant/
+https://www.just-auto.com/news/automakers-affordable-cars-leave-us-market-report/
 https://www.just-auto.com/news/baic-hesai-contract-signals-high-volume-lidar-adoption-in-china/
 https://www.just-auto.com/news/baidu-uber-autonomous-ride-hailing-dubai/
 https://www.just-auto.com/news/bentley-first-electric-vehicle-2026/
@@ -1551,6 +1569,7 @@ https://www.just-auto.com/news/brazil-byd-labour-violations-bahia/
 https://www.just-auto.com/news/brazil-imposes-anti-dumping-duties-on-chinese-steel/
 https://www.just-auto.com/news/byd-evuk-partnership-uk-ev-adoption/
 https://www.just-auto.com/news/byd-explores-canada-plant/
+https://www.just-auto.com/news/byd-first-quarter-profit-falls/
 https://www.just-auto.com/news/byd-geely-vinfast-bid-mexico-plant/
 https://www.just-auto.com/news/byd-reports-drop-in-earnings-in-2025-despite-record-sales/
 https://www.just-auto.com/news/byd-sales-continue-to-plunge-in-february/
@@ -1609,6 +1628,7 @@ https://www.just-auto.com/news/genuine-parts-split-divisions/
 https://www.just-auto.com/news/glydways-raises-170m/
 https://www.just-auto.com/news/gm-invest-150m-saginaw-casting-facility/
 https://www.just-auto.com/news/gm-korea-to-lift-production-to-500000-units-in-2026/
+https://www.just-auto.com/news/gm-raises-2026-outlook/
 https://www.just-auto.com/news/gm-to-invest-us600-in-its-south-korean-operations/
 https://www.just-auto.com/news/gwm-plans-europe-relaunch/
 https://www.just-auto.com/news/halms-car-parts-plant-hungary/
@@ -1623,6 +1643,7 @@ https://www.just-auto.com/news/honda-to-withdraw-from-the-south-korean-vehicle-m
 https://www.just-auto.com/news/honda-y2-5tn-hit-ev-strategy-shift/
 https://www.just-auto.com/news/hondas-global-output-fell-5-in-february/
 https://www.just-auto.com/news/hondas-global-output-rises-2-in-january/
+https://www.just-auto.com/news/hondas-global-vehicle-output-falls-5-in-march/
 https://www.just-auto.com/news/hondas-global-vehicle-output-rises-4-in-december/
 https://www.just-auto.com/news/hormuz-closure-japans-used-vehicle-exports/
 https://www.just-auto.com/news/horse-powertrain-and-repsol-develop-new-hybrid-powertrain-for-renewable-gasoline/
@@ -1670,6 +1691,7 @@ https://www.just-auto.com/news/leapmotor-munich-overseas-innovation-centre/
 https://www.just-auto.com/news/lg-energy-solution-swings-q1-loss/
 https://www.just-auto.com/news/lg-gm-lfp-ess-batteries-tennessee/
 https://www.just-auto.com/news/lg-innotek-automotive-wi-fi-7-supply-agreement/
+https://www.just-auto.com/news/li-auto-signs-new-distribution-deals-in-the-middle-east/
 https://www.just-auto.com/news/lucid-names-new-ceo-raises-1-05bn/
 https://www.just-auto.com/news/lucid-trims-us-workforce-12/
 https://www.just-auto.com/news/lyten-northvolts-swedish-battery-assets/
@@ -1685,6 +1707,7 @@ https://www.just-auto.com/news/mazda-pauses-japan-output/
 https://www.just-auto.com/news/mazda-reports-net-loss-in-april-december-2025/
 https://www.just-auto.com/news/mazdas-global-vehicle-output-rebounds-in-december/
 https://www.just-auto.com/news/mazdas-global-vehicle-sales-fall-10-in-january/
+https://www.just-auto.com/news/mazdas-global-vehicle-sales-fall-11-in-march/
 https://www.just-auto.com/news/mcnex-valens-qhd-automotive-cameras/
 https://www.just-auto.com/news/mercedes-benz-invest-4bn-alabama-plant/
 https://www.just-auto.com/news/mercedes-benz-profit-drops-48-8/
@@ -1714,6 +1737,7 @@ https://www.just-auto.com/news/nio-bosch-in-sdv-technology-partnership/
 https://www.just-auto.com/news/nissan-launches-new-gravite-in-india/
 https://www.just-auto.com/news/nissan-leaf-chosen-by-the-wwcoty-as-the-supreme-winner-of-2026/
 https://www.just-auto.com/news/nissan-plans-45m-egypt-expansion/
+https://www.just-auto.com/news/nissan-raises-fy25-outlook/
 https://www.just-auto.com/news/nissan-recalls-643000-rogue-suvs-in-the-us/
 https://www.just-auto.com/news/nissan-reports-44-operating-profit-drop-in-q3/
 https://www.just-auto.com/news/nissan-to-sell-the-us-made-murano-suv-in-japan/
@@ -1731,6 +1755,7 @@ https://www.just-auto.com/news/pirelli-board-blocks-cyber-tyre-spin-off/
 https://www.just-auto.com/news/pirelli-meets-2025-targets/
 https://www.just-auto.com/news/plant-owned-by-a-hyundai-kia-engine-parts-supplier-destroyed-by-fire/
 https://www.just-auto.com/news/pony-ai-verne-and-uber/
+https://www.just-auto.com/news/pony-nvidia-based-platform-l4-driving/
 https://www.just-auto.com/news/porsche-bugatti-rimac-stakes-hof-consortium/
 https://www.just-auto.com/news/posco-future-ms-investment-highlights-vietnams-rising-role-in-ev-supply-chains/
 https://www.just-auto.com/news/posco-molten-to-collaborate-on-graphite-production-for-battery-anodes/
@@ -2013,7 +2038,10 @@ https://www.lemonde.fr/economie/article/2026/04/24/la-clio-reine-discrete-du-pay
 https://www.lemonde.fr/economie/article/2026/04/25/l-economie-americaine-semble-naviguer-resolument-a-travers-toutes-les-tempetes_6683223_3234.html
 https://www.lemonde.fr/economie/article/2026/04/25/le-prix-du-lait-va-de-mal-en-pis-apres-deux-annees-ou-les-eleveurs-ont-pu-faire-leur-beurre_6683238_3234.html
 https://www.lemonde.fr/economie/article/2026/04/26/les-constructeurs-automobiles-chinois-convoitent-les-usines-europeennes-pour-percer-sur-le-vieux-continent_6683413_3234.html
+https://www.lemonde.fr/economie/article/2026/04/28/les-salaries-de-symbio-pres-de-lyon-se-sentent-trahis-par-les-grands-discours-sur-la-filiere-hydrogene_6683976_3234.html
 https://www.lemonde.fr/economie/article/2026/04/28/les-terres-rares-du-groenland-qui-n-ont-pas-ete-obtenues-militairement-sont-en-passe-de-l-etre-grace-a-wall-street_6683893_3234.html
+https://www.lemonde.fr/economie/article/2026/04/29/la-toute-puissance-de-la-chine-des-batteries-au-nucleaire-des-medicaments-innovants-aux-additifs-alimentaires-des-tgv-a-l-ia_6684087_3234.html
+https://www.lemonde.fr/economie/article/2026/04/29/totalenergies-les-benefices-bondissent-avec-la-guerre-en-iran_6684229_3234.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/01/les-chinois-qui-avaient-mise-sur-l-iran-pris-dans-l-incertitude-de-la-guerre_6675855_6325529.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/23/en-cisjordanie-et-a-gaza-la-france-veut-que-le-gouvernement-israelien-change-sa-politique_6682784_6325529.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
@@ -2581,6 +2609,7 @@ https://www.nature.com/articles/s41598-026-48163-5
 https://www.nature.com/articles/s41598-026-48203-0
 https://www.nature.com/articles/s41598-026-48221-y
 https://www.nature.com/articles/s41598-026-48304-w
+https://www.nature.com/articles/s41598-026-48316-6
 https://www.nature.com/articles/s41598-026-48317-5
 https://www.nature.com/articles/s41598-026-48408-3
 https://www.nature.com/articles/s41598-026-48446-x
@@ -3079,6 +3108,7 @@ https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-
 https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/
 https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/
 https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/
+https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/
 https://www.usinenouvelle.com/aero-spatial/aeronautique/dassault-aviation/scaf-commandes-record-rupture-technologique-lmb-aerospace-et-renault-les-dossiers-chauds-du-nouveau-patron-de-la-dga.YKF6CDVTRBG2BJJ5DJZMSCK23M.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/embraer/aeronautique-le-taxi-volant-du-bresilien-embraer-engrange-les-commandes-et-sapproche-de-son-exploitation-commerciale.VM664AM2DZDCLLFZE6EVS5V25Y.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/helicoptere/chez-optima-aero-sandra-bernard-fait-rimer-le-demantelement-dhelicopteres-avec-leconomie-circulaire.A5CW3A6GZZODVNKQFTID3CF3PE.html
