@@ -200,9 +200,11 @@ https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_648
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_667
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_736
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_876
+https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_949
 https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_953
 https://ec.europa.eu/commission/presscorner/detail/en/read_26_513
 https://ec.europa.eu/commission/presscorner/detail/en/read_26_525
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1002
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_270
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_276
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_278
@@ -304,6 +306,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/speech_26_936
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_975
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_977
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_991
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_998
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_307
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_308
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_318
@@ -339,6 +342,7 @@ https://ec.europa.eu/commission/presscorner/detail/en/statement_26_885
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_895
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_944
 https://ec.europa.eu/commission/presscorner/detail/en/statement_26_989
+https://ec.europa.eu/commission/presscorner/detail/ov/speech_26_1000
 https://ecfr.eu/article/a-kurdish-rebellion-in-iran-could-be-a-disaster/
 https://ecfr.eu/article/a-new-world-in-trade-how-europeans-can-make-the-most-of-the-india-deal/
 https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/
@@ -437,10 +441,13 @@ https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-s
 https://ecfr.eu/publication/fast-energy-how-europe-can-power-the-ai-revolution-and-stay-competitive/
 https://ecfr.eu/publication/from-shield-to-sword-europes-offensive-strategy-for-the-hybrid-age/
 https://ecfr.eu/publication/one-battle-after-another-factional-struggles-and-the-making-of-trumps-foreign-policy/
+https://ecfr.eu/publication/the-ammonia-age-how-europe-and-africa-can-steer-global-shipping-to-net-zero/
 https://ecfr.eu/publication/the-electric-endgame-europes-clean-path-out-of-vassalage/
 https://ecfr.eu/publication/the-european-archipelago-building-bridges-in-a-post-western-europe/
 https://ecfr.eu/publication/the-full-monty-why-the-mediterranean-pact-needs-to-offer-the-works/
 https://ecfr.eu/publication/the-new-right-anatomy-of-a-global-political-revolution/
+https://ecfr.eu/special/iran-nuclear-monitor/assessing-the-damage-to-the-nuclear-programme/
+https://ecfr.eu/special/iran-nuclear-monitor/the-nuclear-programme-before-june-2025/
 https://ecfr.eu/special/mapping_palestinian_politics/husni-al-mughni/
 https://ecfr.eu/special/mapping_palestinian_politics/rami-tawfiq-helles/
 https://ecfr.eu/special/mapping_palestinian_politics/usama-al-saydawi/
@@ -503,6 +510,7 @@ https://semiengineering.com/3d-printing-to-create-spatially-freeform-nanomateria
 https://semiengineering.com/40-pcb-design-tips-every-designer-should-know-ebook/
 https://semiengineering.com/5-strategic-decisions-for-building-a-scalable-compute-platform-for-now-and-the-future/
 https://semiengineering.com/5-systems-level-attack-surfaces-that-are-architectural-consequences-of-edge-local-deployment-imperial-college-london/
+https://semiengineering.com/a-detailed-evaluation-of-a-production-server-with-high-end-mrdimm-main-memory-bsc-micron-intel-upc/
 https://semiengineering.com/a-gpu-microarchitecture-optimized-for-fully-homomorphic-encryption/
 https://semiengineering.com/a-manufacturing-approach-that-brings-diamond-quantum-photonics-closer-to-industrial-production-mit-kaust-et-al/
 https://semiengineering.com/a-test-generation-procedure-targeting-subcircuits-with-high-susceptibilities-to-aging-purdue-university/
@@ -575,6 +583,7 @@ https://semiengineering.com/detecting-chemical-variability-at-advanced-nodes/
 https://semiengineering.com/developing-a-security-framework-for-chiplet-based-systems/
 https://semiengineering.com/embedded-world-2026-bringing-edge-ai-into-the-real-world/
 https://semiengineering.com/emulation-based-soc-security-verification-u-of-florida/
+https://semiengineering.com/enabling-a-critical-phase-in-soc-development/
 https://semiengineering.com/enabling-the-industrys-first-gpu-accelerated-manufacturing-platform/
 https://semiengineering.com/energy-efficient-liquid-cooling-for-advanced-semiconductor-packaging-kaist/
 https://semiengineering.com/engineers-guide-to-simulating-electronics-cooling/
@@ -582,6 +591,7 @@ https://semiengineering.com/foundries-capacity-is-limiting-who-competes-at-leadi
 https://semiengineering.com/from-monolithic-socs-to-chiplets-a-new-hardware-security-paradigm/
 https://semiengineering.com/from-simulation-checkpoints-to-continuous-physics/
 https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto/
+https://semiengineering.com/hardware-from-specifications-using-ai/
 https://semiengineering.com/hbm4e-raises-the-bar-for-ai-memory-bandwidth/
 https://semiengineering.com/how-ai-is-changing-computing-and-why-testing-is-critical/
 https://semiengineering.com/how-ip-subsystems-for-chiplets-will-unlock-your-next-wave-of-innovation/
@@ -621,6 +631,7 @@ https://semiengineering.com/pdn-challenges-in-dram-based-compute-in-memory-syste
 https://semiengineering.com/photonic-packaging-resistant-to-extreme-environments-nist-johns-hopkins-u-of-maryland/
 https://semiengineering.com/platform-led-ai-analytics-for-the-semiconductor-ecosystem/
 https://semiengineering.com/potential-route-to-photonic-fpca-using-nv-low-loss-phase-change-material-oxford/
+https://semiengineering.com/pre-silicon-verification-and-validation-methodology-targeting-robust-risc-v-chip-designs-bsc/
 https://semiengineering.com/quantifying-the-impact-of-gravity-on-strip-warpage-across-assembly-stages/
 https://semiengineering.com/removing-the-accuracy-and-time-tradeoff-in-em-simulation/
 https://semiengineering.com/reram-based-neo-hebbian-synapses-for-training-neuromorphic-hw-iit-madras-ucsb/
@@ -719,6 +730,7 @@ https://www.alternatives-economiques.fr/harold-levrel/pas-de-souverainete-alimen
 https://www.alternatives-economiques.fr/herve-nathan/ce-que-la-france-defend-vraiment-dans-le-golfe-persique/00118008
 https://www.alternatives-economiques.fr/isabelle-this-saint-jean/consequences-economiques-de-la-guerre-comment-eviter-le-pire/00118329
 https://www.alternatives-economiques.fr/jean-pralong-dans-la-nouvelle-classe-dominante-on-se-reve-en-leaders/00118376
+https://www.alternatives-economiques.fr/julien-fosse/la-biomasse-energie-une-voie-de-sortie-de-la-crise-petroliere/00118316
 https://www.alternatives-economiques.fr/la-decision-de-la-cour-supreme-contre-les-tarifs-douaniers-ne-met-pas-fin-au-p/00117913
 https://www.alternatives-economiques.fr/la-dette-mondiale-augmente-et-se-transforme/00117985
 https://www.alternatives-economiques.fr/la-faim-recule-dans-le-monde-mais-les-foyers-de-crise-se-multiplient/00117428
@@ -765,6 +777,7 @@ https://www.bbc.com/news/articles/c07j0v4yvd0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0e7le127v5o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0j68jp6l4vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&at_campaign=rss
@@ -908,6 +921,7 @@ https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g8eq9z2v8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g8wyvv1wxo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4ge48zxjy1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4ge4yxwnlno?at_medium=RSS&at_campaign=rss
@@ -1037,6 +1051,7 @@ https://www.bbc.com/news/articles/c89kl834nv9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c8d89rlg002o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8dldv4lqygo?at_medium=RSS&at_campaign=rss
@@ -1053,6 +1068,7 @@ https://www.bbc.com/news/articles/c8x7217vv28o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8x7yj99jrwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c8xyp9xjxr4o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c937909n152o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c937g1lkk5do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss
@@ -1066,6 +1082,7 @@ https://www.bbc.com/news/articles/c98gne0z0rxo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c98mrepzgj7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c98ryq1r3mno?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss
@@ -1199,6 +1216,7 @@ https://www.bbc.com/news/articles/cjr9pe47lp0o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cjwpd0631y3o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss
@@ -1291,6 +1309,7 @@ https://www.bbc.com/news/articles/cn7145gv10jo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn877d27gndo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn89n9exl11o?at_medium=RSS&at_campaign=rss
@@ -1405,6 +1424,7 @@ https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvgnqk5wz5go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvgp7ry9evwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvgz420ee0zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cwy35k5x5d3o?at_medium=RSS&at_campaign=rss
@@ -1473,6 +1493,7 @@ https://www.bbc.com/news/articles/cy820jz41w8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy8pzzmpdz9o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cy9yz3x332lo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cyv5ve6dvqeo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cyv916d999no?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss
@@ -1603,6 +1624,7 @@ https://www.just-auto.com/industry-data/global-vehicle-market-weighed-down-in-ma
 https://www.just-auto.com/industry-data/indias-vehicle-market-stays-on-growth-path-after-2025-high/
 https://www.just-auto.com/industry-data/policy-shifts-and-sales-fluctuations-continue-to-affect-china-market/
 https://www.just-auto.com/industry-data/us-light-vehicle-market-down-14-in-march/
+https://www.just-auto.com/industry-data/us-light-vehicle-market-healthy-in-april-despite-affordability-concerns/
 https://www.just-auto.com/industry-data/us-light-vehicle-market-slow-in-january-amid-severe-weather/
 https://www.just-auto.com/industry-data/western-european-car-market-contracts-for-the-first-time-in-seven-months/
 https://www.just-auto.com/industry-data/western-europes-car-market-nudges-up-in-february/
@@ -1643,6 +1665,7 @@ https://www.just-auto.com/news/bmw-group-operating-profit-down-11-5-in-2026/
 https://www.just-auto.com/news/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time/
 https://www.just-auto.com/news/bmw-ntt-docomo-smart-car-connectivity/
 https://www.just-auto.com/news/bmw-prezero-europe-vehicle-recycling-deal/
+https://www.just-auto.com/news/bmw-profit-down-by-a-quarter-in-q1/
 https://www.just-auto.com/news/borgwarner-secures-its-first-48v-electric-cross-differential-order-in-china/
 https://www.just-auto.com/news/borgwarner-to-supply-vtg-turbocharger-to-european-oem-in-na/
 https://www.just-auto.com/news/bosch-limited-acquire-chassis-unit/
@@ -1717,11 +1740,13 @@ https://www.just-auto.com/news/gm-raises-2026-outlook/
 https://www.just-auto.com/news/gm-to-invest-us600-in-its-south-korean-operations/
 https://www.just-auto.com/news/gwm-plans-europe-relaunch/
 https://www.just-auto.com/news/halms-car-parts-plant-hungary/
+https://www.just-auto.com/news/hevo-explores-foxconn-tie-up/
 https://www.just-auto.com/news/honda-motor-europe-announces-management-changes/
 https://www.just-auto.com/news/honda-mythic-to-co-develop-socs-for-sdvs/
 https://www.just-auto.com/news/honda-recalls-440000-odyssey-vehicles/
 https://www.just-auto.com/news/honda-reports-42-plunge-on-net-profits-in-april-december-2025/
 https://www.just-auto.com/news/honda-reports-slight-increase-in-us-sales-in-february/
+https://www.just-auto.com/news/honda-scraps-plan-to-build-bev-plant-in-canada/
 https://www.just-auto.com/news/honda-shift-engineers-rd-unit/
 https://www.just-auto.com/news/honda-to-close-assembly-plant-in-china-by-june-reports/
 https://www.just-auto.com/news/honda-to-withdraw-from-the-south-korean-vehicle-market/
@@ -1750,6 +1775,7 @@ https://www.just-auto.com/news/hyundai-unveils-pleos-connect/
 https://www.just-auto.com/news/hyundais-net-profits-drop-in-2025-hit-by-us-tariffs/
 https://www.just-auto.com/news/indonesia-motor-insurance-market-to-reach-1-3-billion-by-2030-forecasts-globaldata/
 https://www.just-auto.com/news/indonesia-orders-105000-trucks-from-india/
+https://www.just-auto.com/news/indonesia-reverses-decision-to-cut-bev-incentives/
 https://www.just-auto.com/news/indonesian-vehicle-market-up-12-in-february/
 https://www.just-auto.com/news/indonesian-vehicle-market-up-7-in-january/
 https://www.just-auto.com/news/indonesian-vehicle-sales-fall-14-in-march/
@@ -1788,6 +1814,7 @@ https://www.just-auto.com/news/magna-posts-higher-q1-sales/
 https://www.just-auto.com/news/magna-sell-lighting-rooftop-businesses/
 https://www.just-auto.com/news/mahindra-expand-chennai-rd-hub/
 https://www.just-auto.com/news/mahindra-plans-rs150bn-investment-in-maharashtra-operations/
+https://www.just-auto.com/news/mahindra-posts-42-q4-net-profit-rise/
 https://www.just-auto.com/news/mahindra-weighs-south-africa-plant-expansion/
 https://www.just-auto.com/news/mahle-lower-2025-profit/
 https://www.just-auto.com/news/malaysia-vehicle-sales-fall-19-in-february/
@@ -1833,6 +1860,7 @@ https://www.just-auto.com/news/nissan-plans-45m-egypt-expansion/
 https://www.just-auto.com/news/nissan-raises-fy25-outlook/
 https://www.just-auto.com/news/nissan-recalls-643000-rogue-suvs-in-the-us/
 https://www.just-auto.com/news/nissan-reports-44-operating-profit-drop-in-q3/
+https://www.just-auto.com/news/nissan-to-cut-around-10-of-its-european-workforce/
 https://www.just-auto.com/news/nissan-to-sell-the-us-made-murano-suv-in-japan/
 https://www.just-auto.com/news/nissan-unveils-all-new-qx65-in-the-us/
 https://www.just-auto.com/news/nissan-unveils-next-gen-electric-juke/
@@ -2156,6 +2184,7 @@ https://www.lemonde.fr/economie/article/2026/05/02/donald-trump-relance-la-guerr
 https://www.lemonde.fr/economie/article/2026/05/03/petrole-l-opep-augmente-ses-quotas-comme-prevu-sans-commenter-le-depart-des-emirats-arabes-unis_6685225_3234.html
 https://www.lemonde.fr/economie/article/2026/05/04/comment-l-onde-de-choc-de-l-inflation-se-propage-a-tous-les-secteurs-economiques-europeens_6685342_3234.html
 https://www.lemonde.fr/economie/article/2026/05/04/le-fabricant-de-batteries-francais-acc-en-difficulte-face-a-la-concurrence-chinoise-change-de-patron_6685348_3234.html
+https://www.lemonde.fr/economie/article/2026/05/06/cryptomonnaies-la-tech-americaine-veut-sauver-le-monde-grace-a-l-ia-et-en-equipe-reduite_6686097_3234.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/01/les-chinois-qui-avaient-mise-sur-l-iran-pris-dans-l-incertitude-de-la-guerre_6675855_6325529.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/23/en-cisjordanie-et-a-gaza-la-france-veut-que-le-gouvernement-israelien-change-sa-politique_6682784_6325529.html
 https://www.lemonde.fr/idees/article/2026/01/31/la-souverainete-fiscale-n-est-pas-une-question-technique-mais-un-enjeu-de-pouvoir-politique_6664881_3232.html
@@ -2695,6 +2724,7 @@ https://www.nature.com/articles/s41598-026-46701-9
 https://www.nature.com/articles/s41598-026-46722-4
 https://www.nature.com/articles/s41598-026-46770-w
 https://www.nature.com/articles/s41598-026-46779-1
+https://www.nature.com/articles/s41598-026-46832-z
 https://www.nature.com/articles/s41598-026-46841-y
 https://www.nature.com/articles/s41598-026-46872-5
 https://www.nature.com/articles/s41598-026-46908-w
@@ -2825,11 +2855,14 @@ https://www.nature.com/articles/s41598-026-50884-6
 https://www.nature.com/articles/s41598-026-50924-1
 https://www.nature.com/articles/s41598-026-50980-7
 https://www.nature.com/articles/s41598-026-51059-z
+https://www.nature.com/articles/s41598-026-51136-3
+https://www.nature.com/articles/s41598-026-51212-8
 https://www.nature.com/articles/s41598-026-51224-4
 https://www.nature.com/articles/s41598-026-51316-1
 https://www.nature.com/articles/s41598-026-51405-1
 https://www.nature.com/articles/s41598-026-51707-4
 https://www.nature.com/articles/s41598-026-51874-4
+https://www.nature.com/articles/s41598-026-51892-2
 https://www.nature.com/articles/s41598-026-51935-8
 https://www.nature.com/articles/s41612-026-01374-z
 https://www.nature.com/articles/s41746-026-02445-4
@@ -3299,6 +3332,8 @@ https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-c
 https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/
 https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/
 https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/
+https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/
+https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/
 https://www.usinenouvelle.com/aero-spatial/aeronautique/dassault-aviation/scaf-commandes-record-rupture-technologique-lmb-aerospace-et-renault-les-dossiers-chauds-du-nouveau-patron-de-la-dga.YKF6CDVTRBG2BJJ5DJZMSCK23M.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/embraer/aeronautique-le-taxi-volant-du-bresilien-embraer-engrange-les-commandes-et-sapproche-de-son-exploitation-commerciale.VM664AM2DZDCLLFZE6EVS5V25Y.html
 https://www.usinenouvelle.com/aero-spatial/aeronautique/helicoptere/chez-optima-aero-sandra-bernard-fait-rimer-le-demantelement-dhelicopteres-avec-leconomie-circulaire.A5CW3A6GZZODVNKQFTID3CF3PE.html
