@@ -27,6 +27,7 @@ https://content.knowledgehub.wiley.com/a-guide-to-selecting-adhesives-for-medica
 https://content.knowledgehub.wiley.com/breaking-boundaries-in-wireless-communication-simulating-animated-on-body-rf-propagation/
 https://content.knowledgehub.wiley.com/energy-in-motion-unlocking-the-interconnected-grid-of-tomorrow/
 https://content.knowledgehub.wiley.com/setting-new-performance-standards-with-ieee-802-11bn-an-in-depth-overview-of-wi-fi-8/
+https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/
 https://ec.europa.eu/commission/presscorner/detail/de/statement_26_891
 https://ec.europa.eu/commission/presscorner/detail/en/ac_26_413
 https://ec.europa.eu/commission/presscorner/detail/en/ac_26_430
@@ -48,6 +49,9 @@ https://ec.europa.eu/commission/presscorner/detail/en/fs_26_737
 https://ec.europa.eu/commission/presscorner/detail/en/inf_26_115
 https://ec.europa.eu/commission/presscorner/detail/en/inf_26_679
 https://ec.europa.eu/commission/presscorner/detail/en/inf_26_720
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1004
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1024
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1026
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_214
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_232
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_271
@@ -146,6 +150,8 @@ https://ec.europa.eu/commission/presscorner/detail/en/ip_26_941
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_942
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_945
 https://ec.europa.eu/commission/presscorner/detail/en/ip_26_978
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_997
+https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1030
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_272
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_301
 https://ec.europa.eu/commission/presscorner/detail/en/mex_26_311
@@ -205,6 +211,8 @@ https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_953
 https://ec.europa.eu/commission/presscorner/detail/en/read_26_513
 https://ec.europa.eu/commission/presscorner/detail/en/read_26_525
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1002
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1016
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1028
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_270
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_276
 https://ec.europa.eu/commission/presscorner/detail/en/speech_26_278
@@ -362,6 +370,7 @@ https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gaza
 https://ecfr.eu/article/escaping-the-special-relationship-how-britain-can-leave-its-dangerous-dependency-on-trumps-america/
 https://ecfr.eu/article/europe-mauritania-and-the-gulf-states-securing-stability-and-growth-in-the-sahel/
 https://ecfr.eu/article/european-silence-on-us-iran-tensions-exposes-cracks-in-un-charter-defence/
+https://ecfr.eu/article/europes-electrification-race-five-ways-the-eu-can-avoid-the-next-energy-crisis/
 https://ecfr.eu/article/europes-far-right-is-divided-on-the-iran-war-thats-an-opportunity-for-the-political-centre/
 https://ecfr.eu/article/five-steps-to-stop-greenlands-annexation-destroying-the-eu/
 https://ecfr.eu/article/four-principles-for-an-eu-hungary-reset/
@@ -382,11 +391,13 @@ https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-
 https://ecfr.eu/article/letter-from-washington-why-james-talarico-may-be-the-future-of-democratic-foreign-policy/
 https://ecfr.eu/article/lost-in-processing-why-made-in-europe-needs-an-africa-strategy/
 https://ecfr.eu/article/love-actually-washingtons-current-relationship-with-britain-is-more-like-contempt-actually/
+https://ecfr.eu/article/magyars-mandate-six-insights-from-a-post-election-hungary/
 https://ecfr.eu/article/mali-and-car-looking-for-different-partners/
 https://ecfr.eu/article/merz-in-beijing-a-chance-to-flip-chinas-stability-narrative/
 https://ecfr.eu/article/nuuk-lear-standoff-why-the-us-and-europe-should-cooperate-on-missile-defence-in-the-arctic/
 https://ecfr.eu/article/ore-and-order-russias-rare-earth-strategy-for-the-ukraine-talks/
 https://ecfr.eu/article/pivoting-in-plain-sight-chinas-stealthier-geo-economics/
+https://ecfr.eu/article/power-couple-how-south-korea-fits-in-europes-battery-strategy/
 https://ecfr.eu/article/radevs-way-what-europe-can-expect-from-bulgarias-new-political-constellation/
 https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/
 https://ecfr.eu/article/sowing-discord-how-russia-is-making-the-most-of-a-global-fertiliser-shortage/
@@ -449,6 +460,7 @@ https://ecfr.eu/publication/the-new-right-anatomy-of-a-global-political-revoluti
 https://ecfr.eu/special/iran-nuclear-monitor/assessing-the-damage-to-the-nuclear-programme/
 https://ecfr.eu/special/iran-nuclear-monitor/the-nuclear-programme-before-june-2025/
 https://ecfr.eu/special/mapping_palestinian_politics/husni-al-mughni/
+https://ecfr.eu/special/mapping_palestinian_politics/mohammad-daajna/
 https://ecfr.eu/special/mapping_palestinian_politics/rami-tawfiq-helles/
 https://ecfr.eu/special/mapping_palestinian_politics/usama-al-saydawi/
 https://electrek.co/2026/01/23/china-shuts-down-elon-musks-claim-that-tesla-fsd-will-be-approved-next-month/
@@ -536,6 +548,7 @@ https://semiengineering.com/automated-multiphysics-for-successful-3d-ic-design/
 https://semiengineering.com/automotive-week-in-review-2/
 https://semiengineering.com/autonomous-driving-assessment-of-yolo-algorithms-rmit-et-al/
 https://semiengineering.com/batteries-charge-to-the-edge/
+https://semiengineering.com/beyond-the-clinic-a-blueprint-for-developing-reliable-edge-ai-enabled-medical-devices/
 https://semiengineering.com/blog-review-apr-1/
 https://semiengineering.com/blog-review-apr-15/
 https://semiengineering.com/blog-review-apr-22/
@@ -669,6 +682,7 @@ https://semiengineering.com/tsv-complexity-leads-to-manufacturing-bottleneck/
 https://semiengineering.com/ultrafast-laser-filamentation-dictates-energy-deposition-in-narrow-gap-semiconductors/
 https://semiengineering.com/untrusted-analog-components-add-risks-for-critical-infrastructure/
 https://semiengineering.com/using-gate-all-around-transistors-instead-of-charge-sensors-to-simplify-qubit-readout-architecture/
+https://semiengineering.com/what-is-power-usage-effectiveness-pue-in-data-centers/
 https://semiengineering.com/why-more-cpus-are-needed-for-agentic-ai/
 https://semiengineering.com/why-proof-convergence-matters/
 https://semiengineering.com/world-first-macsec-ip-receives-iso-pas-8800-certification-for-automotive-and-physical-ai-security/
@@ -781,6 +795,7 @@ https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0j68jp6l4vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0l2w995p43o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c0lee3j122go?at_medium=RSS&at_campaign=rss
@@ -1140,6 +1155,7 @@ https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3exl1k247o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3g0k60g4do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss
@@ -1603,6 +1619,7 @@ https://www.just-auto.com/analyst-comment/middle-east-auto-sales-outlook-cut-for
 https://www.just-auto.com/analyst-comment/protons-2030-vision-navigating-its-ambitious-targets-and-strategy/
 https://www.just-auto.com/analyst-comment/siat-2026-engineering-signals-point-to-a-broader-more-disciplined-electric-vehicle-launch-cycle-in-india/
 https://www.just-auto.com/analyst-comment/tariffs-as-a-structural-constraint-how-us-trade-volatility-is-reshaping-hyundai-and-kias-production-strategy/
+https://www.just-auto.com/analyst-comment/the-commercial-vehicle-show-2026-electrification-and-decarbonization-accelerate-in-the-uk-cv-industry/
 https://www.just-auto.com/analyst-comment/uber-is-steering-towards-a-driverless-future/
 https://www.just-auto.com/analyst-comment/will-the-iran-crisis-derail-the-european-truck-markets-recovery-in-2026/
 https://www.just-auto.com/features/chinese-automakers-strengthen-their-presence-in-southeast-asia/
@@ -1763,6 +1780,7 @@ https://www.just-auto.com/news/horse-powertrain-installs-ai-inspection-system-fo
 https://www.just-auto.com/news/huawei-steps-up-its-investment-in-smart-driving-technologies/
 https://www.just-auto.com/news/hyundai-invest-won9tn-south-korea/
 https://www.just-auto.com/news/hyundai-kia-report-5-sales-growth-in-the-us/
+https://www.just-auto.com/news/hyundai-kias-us-vehicle-sales-decline-2-in-april/
 https://www.just-auto.com/news/hyundai-launches-battery-subscription-service-in-south-korea/
 https://www.just-auto.com/news/hyundai-launches-its-htwo-hydrogen-brand/
 https://www.just-auto.com/news/hyundai-launches-its-ioniq-bev-brand-in-china/
@@ -1802,12 +1820,14 @@ https://www.just-auto.com/news/kia-reports-23-drop-in-net-income-in-q1/
 https://www.just-auto.com/news/kia-totalenergies-extend-global-partnership/
 https://www.just-auto.com/news/lamborghini-posts-revenue-rise/
 https://www.just-auto.com/news/leapmotor-munich-overseas-innovation-centre/
+https://www.just-auto.com/news/lexus-unveils-new-battery-powered-tz-luxury-suv/
 https://www.just-auto.com/news/lg-energy-solution-swings-q1-loss/
 https://www.just-auto.com/news/lg-gm-lfp-ess-batteries-tennessee/
 https://www.just-auto.com/news/lg-innotek-automotive-wi-fi-7-supply-agreement/
 https://www.just-auto.com/news/lges-reports-net-loss-in-q1-on-ess-ramp-up/
 https://www.just-auto.com/news/li-auto-signs-new-distribution-deals-in-the-middle-east/
 https://www.just-auto.com/news/lucid-names-new-ceo-raises-1-05bn/
+https://www.just-auto.com/news/lucid-posts-q1-loss/
 https://www.just-auto.com/news/lucid-trims-us-workforce-12/
 https://www.just-auto.com/news/lyten-northvolts-swedish-battery-assets/
 https://www.just-auto.com/news/magna-posts-higher-q1-sales/
@@ -1873,6 +1893,7 @@ https://www.just-auto.com/news/philippine-vehicle-sales-fall-10-in-january/
 https://www.just-auto.com/news/philippine-vehicle-sales-fall-10-in-march/
 https://www.just-auto.com/news/philippine-vehicle-sales-fall-8-in-february/
 https://www.just-auto.com/news/pirelli-board-blocks-cyber-tyre-spin-off/
+https://www.just-auto.com/news/pirelli-cyber-tyre-manufacturing-georgia/
 https://www.just-auto.com/news/pirelli-meets-2025-targets/
 https://www.just-auto.com/news/plant-owned-by-a-hyundai-kia-engine-parts-supplier-destroyed-by-fire/
 https://www.just-auto.com/news/pony-ai-verne-and-uber/
@@ -1887,6 +1908,7 @@ https://www.just-auto.com/news/proton-enters-phev-segment-with-new-e-mas-7-varia
 https://www.just-auto.com/news/qcraft-raises-100m-autonomous-tech/
 https://www.just-auto.com/news/qualcomm-tata-tieup-automotive-module/
 https://www.just-auto.com/news/qualcomm-wayve-partner-aiadas-tech/
+https://www.just-auto.com/news/quantinuum-bmw-extend-quantum-computing-partnership/
 https://www.just-auto.com/news/rdw-tesla-full-self-driving-system/
 https://www.just-auto.com/news/renault-5-turbo-3e-to-be-fitted-with-in-wheel-motors/
 https://www.just-auto.com/news/renault-plans-global-engineering-jobs/
@@ -1948,6 +1970,7 @@ https://www.just-auto.com/news/toyota-begins-hybrid-battery-assembly-in-malaysia
 https://www.just-auto.com/news/toyota-circular-vehicle-recycling-facility-poland/
 https://www.just-auto.com/news/toyota-global-sales-fall/
 https://www.just-auto.com/news/toyota-honda-canadian-auto-manufacturing-alliance/
+https://www.just-auto.com/news/toyota-honda-report-weaker-us-sales-in-april-ytd/
 https://www.just-auto.com/news/toyota-indonesia-catl-battery-deal/
 https://www.just-auto.com/news/toyota-isuzu-agree-to-co-develop-hydrogen-fuel-cell-light-truck/
 https://www.just-auto.com/news/toyota-launches-battery-powered-pixis-small-van-in-japan/
@@ -2184,6 +2207,7 @@ https://www.lemonde.fr/economie/article/2026/05/02/donald-trump-relance-la-guerr
 https://www.lemonde.fr/economie/article/2026/05/03/petrole-l-opep-augmente-ses-quotas-comme-prevu-sans-commenter-le-depart-des-emirats-arabes-unis_6685225_3234.html
 https://www.lemonde.fr/economie/article/2026/05/04/comment-l-onde-de-choc-de-l-inflation-se-propage-a-tous-les-secteurs-economiques-europeens_6685342_3234.html
 https://www.lemonde.fr/economie/article/2026/05/04/le-fabricant-de-batteries-francais-acc-en-difficulte-face-a-la-concurrence-chinoise-change-de-patron_6685348_3234.html
+https://www.lemonde.fr/economie/article/2026/05/06/appel-a-la-greve-unitaire-a-la-sncf-le-10-juin-les-federations-cheminotes-declarent-l-etat-d-urgence-face-a-la-multiplication-des-drames_6686173_3234.html
 https://www.lemonde.fr/economie/article/2026/05/06/cryptomonnaies-la-tech-americaine-veut-sauver-le-monde-grace-a-l-ia-et-en-equipe-reduite_6686097_3234.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/01/les-chinois-qui-avaient-mise-sur-l-iran-pris-dans-l-incertitude-de-la-guerre_6675855_6325529.html
 https://www.lemonde.fr/guerre-au-proche-orient/article/2026/04/23/en-cisjordanie-et-a-gaza-la-france-veut-que-le-gouvernement-israelien-change-sa-politique_6682784_6325529.html
@@ -2671,6 +2695,7 @@ https://www.nature.com/articles/s41598-026-45086-z
 https://www.nature.com/articles/s41598-026-45176-y
 https://www.nature.com/articles/s41598-026-45184-y
 https://www.nature.com/articles/s41598-026-45185-x
+https://www.nature.com/articles/s41598-026-45211-y
 https://www.nature.com/articles/s41598-026-45220-x
 https://www.nature.com/articles/s41598-026-45235-4
 https://www.nature.com/articles/s41598-026-45262-1
@@ -2728,6 +2753,7 @@ https://www.nature.com/articles/s41598-026-46832-z
 https://www.nature.com/articles/s41598-026-46841-y
 https://www.nature.com/articles/s41598-026-46872-5
 https://www.nature.com/articles/s41598-026-46908-w
+https://www.nature.com/articles/s41598-026-46910-2
 https://www.nature.com/articles/s41598-026-46948-2
 https://www.nature.com/articles/s41598-026-47011-w
 https://www.nature.com/articles/s41598-026-47066-9
@@ -2836,6 +2862,7 @@ https://www.nature.com/articles/s41598-026-50127-8
 https://www.nature.com/articles/s41598-026-50158-1
 https://www.nature.com/articles/s41598-026-50226-6
 https://www.nature.com/articles/s41598-026-50247-1
+https://www.nature.com/articles/s41598-026-50250-6
 https://www.nature.com/articles/s41598-026-50257-z
 https://www.nature.com/articles/s41598-026-50390-9
 https://www.nature.com/articles/s41598-026-50398-1
@@ -2853,6 +2880,7 @@ https://www.nature.com/articles/s41598-026-50841-3
 https://www.nature.com/articles/s41598-026-50873-9
 https://www.nature.com/articles/s41598-026-50884-6
 https://www.nature.com/articles/s41598-026-50924-1
+https://www.nature.com/articles/s41598-026-50932-1
 https://www.nature.com/articles/s41598-026-50980-7
 https://www.nature.com/articles/s41598-026-51059-z
 https://www.nature.com/articles/s41598-026-51136-3
@@ -2860,10 +2888,12 @@ https://www.nature.com/articles/s41598-026-51212-8
 https://www.nature.com/articles/s41598-026-51224-4
 https://www.nature.com/articles/s41598-026-51316-1
 https://www.nature.com/articles/s41598-026-51405-1
+https://www.nature.com/articles/s41598-026-51661-1
 https://www.nature.com/articles/s41598-026-51707-4
 https://www.nature.com/articles/s41598-026-51874-4
 https://www.nature.com/articles/s41598-026-51892-2
 https://www.nature.com/articles/s41598-026-51935-8
+https://www.nature.com/articles/s41598-026-52164-9
 https://www.nature.com/articles/s41612-026-01374-z
 https://www.nature.com/articles/s41746-026-02445-4
 https://www.nature.com/articles/s41746-026-02481-0
